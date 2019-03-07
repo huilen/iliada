@@ -1,0 +1,73 @@
+v. 5, todas: como la mayoría de los editores modernos, optamos por πᾶσι en lugar de la variante δαῖτα, por las mismas razones que West, Studies, ad loc.
+
+v. 11, a aquel, a Crises: τὸν Χρύσην ha sido criticado por mucho tiempo como un giro no-homérico (cf. West, Studies, ad loc.). Sería así si se tomara como el artículo, pero esta no es la única alternativa, puesto que puede estar con su valor habitual de pronombre con un valor catafórico (“de presentación”, como sugiere Chant. 2.162, 165. Nuestra traducción refleja este valor, que parece coherente con el estilo oral homérico.
+
+v. 20, querida preciada?: La idea equivocadamente extendida de que φίλος funciona como un pronombre posesivo en la poesía homérica es un prejuicio filológico insostenible, como ha demostrado Robinson, D. (1990) “Homeric φίλος. Love of Life and Limbs, and Friendship with One’s θυμός” (en Craik, E. M. (ed.) ‘Owls to Athens’. Essays on Classical Subjects Presented to Sir Kenneth Dover, Oxford: Clarendon Press, 97-108). Siguiendo el análisis del autor, lo traducimos a veces por el simple “querido/a” y a veces por “preciado/a”, dependiendo del tipo de relación implicada entre las partes. En cualquier caso, la palabra señala siempre que una persona u objeto es apreciada por otra, no una mera posesión.
+
+v. 68, Y aquel, habiendo hablado así, se sentó: omitimos el ἄρ[α] aquí porque su traducción dejaría una línea demasiado larga y su sentido (sobre el cual, VER Nota ad loc.) no se conservaría de todos modos. Es un caso excepcional en nuestro enfoque que se esfuerza por preservar todos los marcadores discursivos, que se da lamentablemente en una fórmula común.
+
+v. 85, Atrévete a todo: traducimos con este giro la frase θαρσήσας μάλα, respetando la semántica y el sentido pragmático del participio a costa de alterar la sintaxis del griego. La alternativa “atreviéndote a todo” es más fiel a la morfosintaxis del original, sin duda, pero debilita mucho la fuerza de este comienzo de discurso con el que Aquiles intenta dar confianza a Calcas.
+
+v. 97, devastación: adoptamos la lectura de Aristarco, con la mayoría de los editores modernos (contra West). La traducción del texto que dan la mayoría de los manuscritos (οὐδ’ ὅ γε πρὶν λοιμοῖο βαρείας χεῖρας ἀφέξει) sería “él no quitará las pesadas manos de la plaga”.
+
+v. 122, el más angurriento: el hápax φιλοκτεανώτατε es de difícil traducción; la habitual interpretación “codicioso” tiene connotaciones negativas que, como observan los comentaristas, no parecen adecuadas para la sociedad heroica. Como en otros casos, hemos interpretado la unicidad del término como una oportunidad para utilizar palabras inhabituales en traducciones homéricas; “angurriento” busca conservar la suave reprimenda de Aquiles (VER Nota ad loc.), sin caer en la acusación moralista de las traducciones usuales.
+
+v. 126, otra vez: el hápax παλίλλογα parece implicar literalmente “juntados de nuevo”, pero el sentido es imposible de conservar en español sin una considerable paráfrasis. Hemos preferido, por eso y contra nuestra conducta en la mayor parte de los casos, no conservar en este verso la redundancia homérica.
+
+vv. 133-134, acaso quieres…: la reconocida dificultad sintáctica de estos dos versos se conserva en español; el estilo trabado de Agamenón (que se repetirá varias veces en este canto) parece más producto de su enojo que de una extraña maestría con las palabras. Justificarlo a partir del estilo paratáctico homérico, aunque verosímil, resulta insatisfactorio, dado que este tipo de interrupciones son infrecuentísimas y no están localizadas en lugares arbitrarios.
+
+v. 136, de modo que sea equivalente: entendemos la construcción como final, pero reproducimos en español la ambigüedad del ὅπως en el pasaje con la traducción “de modo que…”.
+
+v. 137, y yo mismo lo agarro: δέ y el comienzo del verso 139 sugieren que esta frase debe tomarse como una parentética o una aclaración sobre lo que pasará si Agamenón no recibe el botín, más que como una segunda parte de la condicional.
+
+v. 138, el botín, yendo: sin duda la construcción es más trabada en español que en griego, donde el orden de palabras es más libre, pero entendemos que el retorcimiento sintáctico es adecuado al contexto del discurso de Agamenón.
+
+v. 139, lo agarro y me lo llevo: la traducción literal sería "lo conduciré habiéndolo tomado", y es la que hemos contemplado como más "apropiada" respecto al original. Sin embargo, el tono del pasaje, el hecho de que los presentes tienen en español una "futuridad" implícita y el que el participio aoristo aquí sólo indica temporalidad que se conserva en la coordinación, hemos preferido la más coloquial que dejamos. Además, el breve y contundente final de la frase de Agamenón sólo puede preservarse de esta manera.
+
+v. 149, ¡Ahhh…!: la traducción habitual “¡Ay de mí!” para ὤ μοι tiene dos grandes defectos: no refleja la fuerte expresión de indignación en el original griego y ha perdido todo valor como expresión oral verdadera en español, quedando como una forma anquilosada para textos “clásicos”. No hemos hallado una solución del todo satisfactoria, pero nuestra traducción al menos conserva el fuerte valor expresivo del original.
+
+v. 161, y para colmo: traducimos con este giro el enfático καὶ δή del discurso de Aquiles.
+
+v. 163, Nunca jamás: traducimos con este giro οὐ μὲν ποτε, entendiendo el μὲν como enfático.
+
+v. 173, Adelante, huye: la frase corresponde al imposible φεῦγε μάλ[α], literalmente “huye mucho”, pero casi con certeza un gesto de desprecio por parte de Agamenón ante la amenaza de Aquiles.
+
+v. 180, tus mirmidones: traducimos con el posesivo para preservar el sentido que parecen tener estas palabras de Agamenón, sobre el cual VER Nota ad 1.178. Si bien no es la interpretación más sencilla del griego, es claro que es una traducción admisible.
+
+v. 202, Por qué: el énfasis proviene del αὖτ[ε], que entendemos aquí como marcando el valor retórico de la pregunta. Como demuestra el verso que sigue, Aquiles no está realmente preguntándose la razón por la que Atenea bajó del Olimpo.
+
+v. 205, perderá la vida: contra nuestra costumbre habitual de preservar la traducción de las palabras, traducimos aquí θυμός por “vida”, puesto que la frase θυμὸν ὀλέσσῃ no parece ser más que una variante métrica de ὀλέσσῃ ψυχήν y utilizar “perderá el ánimo” se presta a la interpretación equivocada “quedará desanimado”.
+
+v. 211, cómo en realidad será: la frase ὡς ἔσεταί περ podría ser una comparativa, con el sentido de “repróchale, que es lo que realmente va a pasar” y objeto del imperativo, con el sentido de “dile lo que realmente va a pasar”. Hemos optado por la segunda alternativa, pero debe notarse que la desambiguación en español se halla únicamente en la forma escrita, a través de la tilde en “cómo”.
+
+v. 238, los que cultivan la justicia: traducimos con esta paráfrasis la rara palabra griega δικασπόλοι, que no tiene equivalente posible en español. Se trata de un compuesto de δίκη y πέλω, de la raiz IE -kuolos, que da en latín colere, es decir, “cultivar” y se haya en otros compuestos activos como βουκόλος (“boyero”) y αἰπόλος (“cabrero”); Cf. Risch 197.. Se suele entender que el sentido de la palabra está explicado por la relativa que sigue. 
+
+v. 250, hombres meropes: La etimología tradicional de μερόψ, que daba “hombres de voz articulada” ha sido rechazada por Leaf (ad loc.) y hoy no es aceptada por casi ningún crítico, pero no se ha hallado una alternativa viable (cf. Kirk I, ad loc. para un resumen de la cuestión). Fuera cual fuera su sentido original, es claro que para la época de composición del poema es una forma alargada de decir “seres humanos”. Transliterar el término puede resultar algo chocante para el lector, pero no es más que una forma de recuperar la experiencia de los propios griegos respecto al adjetivo, que lo entendían como parte de la fórmula sin conocer su verdadero significado.
+
+v. 254, ¡Ay, ay!: la traducción de la interjección ὦ πόποι, que se utiliza para expresar sentimientos negativos y, como se observa en Com. Bas. I ad loc., muchas veces para introducir reprimendas.
+
+v. 260, incluso más que ustedes: la frase ἠέ περ ὑμιν parece una parentética para enfatizar el valor de la experiencia de Néstor, y así la hemos traducido. Es notable la acumulación de seis “partículas” (ἤδη, γάρ, ποτ[ε], καί, ἠέ y περ) en un único verso.
+
+v. 283-284, que grande…: por primera vez en el poema rompemos la unidad del hexámetro, dado el hipérbaton extremo en la frase μέγα πᾶσιν ἕρκος Ἀχαιοῖσιν … πολέμοιο κακοῖο. Es particularmente lamentable la pérdida con este cambio de la repetición del verso 1.78 (VER Nota ad 1.283). Sobre la frase, cf. http://panini.northwestern.edu/AnaServer?eumaios+0+eumaios.anv+eumaiosid=RL25366.
+
+v. 286, según la moira: una de las decisiones más difíciles que hemos debido tomar ha sido cómo traducir esta expresión típica del griego que quiere decir “como es debido” pero implica mucho más que eso, dado que incluye el fundamental concepto de μοῖρα. Hemos optado por transliterar el giro y explicarlo en una nota, sacrificando inteligibilidad pero preservando el sentido profundo de la expresión.
+
+v. 291, le atribuyen: el difícil προθέουσιν complejiza la traducción del verso. Contra Aristarco, que lo interpreta como una forma de προθέω con ὀνείδεα como sujeto (acaso con el sentido “los insultos corren hacia delante para él”), hemos interpretado con la mayor parte de los críticos que es una forma de subjuntivo de προτίθημι ο προσίημι (cf. Com. Bas. I ad loc.) y utilizado una traducción que podría corresponder a cualquiera de los dos verbos, aunque ninguno de los dos ofrece un sentido adecuado para el presente pasaje en esta construcción en voz activa + dativo e infinitivo.
+
+v. 316, ruidoso: adoptamos la interpretación de A. Leukart, “Homerisch ἀτρύγετος” (en A. Etter (ed.) o-o-pe-ro-si. Festschrift für Ernst Risch zum 75. Geburstag, Berlin: de Gruyter, 340-345), que propone que el adjetivo es un compuesto de α-copulativa o con valor aumentativo y *τρυγετός (sustantivo de acción del verbo τρύζω).
+
+v. 325: seguimos aquí la puntuación de West, entendiendo lo que sigue a la coma como la apódosis de εἰ δέ κε μὴ δώῃσιν.
+
+v. 344, combatiesen: Seguimos a West y a Com. Bas. I ad loc. en la lectura μαχεοίατ’, interpretando la construcción con ὄπως como final (cf. Chant. 2.271); la alternativa sería entenderla como objeto de νοῆσαι en el v. 343, lo que daría “no saber ver… cómo combatirían (¿harían para combatir?) etc.”. El sentido no varía lo suficiente como para decidirse por una opción u otra; hemos optado por la final porque resulta menos violenta como afterthough.
+
+v. 482, purpúreo: Hemos optado por la interpretación de Leaf del adjetivo πορφύρεον en este verso (VER Nota ad loc.), contra la posibilidad de entenderlo en el sentido alternativo de “hinchado”, “revuelto”. Ambas opciones son perfectamente aceptables, sin embargo, y nuestra decisión se basa en el valor poético y visual de la traducción elegida.
+
+v. 497, con la primera niebla: ἠερίη puede querer decir “temprano por la mañana” o funcionar como sinónimo de ἠυτ’ ὀμίχλη (1.359), como observa Leaf. Chant., Dict. s.v. distingue una palabra derivada de ἀήρ de otra derivada del adverbio ἦρι (como en ἠριγένεια). Nuestra traducción busca conservar en la medida de lo posible la ambigüedad del término, manteniendo en la referencia temporal la mención de la niebla.
+
+v. 518, que: EXPLICAR TRADUCCIÓN
+
+v. 520, ya de por sí: Seguimos la interpretación del καὶ αὔτως de Leaf (ad loc.), “even as it is”.
+
+v. 526, la mía: Contra Kirk I (ad 1.525-527) y Leaf (ad loc.), no parece plausible pensar en otro antecedente para ἐμόν más que el casi inmediato τέκμωρ. Seguimos, de todos modos, la interpretación de Com. Bas. I, que lo entienden como un pronombre sustantivado, lo que, en este caso, mantiene la ambigüedad respecto al referente (“señal”, “palabra” o “promesa”).
+
+v. 533, Zeus fue: La combinación del inusual hiato δὲ ἑὸν y el hecho de que la ausencia de verbo supondría reponer una forma de ἄλλομαι, lo que no tiene demasiado sentido, nos han llevado a esta traducción simplificada, siguiendo a Com. Bas. I (ad loc.) que entienden aquí ἆλτο = ἔβη (lo que, por supuesto, no tiene ningún tipo de apoyo en el uso regular del verbo).

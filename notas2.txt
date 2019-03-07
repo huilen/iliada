@@ -1,0 +1,952 @@
+Verso 1
+Cólera: La palabra mênis abre el poema y define, como es habitual en la poesía épica, su tema, es decir, la ira de Aquiles y sus consecuencias.
+Canta: Debe recordarse que la poesía épica era cantada con el acompañamiento de la lira y una melodía que probablemente estuviera basada en el acento tonal del griego antiguo. Algunos autores también vinculan el verbo aeíde con la figura del aedo como creador de la canción, frente al “rapsoda” que sería un mero repetidor de canciones ya compuestas. No hay, sin embargo, evidencia clara de que semejante oposición existiera para los griegos.
+Diosa: La musa, invocada a menudo en singular y fuente de inspiración del rapsoda épico. Aunque no hay acuerdo entre los críticos respecto a cuál es exactamente el papel de la musa en la elaboración del poema, es claro que la veracidad de lo narrado depende de alguna manera del hecho de que ella es su fuente.
+Aquiles: El protagonista de Ilíada aparece aquí definido por su patronímico, “Pelida”, es decir, “hijo de Peleo”. Más allá del carácter formulaico de la alusión, no debe restarse importancia al hecho de que es un recordatorio temprano en el texto de la ascendencia divina del héroe en dos sentidos: la mención de Peleo remite inmediatamente a Tetis, la diosa marina madre de Aquiles (VER ad 1.351) y, Peleo es hijo de Eaco, hijo a su vez de Zeus.
+
+Verso 2
+Aqueos: La denominación habitual para los griegos, cuyo origen preciso es desconocido. Se acepta hoy la vinculación con la palabra “Ahhiyawa”, que aparece en tabletas hititas aludiendo a un pueblo extranjero.
+
+Verso 3
+Vidas: El concepto de psyché es de enorme complejidad en griego antiguo. En pocas palabras, puede afirmarse que evoluciona desde la noción semi-biológica de hálito o fuerza vital hasta la más contemporánea de alma. Es poco claro en qué etapa del desarrollo se encuentran los poemas homéricos, donde perder la psyché es equivalente a morir, esta tiene una existencia independiente en el Hades, pero esa existencia no retiene características fundamentales que se poseen en vida (como la voz).
+Hades: El mundo de los muertos en la cultura griega, que tiene un lugar mucho más prominente en Odisea (canto IX). A diferencia de lo que sucede en religiones como el cristianismo, en el Hades no hay distinción entre buenas y malas personas: todas las almas sufren en él el mismo destino. Esta concepción, sin embargo, no es uniforme a lo largo de la cultura griega y sabemos de diversos cultos mistéricos que prometían a los iniciados lugares privilegiados en el mundo de los muertos.
+
+Verso 4
+Héroes: El concepto de “héroe” en la poesía homérica y en general en la cultura griega es distinto del habitual en la nuestra fundamentalmente por su carácter religioso. Un héroe no es solo una persona que realiza acciones extraordinarias, sino también alguien capaz de continuar protegiendo o ayudando después de la muerte. En ese sentido, podría vincularse con la idea moderna de “santo”, en particular respecto a santos populares que no se caracterizan por su estatus moral sino por su carácter de fuerzas sobrenaturales protectoras. La conexión se manifiesta, entre otras cosas, en el hecho de que las reliquias de los héroes (sus huesos o sus armas) eran consideradas poderosos talismanes. Poemas épicos como Ilíada eran fundamentales entre los griegos para establecer y preservar los cultos heroicos de figuras como Aquiles, algo que, además, era de particular interés para la nobleza de épocas posteriores que, con fines propagandísticos, solía remontar sus orígenes a los héroes de la época micénica.
+Ellos mismos: La distinción entre las “vidas” de los héroes y los héroes mismos no debe hacer pensar en una concepción del alma como la cristiana (VER ad 1.3), sino todo lo contrario. Es solo la vida, el hálito vital lo que baja al Hades, mientras que la persona permanece en la tierra. Esto es importante sobre todo cuando se piensa en la veneración y poderes mágicos que durante toda la Antigüedad se atribuyeron a los restos materiales de figuras prominentes, en particular de quienes reciben culto heroico.
+Perros: En Ilíada, la figura del perro es usualmente negativa, sinónimo de una muerte desgraciada, puesto que estos animales (como las aves del verso siguiente) solían devorar los cadáveres abandonados en el campo de batalla, lo que constituía una afrenta terrible. Esta no es, por supuesto, la única concepción de los perros en la Grecia Antigua (basta pensar en el fiel Argo en Odisea), pero es la más habitual en un poema que se ocupa casi exclusivamente de la guerra.
+
+Verso 5
+Zeus: Zeus es el dios principal del panteón griego, “padre de hombres y de dioses”. Aunque a veces su poder se presenta como absoluto, en realidad estaba limitado por la “moira”, un concepto complejo que puede entenderse como una combinación de “el orden de las cosas” y “el destino”. Zeus es hijo de Crono (de ahí la designación “Cronida”) y Rea, ambos hijos de Urano (el cielo) y Gea (la tierra); está casado con su hermana Hera, junto con la que es padre de Hefesto y Ares, pero tiene otros hijos, incluyendo los olímpicos Apolo y Ártemis (hijos de la diosa Leto) y Atenea (en general considerada hija de la diosa Metis, aunque nacida de la cabeza de Zeus después de que este devorara a su madre; VER ad 1.175). Zeus también engendró numerosos hijos en mujeres mortales, el más famoso de los cuales es Heracles.
+El designio de Zeus: Los críticos han debatido mucho sobre el alcance de este designio, a veces traducido como el “plan” de Zeus. Para algunos, se limita a la victoria de los troyanos, por lo que terminaría en el canto XVIII, cuando Aquiles decide regresar a la batalla. Para otros, se refiere a la totalidad de los eventos de Ilíada. Otros lo vinculan con un relato mítico que conservan otras fuentes, según el cual la diosa Gea, es decir, la tierra, le pide a Zeus (su nieto) que reduzca el peso de los seres humanos sobre ella, por lo que este decide desencadenar la guerra de Troya para hacerlo.
+
+Verso 7
+el Atrida: Agamenón, el rival de Aquiles en Ilíada y el líder del ejército aqueo, era hijo de Atreo, hijo de Pélope, hijo de Tántalo, hijo de Zeus. Era rey de Micenas, la ciudad más poderosa del mundo griego de la época, y por eso actúa como jefe de todo el ejército de coalición que invade Troya. Homero no parece tener de él una mirada demasiado positiva, algo que se manifiesta en forma sutil en la forma en que lo caracteriza a lo largo del poema.
+soberano de varones: La fórmula destaca el rasgo más importante de Agamenón y parece contrastar con el epíteto “divino” de Aquiles. Es cierto que los dos epítetos son genéricos y se aplican a otros héroes, pero la decisión de utilizar estos dos precisamente en el cierre del proemio parece demasiado adecuada para ser accidental. Por lo demás, sin lugar a dudas no habría sido percibida como aleatoria por la audiencia.
+
+Verso 8
+Cuál de los dioses…: Es habitual en el pensamiento homérico atribuir las acciones humanas a una decisión de los dioses. Esto en general no elimina la responsabilidad individual, aunque a veces es utilizado como excusa por los héroes (el ejemplo más famoso es el de Agamenón en Il. XVIII).
+
+Verso 9
+El hijo de Leto y de Zeus: Apolo, dios polifacético bajo cuya protección se encontraban las artes, la medicina y los oráculos. En Ilíada es uno de los principales defensores del bando troyano. Es importante destacar que, como suele suceder con los dioses griegos, la misma figura está asociada a un aspecto positivo de un área de influencia, como la medicina, y a uno negativo, como la peste. Su madre, Leto, era hija de los titanes Ceo y Febe (prima de Zeus, por lo tanto) y, cuando estuvo embarazada de Apolo y Ártemis, Hera amenazó con castigar a cualquier lugar del mundo que le permitiera parir en él. Solo la pequeña isla de Delos (una de las Cícladas en el mar Egeo, que hasta ese momento era una isla “flotante”) osó resistir la amenaza, por lo que se convirtió en uno de los centros principales del culto de Apolo.
+
+Verso 10
+Las tropas: La palabra laós se refiere en griego al pueblo en su conjunto, sin distinción de clases. Εn Ilíada, dado el contexto bélico del poema, se utiliza en general para las tropas, como hemos traducido. De todos modos y tras revisar las instancias, hemos retenido “tropas” para los casos en los que la palabra aparece en plural y “pueblo” para los casos en los que aparece en singular.
+
+Verso 11
+Crises: El personaje no tiene otras apariciones en la mitología griega y es probable que su nombre se derive de la localidad de la que proviene, Crisa, como el de su hija (Criseida) se deriva del de él. Es fundamental notar que el poeta destaca antes que cualquier otra cosa su condición de sacerdote, que se reiterará en los vv. 14-15, puesto que esto hace más grave la deshonra que le inflige Agamenón.
+
+Verso 12
+Las rápidas naves de los aqueos: Al llegar a la zona de Troya, los aqueos, preparados para un largo sitio, encallaron sus naves en tierra sobre la playa (el procedimiento se describirá más adelante VERSOS en este mismo canto) y construyeron su campamento delante de estas. Es común en Ilíada hablar de “las naves” cuando se hace referencia al campamento aqueo, parte de la técnica “visual” típica de Homero: si uno mirara hacia el campamento, las naves serían el elemento más evidente.
+
+Verso 13
+Un cuantioso rescate: Parte habitual de la actividad guerrera de la Antigüedad era la toma de prisioneros (hombres y mujeres sin distinción) y subsecuente pedido de rescate por ellos. Por eso, la llegada de Crises a las naves no debe entenderse como algo excepcional, sino como una práctica común del periodo. Esto también agrava la reacción del Atrida.
+
+Verso 14
+Las ínfulas de Apolo: No sabemos exactamente en qué consistían estas ínfulas, pero sin duda eran un símbolo reconocible y evidente del estatus de sacerdote de Crises.
+Apolo que hiere de lejos: Un epíteto habitual para un dios que se caracteriza por el uso del arco y en general por su capacidad de actuar a distancia.
+
+Verso 16
+Ambos Atridas: el otro Atrida es Menelao, rey de Esparta y esposo de Helena, por lo que era la principal parte ofendida de su rapto.
+
+Verso 17
+Aqueos de buenas grebas: Las grebas son la parte de la armadura que cubre desde el tobillo hasta la rodilla (como las canilleras modernas), que fueron un elemento esencial de la armadura en diversos periodos de la Grecia Antigua.
+
+Verso 18
+Olímpicas moradas: El Olimpo es la residencia de los dioses, ubicada por los griegos en el monte Olimpo, que se encuentra en el norte de la actual Grecia. Es la montaña más alta del país y la segunda de los balcanes, con 2919 m. de altura. En él los diferentes dioses tenían sus palacios y se reunían en asamblea para discutir los asuntos humanos.
+
+Verso 19
+La ciudad de Príamo: Troya. Príamo era su rey durante la invasión de los griegos, pero además fue el único sobreviviente de la casa real después de la primera invasión realiza en la generación anterior por Heracles.
+
+Verso 22
+Proclamaron todos los otros aqueos…: Otro elemento que hace más grave la afrenta de Agamenón, dado que todos los presentes reconocen que lo correcto es devolver a Criseida a su padre.
+
+Verso 28
+No sea que no te protejan…: Agamenón culmina su agravio al sacerdote explicitando que no le preocupa su estatus. Esto no es solo una amenaza a Crises, sino también a Apolo, dado que despreciar los símbolos de un dios es despreciar al dios mismo.
+
+Verso 30
+Argos: No se refiere a la ciudad de Argos, aunque esta ya existía en la época micénica, sino a lo que más tarde se llamaría “argólide”, es decir, la zona del noreste-este del peloponeso al sur de la península de Corinto, donde se hallaba Micenas.
+
+Verso 31
+el telar y el lecho: Las dos tareas habituales para una concubina, descriptas aquí vívidamente desde la perspectiva de Criseida (algo que parece agravar aun más el insulto).
+
+Verso 35
+Invocó…: La invocación y plegaria a los dioses era una actividad cotidiana entre los griegos, de donde acaso la aclaración “con fervor” (la palabra que traducimos es pollá, que entendemos con el verbo principal de la oración), que no se refiere al volumen de la súplica (para eso el griego utiliza megalá), sino a su intensidad emocional.
+
+Verso 36
+Leto: VER ad 9.
+
+Verso 37
+Escúchame…: La plegaria de Crises respeta la estructura tradicional del género. A una invocación para llamar la atención de uno o más dioses específicos, muchas veces identificando un aspecto puntual de ellos, sigue una argumentación para ganarse la buena voluntad (la cháris) del dios, que puede tomar varias formas, y se cierra con la formulación del pedido.
+
+Leer más: De Hoz, Ma. P. (1998) “Los himnos homéricos cortos y las plegarias cultuales”, Emerita 66, 1998, 49-66. 
+
+Arco de plata: Un rasgo típico de apolo, el dios arquero.
+Crisa: En la costa de Asia menor sobre el Egeo, al sur de Troya. Como se infiere del nombre, es el lugar de proveniencia del sacerdote Crises. Cerca del lugar donde se encuentra se han hallado restos de un templo de Apolo Esminteo.
+
+Verso 38
+Cila: En la costa de Asia menor, como Crisa mencionada en el v. 37.
+Ténedos: Una isla del Egeo, cercana a la costa de Asia menor, donde se dice que las tropas griegas se escondieron durante la estrategema del caballo. Nótese que los tres lugares que menciona Crises están en la misma zona, al sur de Troya y en su área de influencia.
+
+Verso 39
+Si alguna vez…: Es típico de la plegaria griega (como en muchos otros lugares) comenzar recordando al dios las buenas acciones que uno realizó por él en el pasado, para obtener su cháris, es decir, su buena voluntad.
+Esminteo: Un epíteto de Apolo de significado discutido. Suele entenderse como derivado de smínthos, que quiere decir “ratón”, con el sentido de “protector contra los ratones”. Existe también la posibilidad de que derive de un lugar llamado Esminte, en la Tróade.
+Cubrir un templo: Entiéndase, construir. El uso proviene de una época en la que los altares al aire libre no eran infrecuentes, por lo que “cubrirlos” era una contribución significativa para el dios.
+
+Verso 40
+Quemar muslos: Se describirá más adelante (1.447-474) con cierto detalle un sacrificio. Los griegos dedicaban a los dioses una parte de la carne que comían, en particular, los huesos y la grasa, con algunas pequeñas piezas de carne propiamente con valor simbólico.
+
+Verso 42
+Dánaos: Otro epíteto de los griegos en su conjunto, de origen desconocido pero registrado en jeroglíficos egipcios de los s. 14 y 15 a.C., donde se habla de Danaja.
+
+Verso 43
+Lo escuchó Febo Apolo: La fórmula es estándar en el cierre de plegarias e indica en general no solo que el dios ha escuchado el pedido sino también que cumplirá el o los deseos expresados (cuando no es así, lo contrario está explícitamente indicado, como en Il. 16.249-250).
+
+Verso 46
+Repicaron: La palabra en griego es éklanxan, que tiene un claro valor onomatopéyico respecto al sonido que realiza el arco al lanzar las flechas, comparable al “cling” del español. El efecto se repite en el v. 49 en la palabra klangé (“chasquido”).
+
+Verso 47
+Semejante a la noche: La imagen no se repite en Ilíada, aunque sí en Od. 11.606 y el Himno Homérico a Hermes 358. Es una marca del carácter siniestro de Apolo en esta secuencia.
+
+Verso 50
+Las mulas y los perros: No es del todo claro por qué el dios comienza por estos animales, pero parece probable entenderlo como un hecho basado en la experiencia en plagas verdaderas, que suelen comenzar afectando animales (cf. Tuc. II.50.1), y eran habituales en la Antigüedad, en particular en situaciones extremas como los campamentos militares o las ciudades sitiadas. 
+
+Verso 51
+Aquellos: Es típico del estilo homérico el uso de este tipo de deícticos sin referente inmediato, cuyo significado puede extraerse con relativa facilidad del contexto. Es dable pensar que el rapsoda contribuiría con inflexiones de la voz o gestos a la identificación de los referentes.
+
+Verso 52
+Siempre: Se reproduce en la traducción una ambigüedad en griego respecto a la dependencia del adverbio (aieí, en el original), que puede estar con el verbo “ardían” o con el adjetivo “amontonadas”, pero casi con seguridad debe entenderse con ambos (un fenómeno que se denomina “apò koinoû”).
+
+Verso 53
+Por nueve días: Nueve (como 12) es un número tradicional, no debe vincularse (como hicieron algunos exégetas antiguos) con ningún aspecto biológico real de una peste verdadera.
+
+Verso 54
+La asamblea: La agoré, que no es solo espacio físico como la palabra ágora en español (aunque adquirirá ese valor en épocas posteriores en griego antiguo), sino el “consejo” en el que los jefes discuten en igualdad de condiciones sobre los problemas del ejército. Es una institución fundamental en la épica que puede haber constituido una base para sistemas democráticos posteriores.
+Aquiles convoca al pueblo: Aunque no hay razones para pensar que esto constituyera una ruptura del procedimiento habitual, puesto que, por la naturaleza misma de la asamblea, cualquier líder debía ser capaz de convocarla, desde el punto de vista narrativo, el hecho de que sea Aquiles el que la convoca anticipa su enfrentamiento con Agamenón que, como el primus inter paris (el primero entre iguales) en el ejército, debía ser el que en general realizaría las convocatorias.
+
+Verso 55
+Las entrañas: Para los griegos de la Antigüedad, al menos hasta la época arcaica, la sede del pensamiento estaba localizada en las entrañas, no en la cabeza. El concepto abstracto de “mente”, para el que se utilizará la misma palabra que se halla en este verso (frén), se desarrolla más adelante. En nuestra traducción hemos preferido retener el modo de expresión arcaico.
+Hera: Hera es hijo de Cronos y Rea, hermana, por lo tanto, de Zeus y además su esposa. Era la diosa protectora de los matrimonios (lo que acaso explica su ira contra Paris, Helena y los troyanos). Junto con Atenea, es una de las principales defensoras de los aqueos en Ilíada.
+de blancos brazos: Como en otras épocas y lugares, en Grecia la blancura era un rasgos considerado bello entre las mujeres. Es notable que, en épocas posteriores, el blanco y el negro se utilizarían en las vasijas de cerámica para diferenciar los dibujos de mujeres y de hombres, respectivamente.
+
+Verso 57
+Se juntaron y estuvieron reunidos: Otro rasgo típico del estilo homérico son estas redundancias que contribuyen a la construcción de una escena. Nótese la sutil diferencia entre égerthen (“se juntaron”), que indica el movimiento hacia la asamblea, y homegerées génonto (“estuvieron reunidos”), que señala el estado logrado a partir de ese movimiento.
+
+Verso 58
+levantándose: La asamblea homérica tiene una dinámica institucionalizada que nunca se explica pero debía ser conocida por el público (VER ad 1.67). Todos los participantes están sentados en círculo y, cuando uno quiere la palabra, se levanta, toma un cetro que le permite hacer uso de ella, habla y luego se sienta. En ningún momento se vota y las decisiones se logran por consenso unánime e implícito. Es de imaginar que esta versión ficcional basada en lo que debió ser en algún momento una dinámica real no se corresponde con su modelo, puesto que la mayoría de las asambleas homéricas se conducen con notable orden y suelen llevar a un acuerdo de todos los participantes.
+Aquiles de pies ligeros: La primera aparición de este famoso epíteto del héroe, que señala su velocidad en batalla, en particular para perseguir a los enemigos que huían. Algunos comentaristas han notado la inadecuación del epíteto aquí, donde Aquiles está sentado y luego parado, sin correr a nadie, y la han explicado como un ejemplo más de la falta de significado real de los epítetos. Como siempre, sin embargo, existe una postura alternativa: en el comienzo de la discusión que desencadenará todo el conflicto del texto, el poeta introduce la fórmula más característica del héroe más importante del ejército griego, recordando al auditorio su importancia.
+
+Verso 59
+Ir errantes: La frase es tanto una analepsis (o “flashback”, una mirada al pasado), puesto que parte del mito troyano consiste en los problemas que los griegos tuvieron para efectivamente llegar a troya (desembarcan por error en Teutrania, en otro lugar de la costa de Asia menos), y una prolepsis, porque los nóstoi o “retornos” (el más famoso de los cuales es Odisea), donde se relataban los difíciles y muchas veces errantes regresos a sus lugares de origen de los héroes griegos, constituían una parte tradicional del mito de Troya.
+
+Verso 63
+Algún adivino o sacerdote o intérprete de sueños: La reacción puede parecer absurda desde una perspectiva contemporánea, pero será habitual a lo largo de toda la Antigüedad, puesto que se consideraba que los males de los hombres eran producto de la ira divina. Para solucionarlos el primer paso era identificar al dios que se había irritado con uno y el segundo reconocer la satisfacción que exigía: revelar esto era tarea de los adivinos y los sacerdotes. El procedimiento no es conceptualmente diferente a ir a un médico para que reconozca la enfermedad a partir de los síntomas y prescriba un tratamiento, aunque, por supuesto, se basa en el pensamiento mágico.
+El sueño viene de Zeus: Una frase que se conecta con el discurso de Aquiles en el canto XXIV, pero aquí justifica (ver la nota anterior) la inclusión de los intérpretes de sueños en el mismo grupo de los adivinos y los sacerdotes.
+
+Verso 64
+Por qué se irritó Febo Apolo: Aquiles revela aquí que los aqueos ya saben cuál es el dios responsable de sus males, y lo que resta es saber por qué se irritó para saber cómo apaciguarlo. La identificación de Apolo como causante de los males posiblemente debe atribuirse al hecho de que las pestes estaban asociadas a él (VER ad 1.9).
+
+Verso 65
+Un voto: Puede ser una promesa realizada al dios que no fue cumplida, una ofrenda debida al dios que no fue entregada o incluso de una jactancia de alguien que ofendió a Apolo (como en el caso de Ayax Oileo, que es castigado por Poseidón cuando, al volver de Troya, se jacta de ser capaz de resistir las tormentas a pesar de la voluntad de los dioses). La traducción, por supuesto, no puede retener la polisemia de la palabra griega euxolês.
+Una hecatombe: Se trata de un sacrificio de cien animales dedicado a un dios. La palabra es habitual en el contexto del rito, pero sin duda una matanza de semejante tamaño era inhabitualísima entre los griegos, cuya dieta contenía mucha menos carne que la que la Ilíada sugiere (algo, por lo demás, evidente dada la geografía del país). De hecho, en el propio poema ninguna hecatombe siquiera se aproxima a ese número.
+
+Verso 66
+El aroma de grasa: La palabra griega kníses se refiere específicamente a esto, que se consideraba parte de lo debido a los dioses como sacrificio. La cuestión es tematizada por Aristófanes en la comedia Aves, donde los protagonistas construyen una muralla entre la tierra y el Olimpo para que el olor de la carne asada no llegue a los dioses.
+
+Verso 67
+Y aquel, habiendo hablado así, se sentó: La fórmula no es una mera forma de decir “terminó de hablar”, sino que describe parte de la dinámica habitual de la asamblea (VER ad 1.58), que el público de la épica debía conocer bien (algo que en el griego está señalado por la partícula ára, que no reproducimos en la traducción, sobre lo cual VER Nota a la traducción ad loc.), sea por su experiencia como oyentes de poesía oral o porque estuviera basada en asambleas reales contemporáneas al poeta. Que un personaje se sentara al terminar de hablar era lo que correspondía, porque indicaba que cedía la palabra.
+
+Verso 69
+Calcas Testórida: El adivino Calcas, hijo de Téstor, tiene pocas apariciones en la Ilíada pero todas fundamentales; aparece aquí, en la asamblea, donde desencadena el argumento principal del poema, en el canto 2 (vv. 299-330), en el relato de los pájaros y la serpiente, donde anticipa la duración de la guerra y de manera indirecta en el canto 13 (vv. 45-58), donde Poseidón toma la forma de Calcas para impulsar a los Ayax a defender las naves de Héctor (VER ad 1.242). Su papel en la tradición es mucho mayor, puesto que actuó como guía de las naves aqueas para llegar a Troya, como indica el v. 71, y fue quien ordenó sacrificar a Ifigenia, la hija de Agamenón, para contar con vientos favorables (VER ad 1.106).
+el mejor por mucho de los augures: Calcas es el áristos de los augures, el más excelente o el que posee la virtud de la adivinación de la mejor manera. Sobre la importancia del término en Ilíada, VER ad 1.91.
+
+Verso 71
+las naves condujo…: VER ad 1.69.
+
+Verso 72
+que le dio Febo Apolo: La adivinación forma parte de los atributos de Apolo; el oráculo más importante de Grecia, el de Delfos, era un oráculo de este dios.
+
+Verso 76
+Pues bien, yo hablaré: Calcas anuncia que revelará el motivo de la ira de Apolo, pero, en un giro típicamente homérico, se interrumpe antes de hacerlo para hablar de otra cosa o pedir algo (VER ad 1.98, donde se retoma el hilo del vaticinio). La solicitud de protección es muy enfática, como muestran los inicios repetidos de los vv. 77 y 78.
+
+Verso 77
+con las palabras y las manos: Aparece aquí por primera vez en el poema el doble ámbito de acción del guerrero, la asamblea y la batalla. El héroe debe ser excelente en ambos ámbitos, no solo un buen orador ni un buen luchador. Retenemos una idea similar de la excelencia en la expresión mens sana in corpore sano.
+
+Verso 78
+un varón: No es difícil imaginar a quién se refiere Calcas en este pasaje, pero debe destacarse el detalle de que el adivino no nombra a Agamenón, precisamente porque teme irritarlo.
+
+Verso 79
+Argivos: La tercera forma de referirse a los griegos en Ilíada (VER ad 1.2 y 1.42), en este caso por metonimia con la región de la Argólide (VER ad 1.30); en ocasiones, sin embargo, la palabra tiene un referente más específico, es decir, los argivos en sentido estricto, los habitantes de la argólide. Este debe ser el caso aquí, dada la segunda parte del verso donde se mencionan los aqueos.
+
+Verso 80
+pues es muy poderoso…: Una gnóme o sentencia, algo típico de la poesía griega en general y muy frecuente en la homérica. Estas afirmaciones de carácter general explican, justifican o se contrastan con los hechos particulares de los que la narración da cuenta.
+
+Verso 81
+pues es así: Otra sentencia, esta vez introducida de manera más marcada con las partículas gár y te en griego.
+
+Verso 82
+la ira y el rencor: El contraste en griego queda bien reflejado en las palabras españolas. Un rey puede no dar rienda suelta a un enojo momentáneo y violento, pero eso no significa que olvide.
+
+Verso 88
+brillando mis ojos: En el original se encuentra el participio derkoménoio del verbo dérkomai, que quiere decir ver y tener vista, pero se utiliza también para el destello de la luz, lo que sugiere que, referido a los ojos, marcaba el contraste entre los vivos (brillantes) y los muertos (apagados).
+
+Verso 90
+ni si hablaras de Agamenón: Difícilmente esta elección de palabras sea aleatoria, dado que Calcas ya ha ofrecido suficientes indicios de quién es el rey del que hablará y los eventos del comienzo del canto estarían sin duda en la memoria de todos.
+
+Verso 91
+con mucho: Hay una ambigüedad irreproducible en español en el griego, donde pollón puede estar con eînai áristos (“ser el mejor”), lo que da la traducción que ofrecemos, o con eúchetai (“se jacta”), lo que daría “se jacta mucho de ser el mejor de los aqueos”, una interpretación que parece invitar una lectura irónica, que se refuerza al contrastar este verso con 1.244 (VER ad loc.).
+el mejor de los aqueos: El áristos de los aqueos, una palabra de enorme importancia en el poema porque es la forma adjetiva de areté, la “excelencia”, que constituye uno de los símbolos fundamentales del estatus heroico de un personaje, junto con el botín (géras; VER ad 1.118), la gloria (kléos), y la honra (timé; VER ad 1.159). La areté es la cualidad de ser el mejor o tener en la mejor manera una virtud, en particular la virtud que corresponde a la propia clase. Así, por ejemplo, la areté del caballo es su velocidad, la del suelo en su fertilidad, la del esclavo en su lealtad al amo. El sentido central en Ilíada, sin embargo, es el referido a la excelencia de los héroes, es decir, su valor en el campo de batalla y su capacidad para hablar en la asamblea (VER ad 1.77). 
+
+Verso 92
+el adivino irreprochable: El epíteto irreprochable es tradicional y se atribuye a numerosos personajes, sin que parezca haber un rasgo que los unifique. Parece probable que no quiera decir más que ”noble”.
+
+Verso 93
+él de un voto no se queja…: Se observa aquí el primer ejemplo en el texto de la frecuentísima técnica de la palabra repetida (la “catchword technique”), en la que un discurso responde a otro tomando una frase o una palabra que aparece en aquel. Vale la pena destacar también que estos dos versos iniciales de la respuesta de Calcas retoman el punto en que su anuncio se interrumpió en su primera intervención (en el v. 76, VER ad 76), otro rasgo típicamente homérico.
+
+Verso 95
+ni le devolvió…: Vale la pena destacar la forma en que estos dos versos retoman los vv. 11-13, primero con la mención del sacerdote y luego con la reiteración de los dos elementos que aparecen en el v. 13, la hija y el rescate.
+
+Verso 98
+la doncella de ojos vivaces: Este es el único caso en el que el adjetivo helikópida se aplica a una mujer, aunque es común en la fórmula helíkopes achaoí (“aqueos de ojos vivaces”). El significado del adjetivo no es claro, pero probablemente se refiera a una característica de la forma de los ojos.
+
+Verso 99
+sin pago, sin rescate: Apolo demanda de Agamenón un sacrificio mayor que el de la hecatombe que será mencionada inmediatamente. La afrenta cometida por el rey lo deja, por así decirlo, sin el pan y sin la torta. Es su reacción a esto lo que desencadenará los eventos centrales del poema.
+
+Verso 100
+Crisa: VER ad 37.
+
+Verso 102
+Agamenón de vasto poder: El epíteto es casi exclusivo de Agamenón; solo en Il. 11.751 se aplica a Poseidón. La “vastedad” del poder en ambos casos es geográfica y se refiere al alcance de sus áreas de influencia.
+
+Verso 106
+Nunca jamás me dijiste algo positivo: La frase no debe entenderse solo como un insulto genérico, puesto que Calcas fue quien ordenó, cuando la flota griega estaba estancada en Aulis por la falta de viento, sacrificar a Ifigenia, la hija de Agamenón, para aplacar la ira de Ártemis que el rey provocó al compararse con ella en el arte de la cacería. A pesar de lo acertado del consejo, en la medida en que permitió que la flota zarpara, Agamenón tenía buenos motivos para estar resentido con el adivino.
+
+Verso 111
+Criseida: El personaje de Criseida no tiene más rol en la Ilíada que el de ser una cautiva de Agamenón; incluso su nombre no es más que un patronímico (“hija de Crises”). A diferencia de Briseida (VER ad 1.182), no tiene ningún discurso en el poema y, como su padre, desaparece de la trama una vez que es rescatada más adelante en este mismo canto.
+
+Verso 113
+tenerla en mi casa: Como al dirigirse a Crises (VER ad 1.31), Agamenón enfatiza aquí su deseo de convertir a Criseida en su concubina, destacando ahora que la considera superior a Clitemnestra, su esposa.
+
+Verso 114
+esposa legítima: La frase aparece tres veces en Ilíada. Aquí, referida a Clitemnestra, que, conspirando con su amante, matará a su marido la misma noche en que vuelva de Troya; en el v. 13.626, referida a Helena, sobre cuya fidelidad no es necesario extenderse; y en el v. 19.298, donde Briseida, la cautiva de Aquiles que tomará Agamenón, se lamenta por la muerte de Patroclo recordando que él le había prometido hacerla la “esposa legítima” del héroe, algo que no sucedería nunca. Como puede verse, la fórmula se utiliza en contextos donde su valor literal aparece siempre invertido.
+
+Verso 115
+ni en cuerpo ni en figura…: El verso constituye un resumen de lo que se esperaba de una mujer en el periodo, es decir, belleza, inteligencia y capacidad de realizar las tareas femeninas (fundamentalmente, el tejido y el hilado). 
+
+Verso 117
+Yo deseo…: La expresión es algo extraña en griego y el “yo” tiene un lugar prominente (como en español, en griego la explicitación del pronombre es infrecuente y enfática). En los tres versos que siguen el pronombre de primera persona aparecerá dos veces más, una acumulación que revela el evidente egocentrismo de Agamenón.
+
+Verso 118
+Prepáranme enseguida un botín: El pedido contrasta con el aparente desinterés con el que Agamenón acaba de aceptar ceder a Criseida.
+El botín: Géras, uno de los símbolos fundamentales del estatus heroico de un personaje, junto con la gloria (kléos), la excelencia (areté; VER ad 1.91) y la honra (timé; VER ad 1.159), de particular importancia porque constituye la única prueba material de las otras tres cualidades. En teoría, el tamaño del botín debería corresponder a la excelencia de un guerrero, una regla cuya violación por parte de Agamenón desatará el enojo de Aquiles. Merece destacarse que la palabra se repite en este verso y en los dos siguientes (en el 119 dentro del adjetivo agérastos, “sin botín”), señalando la ansiedad de Agamenón por el tema.
+
+Verso 121
+Aquiles de pies rápidos: La palabra podárkes provee una variante para la fórmula podàs okús (“de pies rápidos”, VER ad 58), que en el original griego sirve de alternativa con otro valor métrico.
+
+Verso 122
+el más glorioso, el más angurriento: La aparente contradicción entre la alabanza y el insulto debe matizarse bastante, puesto que la gloria era una valoración objetiva entre los héroes griegos, no una virtud (VER ad 1.279), y el amor a la ganancia no es considerado un defecto en sentido estricto cuando se mantiene dentro de límites adecuados. Nuestra traducción “angurriento” pretende conservar la suave reprimenda que parece estar implicada aquí, que no debe ser tanto el amor a la riqueza como la manera en que aquí se coloca por encima del derecho de los demás a conservar sus posesiones. Podría decirse que Aquiles abre su discurso con una descripción de la fama de Agamenón como un rey poderosísimo y muy afín a incrementar sus posesiones.
+
+Verso 123
+magnánimos Aqueos: Los aqueos megáthumoi, de “grandes ánimos”. El sentido griego no tiene de ninguna manera las connotaciones caritativas de la palabra española, sino un valor, como es natural, ligado a la excelencia (acaso a la resistencia) de los ánimos oratorios y guerreros.
+
+Verso 124
+bienes comunes: No se refiere a un lote de propiedad comunitaria, sino a bienes saqueados de pueblos y ciudades aun no repartidos. En la sociedad heroica, el procedimiento de distribución del botín se basa en la gloria y poder individual: todos los que participaban del saqueo colocaban lo que habían obtenido en una pila comunitaria y los líderes repartían la parte de cada uno en función de la excelencia demostrada en el combate.
+
+Verso 128
+el triple y el cuádruple: Un escoliasta comenta que estas son las proporciones que pueden deberse a un acreedor y “el triple” vuelve a repetirse más adelante en este mismo canto (VERSO); es posible incluso pensar que “el cuádruple” se agrega aquí a una expresión estándar para satisfacer el carácter angurriento de Agamenón (VER ad 1.122).
+si alguna vez Zeus: Una expresión formulaica similar a nuestro “si Dios quiere”, aunque, naturalmente, con un sentido mucho más literal en la mentalidad antigua.
+
+Verso 129
+concede: Reproducimos en el español la ausencia de objeto indirecto del griego; Aquiles no aclara a quién le podría conceder Zeus saquear Troya, lo que, en el presente contexto, no puede ser un accidente. Merece destacarse también la estructura quiástica de este verso, donde “concede” y “saquear” rodean a “ciudad” y “bien amurallada” que rodean a Troya que, como puede verse, está bien amurallada en la realidad y en el poema.
+Troya, bien amurallada: Aunque la expresión es formulaica y se aplica a Lirneso, donde Aquiles capturó a Briseida, en 16.57, es casi exclusiva de Troya, lo que sugiere una conexión con el mito según el cual las murallas de la ciudad fueron construidas por Poseidón y Apolo en castigo de un levantamiento contra Zeus, a causa del cual este los condenó a servir a Laomedonte, fundador de la ciudad. Como obra de los dioses, las murallas eran, por supuesto, indestructibles. Además de esta base mitológica, la tradición debe haber conservado memoria (o, acaso, el poeta o alguno de sus predecesores conoció las ruinas) del importante muro defensivo que rodeaba la ciudad histórica. Este muro “externo”, dado que había uno interno alrededor de la “ciudad alta”, tenía unos 3,5 m. de ancho por 2 de profundidad y forma de U en la parte sur y este en el siglo XII a.C. La ciudad rodeada por él tenía cerca de 27 ha. 
+
+Leer más: Crespo Güemes, E. (2017) “La historicidad de la guerra de Troya: progresos recientes”, en Piquero Rodríguez, J. y Quílez Bielsa, J. (eds.) Desmontando mitos. ¿Ocurrió realmente como nos lo han contado?, Madrid: Sociedad Española de Estudios Clásicos, 13-28. 
+
+
+Verso 132
+aunque seas noble: La fórmula agathós per eón se repite seis veces en Ilíada, en general el contexto de una advertencia o consejo. La palabra que traducimos por “noble” (agathós) tiene en griego un valor similar que la española, porque indica tanto cualidades morales positivas como la pertenencia a un determinado grupo social. Ambos conceptos, por supuesto, eran inseparables en el pensamiento heroico (aunque, como demuestra Agamenón, no en la práctica).
+
+Verso 132
+me engañes con el pensamiento: la palabra griega klépte quiere decir “ocultar”, “esconder” y “robar”, lo que sugiere en este contexto la idea de que Agamenón está acusando a Aquiles de “ocultarle” sus verdaderas intenciones, es decir, dejarlo sin botín. El sentido “engañar” de la palabra (solo en este pasaje en Homero, pero aparece varias veces en Hesíodo), que está bien registrado, se deriva en última instancia de este modo de razonamiento.
+
+Verso 133
+acaso quieres…: En todo lo que sigue (por lo menos hasta el verso 139) las dificultades sintácticas son considerables. El discurso de Agamenón es trabado, mal articulado y está plagado de pensamientos interrumpidos. Es plausible atribuir esto, por un lado, a su enojo por tener que entregar a Criseida y, por el otro y más en general, a la caracterización negativa en varios sentidos que el poema va realizando del personaje.
+
+Verso 138
+Ayax: Ayax el Grande o Ayax de Salamina, el segundo mejor combatiente del ejército aqueo, hijo de Telamón, hijo de Éaco y por lo tanto primo de Aquiles (VER ad 1.1). Tendrá un papel preponderante a lo largo del poema, pero la parte más famosa de su leyenda (su suicidio luego de que los aqueos decidieran darle las armas de Aquiles a Odiseo) no es relatada en Ilíada.
+Odiseo: El famoso héroe cuyas aventuras al volver de Troya se relatan en Odisea. Hijo de Laertes y rey de la isla de Ítaca, al oeste del Peloponeso. Se disputa con Ayax el Grande el estatus del segundo después de Aquiles, aunque Ayax se caracteriza por su fuerza mientras que Odiseo por su ingenio.
+Aquiles, Ayax y Odiseo: La mención de los tres principales héroes del ejército no es accidental. Es claro que Agamenón está mostrando que él es el más poderoso y puede tomar el botín de quien desee.
+
+Verso 139
+Lo agarro y me lo llevo: Debe destacarse en este cierre de la amenaza y en todo lo que lo precede el egocentrismo de Agamenón, que se toma atribuciones que no le pertenecen en un ejército de coalición donde él es solo el primus inter paris (VER ad 1.54). Más tarde, cuando efectivamente tome el botín de Aquiles, no será él quien lo haga sino que enviará a sus heraldos.
+
+Verso 141
+una negra nave: Las naves antiguas eran cubiertas con alquitrán para protegerlas de la humedad y el desgastes, de ahí el epíteto “negras”.
+
+Verso 143
+de bellas mejillas: Kallipáreos es un epíteto habitual para las doncellas, aunque casi la mitad de sus apariciones en Ilíada están en el canto 1 y corresponden a Criseida (como aquí) o a Briseida (a quien también se le atribuirá en 19.246 y 24.607).
+
+Verso 144
+el portavoz: El boulephóros o “portador del consejo”, un epíteto habitual para los héroes en Ilíada, sobre todo en el contexto de las asambleas, que en este pasaje debe entenderse acaso en sentido pasivo, es decir, como el encargado de llevar a Crisa la decisión del consejo de los aqueos.
+
+Verso 145
+Idomeneo: Rey de Creta y, por lo tanto, el rey más rico y poderoso del contingente aqueo después de Agamenón, aunque su papel en Ilíada está bastante restringido. Nieto del famoso rey Minos y bisnieto de Zeus, como en los casos de Ayax y Odiseo (VER ad 1.138) su leyenda más famosa (su promesa de sacrificar a Poseidón el primer ser vivo que viera al volver a su casa si le concedía un regreso a salvo, siendo este su propio hijo) no es relatada en el poema.
+
+Verso 146
+el más grande de todos: La mención de Aquiles de nuevo aquí, al final de la lista, ha sido considerada por Kirk como un último insulto de Agamenón al héroe. El pasaje es bastante ambiguo, de todos modos, y no es del todo claro si ekpaglótatos pánton debe ser entendido como un insulto o como una ironía. Lo único que sí parece certero es que la alusión es a las cualidades físicas de Aquiles, no a sus dotes de guerrero ni intelectuales.
+
+Verso 148
+mirándolo fiero: Hypódra es, literalmente, “por debajo de las cejas”, lo que sugiere una mirada de enojo con la cabeza algo baja y el ceño fruncido. La fórmula es habitual para respuestas ante insultos y otro tipo de ofensas.
+
+Verso 149
+¡Ahhh…!: La expresión griega es ó moi, que suele traducirse por “¡Ay de mí!” y se utiliza como interjección para la expresión de emociones negativas, como el dolor, el miedo y, como aquí, la indignación.
+Cubierto de desvergüenza: La traducción casi literal de anaideíen epieiméne, que no puede conservar el sentido fundamental del concepto de aidós en el poema. La palabra apunta al temor producido por la mirada de los otros, sobre todo de aquellos que uno respeta, por lo que está intrínsecamente vinculada a la reputación y gloria, el valor más elevado en la sociedad heroica homérica. Este primer insulto de Aquiles, por eso, puede entenderse de dos maneras (y es casi seguro que debe entenderse de las dos al mismo tiempo): en sentido activo, asumiendo que Agamenón es indiferente ante la mirada de los demás, y en sentido pasivo, implicando que carece del respeto de sus pares.
+codicioso: Interpretamos la palabra kerdaleófron en el sentido de “preocupado solo por tu propio beneficio”; es claro que está vinculada al “angurriento” que utiliza Aquiles en su primer discurso a Agamenón (VER ad 1.122).
+
+Verso 150
+Yo no vine a causa…: La mitología cuenta que muchos de los héroes aqueos fueron reticentes a participar de la expedición contra Troya; Aquiles, por ejemplo, se disfraza de mujer para evitar a los enviados de Agamenón. Estaban, sin embargo, obligados por un juramento a participar: antes de competir por la mano de Helena, Agamenón los obliga a prometer que protegerían al ganador, que resultó ser Menelao. Naturalmente, este juramento implicaba que debían reaccionar contra Paris cuando este se llevó a Helena a Troya.
+
+Verso 151
+nunca se llevaron mis vacas ni mis caballos: El robo de ganado era una actividad típica en la época heroica y no era considerado ignominioso para un héroe. De hecho, en ocasiones podía constituir una hazaña considerable (como en el caso del robo de las vacas de Geriones por Heracles). Era un deber de los reyes garantizar la restitución por estos robos a través de la acción militar.
+
+Verso 152
+Ftía: En el norte de Grecia, en torno al monte Otris, en la parte continental al oeste de Eubea. El reino fue fundado por Éaco, abuelo de Aquiles.
+
+Verso 158
+gran sinvergüenza: Aquiles insiste de nuevo (VER ad 1.149) en el deficiente aidós de Agamenón.
+
+Verso 159
+honra: La primera aparición en el poema del importante concepto de timé, uno de los símbolos fundamentales del estatus heroico de un personaje, junto con el botín (géras; VER ad 1.118), la gloria (kléos) y la excelencia (areté; VER ad 1.91). La “honra” homérica es una combinación del estatus y el reconocimiento de los demás producto de ese estatus. Es una consecuencia de la propia excelencia, aumenta la gloria y debería ser premiada con un botín correspondiente. Es este último punto lo que Aquiles está criticando aquí: su esfuerzo no está produciendo un aumento en su honra ni en su botín, sino que está siendo acaparado por los Atridas.
+cara de perro: VER ad 1.4. El insulto no se limita a las facciones de Agamenón; en sentido metafórico, su “cara de perro” implica que consume los cadáveres de los caídos en batalla para conseguir honra, una acusación coherente en el contexto de este discurso de Aquiles.
+
+Verso 161
+tú mismo: Una suave técnica de la palabra repetida, retomando el autós del verso 137 y géras, que Agamenón repite tres veces en seis versos (1.133, 135 y 137). La reacción de Aquiles es ciertamente entendible: no solo él hace todo el trabajo y Agamenón se lleva la recompensa, sino que ahora lo amenaza con ir él mismo, no a conseguirse su propio botín, sino a robar uno ajeno.
+
+Verso 162
+me esforcé: Literalmente, “trabajé y sufrí dolores”, puesto que ese es el sentido del verbo mogéo.
+los hijos de los aqueos: Una fórmula común para referirse a los griegos, sin ninguna diferencia con el simple “aqueos”.
+
+Verso 163
+Nunca jamás…: El quid de la cuestión y el centro de la acusación de Aquiles, que es el mejor guerrero griego pero no recibe ni botín ni honra a la altura de su excelencia (VER ad 1.118 y 1.159).
+
+Verso 164
+saquean una bien habitada ciudad…: Está implicado en numerosas partes del texto que “Troya” no es solo una ciudad sino un área de influencia que alcanza lugares como Crisa (VER ad 1.37), Cila (VER ad 1.38) y Lirneso. La evidencia arqueológica confirma esto, puesto que en las tablillas hititas es claro que Wilusa es un reino, no una ciudad sola. Resulta natural que en un poema que se ocupa casi exclusivamente de un sitio, este aspecto de la guerra resulte algo marginado.
+
+Verso 166
+el reparto: El dasmós, la distribución del botín saqueado de un pueblo o ciudad.
+
+Verso 169
+Ahora me voy: Las amenazas de Aquiles tienen una gradación que comienza con esta de volver a su reino y dejar a los aqueos sin el apoyo de su fundamental contingente. Las intervenciones de Agamenón, Atenea y Néstor irán modificando su actitud para un lado o el otro, sin que el poeta señale esto de forma explícita. Un proceso similar se observa en el canto 9, con las respuestas que Aquiles va ofreciendo a los tres embajadores.
+
+Verso 171
+deshonrado, ganancia y riqueza: El discurso se cierra con un bellisimo contraste entre la situación de Aquiles, sin la honra que corresponde a su excelencia y su gloria, y la de Agamenón, cuyo interés central es la ganancia material, no la honra ni la excelencia.
+
+Verso 174
+junto a mí: En dos versos, tres pronombres de primera persona, dos de ellos enfáticos (y el otro, emeîo, fonéticamente prominente). La personalidad de Agamenón se revela en toda su gloria.
+
+Verso 175
+otros / que me honrarán: Técnica de la palabra (el concepto, en este caso) repetida, con la que Agamenón continúa su desprecio a Aquiles.
+especialmente el ingenioso Zeus: La mitología confirma hasta cierto punto la relación de la casa de Atreo con Zeus, no solo porque este era su ancestro (VER ad 1.7), sino también en mitos como el de Tántalo, que compartía la mesa de los dioses, o el del propio Atreo, para quien Zeus hizo retroceder el sol en el cielo. Aquí, sin embargo, hay una clara ironía trágica, puesto que el dios hará pagar el exceso de Agamenón contra Aquiles con una matanza en el ejército aqueo.
+el ingenioso Zeus: La mêtis era un atributo fundamental de Zeus, al punto que en algunas versiones Metis fue su primera esposa y él la devoró al recibir el oráculo de que un hijo suyo sería más poderoso que su padre. Devorada Metis embarazada, Zeus da a luz a Atenea desde su cabeza.
+
+Verso 176
+Los reyes nutridos por Zeus: Según Hesíodo, “los reyes son de Zeus” (Th. 96), lo que explica por qué recaía en ellos el sacerdocio del dios. La lógica es la misma que en el dios mensajero de los mensajeros (Hermes) o el dios herrero de los herreros (Hefesto).
+
+Verso 177
+La discordia: La discordia era una diosa, Eris, que tiene un rol fundamental en el comienzo de la guerra de Troya porque es la que arroja en la boda de Tetis y Peleo (padres de Aquiles), a las que fueron invitados todos los dioses menos ella, la manzana dorada “para la más bella”, iniciando la disputa entre Hera, Atenea y Afrodita que culminará con el robo de Helena. En este verso puede verse la compleja relación entre un concepto abstracto y su personificación, que es indisoluble en el pensamiento mitológico. La discordia aparece coordinada, pero en un lugar aparte, con las guerras y los combates.
+
+Verso 178
+acaso un dios te otorgó eso: Probablemente no debe entenderse en el sentido de que “porque te lo dio un dios, no es un mérito”, porque esta noción parece por completo ajena al pensamiento homérico. Más bien, la observación de Agamenón es que un dios le dio a Aquiles ser muy fuerte, mientras que a él le concedió Zeus el dominio sobre todos los demás. Esto es coherente el “gobierna a tus mirmidones” del v. 180, donde parece implicado un “mientras yo gobierno a todo el resto”.
+
+Verso 180
+tus mirmidones: Los compañeros de Aquiles y soldados de su contingente de tropas. El nombre proviene, de acuerdo con la leyenda, de la palabra mýrmex, “hormiga”, porque, después de una gran plaga que acabó con la población de la isla de Egina, Éaco, que reinaba en el lugar en ese momento, pide a Zeus que repueble el lugar y este convierte a las hormigas del lugar en seres humanos. Existen, sin embargo, otras versiones antiguas de la etimología.
+
+Verso 181
+Te amenazaré así: De nuevo una técnica de palabra repetida, en este caso con el v. 1.161. Agamenón no está haciendo nada más que confirmar lo que Aquiles anunció en su discurso. Las repeticiones continúan en el verso siguiente, con el verbo “arrebatar”, retomado del mismo verso del discurso de Aquiles.
+
+Verso 183
+mi nave y mis compañeros: De nuevo una acumulación de pronombres de primera persona, esta vez cuatro en tres versos. Es notable que Agamenón no solo contradice lo que dijo antes (1.141-147), sino también lo que de hecho sucede, puesto que será Odiseo con una nave suya el que lleve a Criseida a su padre. Son estas pinceladas las que el poeta utiliza para construir la personalidad de sus héroes.
+
+Verso 184
+Briseida: Aunque solamente tiene un discurso (en 19.282-302) y, como en el caso de Criseida (VER ad 1.111, su nombre puede considerarse un patronímico, Briseida es un personaje en el sentido más pleno de la palabra en Ilíada, dado que sus pocas apariciones y los escasos versos en los que habla bastan para conocer su historia y el desarrollo de su figura. Esto debe haber sido observado por autores posteriores (o anteriores, si Briseida no fue un invento de Homero), porque existen indicios de que el personaje aparece en otros textos. Alternativamente podría pensarse que en Ilíada se le ha concedido un espacio menor a una figura mucho más importante en otros poemas de la tradición; esta posibilidad, sin embargo, parece incompatible con el hecho de que Briseida es apenas una cautiva de Aquiles.
+
+Verso 185
+Tu tienda: En el campamento aqueo hay dos niveles claramente separados, las naves, más cerca del mar, y las tiendas. La actividad diaria, hasta donde puede verse, transcurría exclusivamente en las segundas o al aire libre. Esto no va en detrimento de que “las naves” por momentos se utilice como sinónimo de “el campamento” (VER ad 1.12)
+
+Verso 186
+superior: Parece haber aquí un contraste implícito con el “muy fuerte” en el verso 178 (más evidente en griego, donde se trata de kárteros frente a phérteros en la misma ubicación del verso). Agamenón remarca que la mera fuerza marcial de Aquiles no es nada frente a su poder como gobernante.
+
+Verso 187
+decirse igual y equipararse: Una redundancia habitual, con un notable valor retórico en el cierre de un discurso con el que Agamenón pretende mostrarse como el hombre más poderoso del ejército con una autoridad indiscutible.
+
+Verso 189
+El corazón / se debatía: La sede del pensamiento entre los griegos de la época arcaica no se localizaba en el cerebro, sino en el tórax e incluso en el abdomen. La mención del corazón aquí (que, como entre nosotros, era la sede de las emociones) sugiere que Aquiles no está meditando en sentido racional sino definiendo si dar rienda suelta o contener su ira. La idea de “debatirse entre dos cosas” es tradicional y muy habitual sobre todo en Odisea (aunque diándicha aparece solamente en Ilíada).
+
+Verso 190
+la aguda espada: Los héroes homéricos tiene un equipamiento estándar. Las armas de ataque son dos, la lanza y la espada, que, en contadas ocasiones, pueden ser reemplazadas por el arco. Las espadas eran de bronce y constituían un arma secundaria respecto a las lanzas; eran utilizadas para el combate individual cuando los héroes ya habían arrojado las segundas y no podían recuperarlas y se llevaban en una vaina que colgaba al costado de la cadera. Es notable que todas las heridas realizadas por espadas en la Ilíada son fatales. Debe recordarse también que las armas del periodo micénico eran de bronce, un material más frágil y menos filoso que el hierro o el acero.
+
+Verso 191
+los haría pararse: El referente no está claro, pero deben ser los compañeros de Agamenón mencionados en el v. 1.183, o bien el resto de los héroes aqueos. El sentido parece ser “los haría pararse para intentar contenerlo”.
+
+Verso 194
+Atenea: Diosa hija de Zeus (VER ad 1.175), protectora de los artesanos y los guerreros. En Ilíada es la principal defensora, junto con Hera, de los aqueos. Era considerada también diosa de la sabiduría y, por eso, ya desde la Antigüedad se ha interpretado esta intervención para contener a Aquiles alegóricamente.
+
+Verso 200
+tremendos le brillaban los ojos: Los ojos le brillaban deinó, una palabra de difícil traducción que indica algo que causa impresión y temor. El pasaje es notable, como muchos otros en el poema, por su carácter cinematográfico: de una toma de Aquiles con la mano sobre su espada se pasa a una secuencia de Atenea bajando del Olimpo, colocándose detrás del héroe y tirándole del cabello; la cámara hace entonces un primer plano sobre la cara de Aquiles, sorprendido y dándose vuelta, momento en el cual se mueve hacia un primerísimo plano sobre los ojos tremendos de la diosa.
+
+Verso 201
+aladas palabras: La fórmula es extremadamente común para introducir discursos, pero no por ello debe perderse de vista su sofisticado sentido metafórico: las palabras son como pájaros que vuelan del que las pronuncia hasta el que las escucha.
+
+Verso 202
+portador de la égida: Un epíteto habitual de Zeus que también se atribuye a Atenea (2.447) y Apolo (15.229), aunque no es claro si la primera lleva la égida de Zeus o tiene una propia (descripta en 5.738-742). La palabra aigíochos (“portador de la égida”) proviene de aigís (“piel de cabra”, y por lo tanto “vestido” o “manto”), que a su vez es un derivado de aίx (“cabra”). La égida de Zeus era un manto, vestido o escudo hecho con la piel de la cabra Amaltea, que amamantó a Zeus cuando este era un bebé escondido en el monte Ida para evitar que lo devorará su padre Cronos. El portador de la égida es invulnerable y tiene la capacidad de aterrorizar a sus enemigos, por lo que la fórmula es adecuada después de la descripción de Atenea en el v. 200.
+
+Verso 203
+la desmesura: La hýbris de Agamenón, una palabra con una enorme carga simbólica en la tradición griega. De las cinco apariciones del término y sus derivados en Ilíada, tres se refieren a las acciones del rey contra Aquiles (además de este, 1.214 y 9.368). El concepto se refiere a una arrogancia y presunción excesivas, así también como a las acciones que estas llevan a cometer. En general, incurrir en hýbris en Homero es transgredir las normas aceptadas en la sociedad o considerarse por encima de las leyes de los dioses.
+
+Verso 206
+ojos refulgentes: Los ojos “glaucos” de Atenea, un rasgo distintivo de la diosa. Aunque no hay acuerdo unánime sobre el significado del epíteto, el consenso general es que proviene de glaukós, “brillante”, una palabra que más tarde se utilizará para un color verde azulado. Alternativamente, podría provenir de glaúx, “lechuza”, lo que resulta coherente con el hecho de que este animal era el símbolo de la diosa. Una posibilidad verosímil es que ambas cosas sean ciertas y que el epíteto se refiera a la forma en que los ojos de las lechuzas brillan en la oscuridad por sus propiedades reflectantes; de ahí nuestra traducción “refulgentes”.
+
+Verso 208
+pues me envió…: Se encuentra aquí el primer caso de repetición casi textual de un pasaje anterior, con una distancia de pocos versos. Esto es muy frecuente cuando un mensajero reproduce un mensaje o, como en este caso, un enviado informa sobre su propósito. Debe recordarse que los receptores originales escuchaban el poema, no lo leían, por lo que volver atrás para verificar información era imposible. La repetición mejora la comprensión de los eventos y, además, es mucho menos pesada que en el texto escrito.
+
+Verso 213
+el triple: Un número estándar, que se cumplirá con creces en el canto XIX (VER ad 1.128).
+
+Verso 217
+pues así es mejor: Aquiles repite el “mejor” (ámeinon) de Agamenón en el v. 1.116, lo que subraya el contraste entre ambos héroes. Aunque Agamenón acepta devolver a Criseida, lo hace solo después de la plaga y con la condición de que se le restituya el botín, aunque esto implique violar las normas de la convivencia en el ejército. Aquiles, por otro lado, contiene su ira ante la sola orden de una diosa.
+
+Verso 218
+al que obedece: Una nueva gnóme o sentencia (VER ad 1.80) que, como suele suceder, aparece como explicación de la actitud de Aquiles. En este contexto, la frase podría entenderse también como una prolepsis, puesto que más adelante en el canto Zeus atenderá al pedido del héroe (realizado por su madre).
+
+Verso 222
+deidades: La palabra griega es daímonas, acusativo plural de daímon. El término es difícil de traducir, puesto que, aunque se refiere a los dioses, es un concepto más primitivo ligado a la idea de poderes sobrenaturales que manejan la naturaleza y a los hombres. No es sinónimo de theós (“dios”), pero se utiliza a veces como si lo fuera (como en este caso). En sentido general, a un daímon se responsabiliza de todos aquellos eventos que escapan a la comprensión inmediata pero los seres humanos no saben atribuir a la intervención de un dios específico.
+
+Verso 224
+detuvo su ira: El contraste entre “contener” (paúo) y “detener” (légo) está implicado en la aparición de los verbos en los vv. 207 y 210, en el discurso de Atenea. La ira de Aquiles pasa ahora a una nueva fase, la del rencor (cf. los vv. 1.81-83), en la que estará durante la mayor parte del poema.
+
+Verso 225
+Barriga de vino...: El estilo elevado de la poesía homérica impide traducir como quizás se debería “borracho, hiena y cobarde”. Las tres expresiones son únicas y ya desde la Antigüedad fueron consideradas un ataque salvaje a la figura de Agamenón. Sobre la figura del perro VER ad 1.4.
+
+Verso 226
+nunca armarte…: Con una técnica típicamente oral, Aquiles elabora sobre el último concepto del verso anterior (“corazón de ciervo”, es decir, “cobarde”).
+
+Verso 227
+la emboscada: De la misma manera que ni el robo de ganado ni la mentira eran considerados ignominiosos, sobre todo en la guerra, la participación en una emboscada (lóchon), por la dificultad de su ejecución y el esfuerzo físico y mental que conllevaba, estaba reservada a los mejores guerreros y era particularmente admirada. Solo los más nobles participaban, por lo que este verso debe entenderse en contraste con el anterior, en el que se dice que Agamenón no se arma “con el pueblo”, es decir, para la batalla campal.
+
+Verso 230
+arrebatar dones: Los dones son los dóra (sg. dóron), una palabra con un sentido algo más amplio que la española, puesto que se refiere en general a los bienes que son otorgados, incluyendo las ofrendas a los dioses; esta repartición no es por mera generosidad sino que se realiza atendiendo a la timé del destinatario. Aquí, por supuesto, se refiere al botín de Aquiles. Nótese la repetición del concepto de “arrebatar”, que aparece una y otra vez en este diálogo (VER ad 1.181).
+
+Verso 231
+Rey tragapueblos: Demobóros, una palabra que hemos traducido casi literalmente. El dêmos es el pueblo en el sentido amplio de “lo público”, sea referido a la tierra común o a la gente. Por derivación se aplica a la plebe, actuando como sinónimo de laós (VER ad 1.10). Aquí el insulto debe entenderse casi en nuestro sentido moderno de “corrupto” o “consumidor de los bienes comunes para el propio beneficio”.
+gobernás pusilánimes: La palabra griega que hemos traducido con “pusilánimes” es outidanós, que podría interpretarse como “que no sirven o no valen para nada”. Aquiles se refiere, por supuesto, a los argivos, es decir, a las tropas que dependen directamente de Agamenón, no a todo el ejército. El insulto recuerda las palabras del rey en 1.180, por lo que aquí Aquiles podría estar implicando “yo gobernaré a unos pocos mirmidones, pero es mejor que gobernar inútiles”.
+
+Verso 233
+un gran juramento: En griego, el hórkos es tanto el juramento que se realiza como el objeto por el que se jura, en muchos casos al mismo tiempo, puesto que la idea es que el objeto y el juramento están intrínsecamente vinculados. Nótese que la digresión del cetro que sigue a continuación está rodeada por dos apariciones de la frase “gran juramento”, en una estructura quiástica típica de Homero.
+
+Verso 234
+por este cetro: El cetro del orador constituía una parte clave de la dinámica de la asamblea (VER ad 1.58), porque representaba el orden, en tanto regulaba la palabra, y la ley, puesto que encarnaba la capacidad de la asamblea de tomar decisiones. Jurar por este cetro, por lo tanto, tiene un peso simbólico enorme en la cultura heroica, algo que Aquiles subrayará a continuación con la digresión.
+nunca más: La digresión sobre el cetro constituye una típica écfrasis (“descripción”) homérica sobre un objeto, que no se limita a señalar sus características, sino que las describe relatando cómo se produjeron. Comienza con una expresión que parece constituir un adynaton implícito: “mi juramento se romperá cuando este cetro engendre hojas”, es decir, nunca. La aparición de esta imposibilidad, en todo caso, enfatiza el carácter definitivo de la promesa. Más allá de esto, la descripción se divide en tres partes sucesivas: el cetro cuando era una rama (“nunca más”), el cetro como objeto que está siendo trabajado (“después de que dejó atrás”) y el cetro como símbolo de la justicia y la ley (“ahora”). Las tres partes están enfocadas desde el presente: ahora nunca más dará hojas, ahora dejó atrás el tronco y, por supuesto, ahora sirve como símbolo. La secuencia tiene un valor adicional, puesto que marca el paso de lo natural (la rama) a lo artesanal (el cetro) a lo simbólico (la justicia); VER ad 1.238.
+
+Verso 238
+los que interpretan la justicia y preservan las leyes: El cierre de la descripción marca el punto en el que la historia del cetro, su garantía como objeto sobre el que se jura y el contenido del juramento se entrelazan. Aquiles promete alejarse del campo de batalla por la transgresión de Agamenón de las leyes de las que el cetro constituye un símbolo y a la vez una garantía, como instrumento para regular la palabra en las asambleas.
+
+Verso 242
+Héctor matador de varones: Héctor es el hijo primogénito de Príamo, el rey de Troya, y su esposa Hécuba. Es, además, el mejor guerrero de los troyanos, capaz de pelear mano a mano con Áyax el Grande (VER ad 1.158). Solo Aquiles puede derrotarlo, por lo que la expresión en este verso no es genérica: al ausentarse el héroe del campo de batalla, nadie podrá contener a Héctor. Este anuncio, por supuesto, se cumplirá en lo que resta del poema.
+
+Verso 244
+el mejor de los aqueos: Hay aquí un contraste implícito con el “cuán superior soy a vos” de Agamenón en el v. 186 (VER ad loc.), la oración con la que este cerró su última intervención en el debate. Si se recuerda que allí había un contraste entre la superioridad de Agamenón y la fuerza de Aquiles, que el héroe utilice áriston es de notable importancia, porque refuta la afirmación de 1.91 en donde había afirmado que “Agamenón se jacta de ser el mejor de los aqueos”. Sobre el sentido del término, VER ad 1.91.
+no honraste nada: Obsérvese la explicitación aquí de la necesaria correlación entre la areté (la excelencia) y la timé (el honor) debida a un héroe (VER ad 1.159), que resume la transgresión de Agamenón a los ojos de Aquiles.
+
+Verso 245
+tiró al suelo el cetro: Un evidente gesto de desprecio, que parece indicar que Aquiles da por terminada la asamblea.
+
+Verso 247
+Néstor: Néstor, el rey de Pilos (VER ad 1.248) , es el más viejo de los reyes aqueos, hijo de Neleo, hijo de Creteo (o, en algunas versiones, de Poseidón). En Ilíada aparece como un gobernante poderoso al que el resto de los reyes escucha por su sabiduría, experiencia y sus capacidades oratorias (que suelen devenir, como en el discurso que sigue, en digresiones sobre el pasado muy características de un personaje anciano). Por su edad en algunas versiones de los mitos se afirma que participó de la expedición de los argonautas, de la casa del jabalí de Calidón y en la lucha de los lapitas contra los centauros (esto último lo dirá él mismo en los versos subsiguientes), gestas heroicas que preceden en una o dos generaciones a la guerra de Troya.
+
+Verso 248
+los pilios: Los habitantes de Pilos, que era un nombre de al menos tres ciudades, pero en el caso de la de Néstor debe ser la que se halla en el el sudoeste del Peloponeso, cuyas ruinas fueron encontradas en 1939 cerca de la actual Bahía de Navarino y la actual ciudad de Pilos.
+
+Verso 250
+hombres meropes: El sentido de merópon es desconocido ya desde la Antigüedad, y en Homero aparece solamente en la fórmula de este verso en distintos casos (aunque casi siempre en genitivo) y una vez con brotoîsin, “mortales”. Nuestra traducción conserva el uso formulaico del término y, al transliterar la palabra griega, el misterio de su significado.
+
+Verso 254
+la tierra aquea: Por supuesto, en sentido metafórico, referido al lugar que ocupan los aqueos.
+
+Verso 258
+los que se destacan…: Nótese el tono conciliador de Néstor, que atribuye tanto a Aquiles como a Agamenón las cualidades de la excelencia heroica (VER ad 1.77). El anciano entiende el problema, pero su intervención no modificará en absoluto el resultado de la asamblea.
+
+Verso 263
+Pirítoo: Rey de los lapitas, habitantes de la zona de Tesalia cercana a los montes Olimpo y Osa, y compañero de Teseo, rey de Atenas. Su aparición como primero en la lista de Néstor es lógica, dado que fue en su boda con Hipodamía donde estalló el conflicto entre lapitas y Centauros. Los nombres que siguen corresponden a héroes lapitas menos conocidos que participaron de ese combate.
+
+Verso 265
+Teseo Egida: El famoso héroe ateniense, hijo de Egeo o de Poseidón, famoso por haber acabado con el minotauro de Cnosos en Creta. No aparece en los poemas homéricos más que como un héroe del pasado (aquí y en Od. 11.322-325 y 628-635), y los lugares en donde se lo menciona han sido cuestionados como “interpolaciones atenienses”, es decir, agregados a un texto original realizados por los atenienses para hacer propaganda a su héroe nacional. En este caso en particular, no hay razones para pensar semejante cosa, dado que Pirítoo y Teseo eran conocidos compañeros y amigos en la mitología y es perfectamente razonable que el poeta mencionara a uno después de mencionar al otro.
+
+Verso 268
+centauros: Los centauros eran criaturas mitológicas con cuerpo de caballo y torso humano que, según la tradición mitológica, vivían cerca del monte Pelión. En el mito de la guerra con los lapitas, los centauros aparecen como criaturas salvajes, descontroladas por el vino y el deseo sexual (de donde el epíteto que se les aplica en el presente verso).
+
+Verso 271
+yo por mí mismo: Uno podría asociar este énfasis en la primera persona con el que se encuentra en los discursos de Agamenón (VER ad 1.117, 174 y 183), pero este ém’ autòn egó de Néstor parece más bien destacar su autoridad basada en la experiencia directa en el combate. Hoy podríamos decir “y nadie me lo contó, yo estuve ahí y combatí con mis propias manos”.
+
+Verso 273
+hacían caso a mis palabras: La digresión de Néstor se cierra con la repetición de la idea de “hacer caso”, que se repetirá dos veces más en el verso que sigue. El orador no es sutil a la hora de destacar los motivos por los cuales recuerda su pasado.
+
+Verso 275
+aunque seas noble: Néstor retoma la forma en que Agamenón realiza su primera advertencia a Aquiles en el v. 131 (VER ad loc.), así como el concepto de “arrebatar” que se repetido varias veces en el debate (VER ad 1.230). Merece destacarse que, mientras que su consejo a Agamenón está armado sobre palabras que ya se fueron utilizando, los vv. 277-279 están armados con varias palabras que aparecen aquí por primera vez.
+
+Verso 279
+gloria: El kûdos no es solo la “gloria” en el sentido de la fama (algo que se expresa con el término kléos), sino también y más específicamente se refiere a una cualidad que proviene de los dioses y que garantiza el poder y la victoria. Es una capacidad mágica que una persona posee, puede tomar o puede perder, siempre dependiendo de la voluntad de un dios. En distintos contextos, la traducción más adecuada puede ser “victoria”, “renombre” o “éxito”.
+
+Verso 280
+si tú eres fuerte: Solo aquí Néstor repite casi textualmente una frase dirigida antes a Aquiles, en el v. 178. Es interesante destacar la extrañeza de la expresión en este verso y el que sigue, dado que no es del todo claro si la cláusula condicional termina en “fuerte” o en “madre” o siquiera si lo que sigue es su oración principal; pareciera como si Néstor estuviera evitando reproducir el razonamiento de Agamenón dejando la sintaxis algo ambigua.
+
+Verso 281
+superior: El contraste implicado por Agamenón en su último discurso (VER ad 1.186) aparece aquí condensado en dos versos, que parecen resumir el origen del conflicto. Aquiles tiene las cualidades individuales que distinguen a un guerrero, pero Agamenón detenta el poder colectivo.
+
+Verso 282
+Atrida: Nótese la estructura en anillo (Agamenón - Aquiles - Agamenón) de los consejos de Néstor.
+
+Verso 283
+que grande…: Aunque no hemos podido conservarla en la traducción (VER Nota a la traducción ad 1.283-284), hay aquí una repetición parcial pero clara del v. 1.78, en ese caso referido a Agamenón.
+
+Verso 284
+cerco: Un juego similar en este verso al que se encuentra en 1.129 (VER ad loc.), dado que el “cerco” (hérkos) está, con el límite del verso, separando a “todos” (pâsin) del resto y a su vez “es” (péletai) separa a los “aqueos” de la “mala guerra” (polémoio kakoîo). Los fuertes hipérbaton en estas líneas parecen buscar reproducir la manera en que Aquiles aleja el peligro de los dánaos.
+
+Verso 286
+según la moira: La expresión griega quiere decir algo similar a “como es debido”, “como corresponde”, pero incluye el fundamental concepto de “moira” que alude al destino o, más específicamente, a aquello que le toca a cada uno (VER Nota a la traducción ad loc.). En este caso, Agamenón estaría destacando que Néstor habló “de acuerdo a lo que se espera de un héroe” y “expresando lo que corresponde”. Lo que sigue, por supuesto, refuerza la descripción del rey, dado que, aunque dice aceptar el discurso del anciano, de inmediato vuelve a criticar a Aquiles.
+
+Verso 287
+quiere estar por encima…: La triple repetición del supuesto deseo de Aquiles de dominar a los demás (que podría remitir al hecho de que es él el que convoca la asamblea, VER ad 1.54) no tiene ningún correlato con lo que ha sucedido y parece aludir a un conflicto profundo entre los héroes que no se ha originado en el presente debate.
+
+Verso 292
+Interrumpiendo: La única aparición de este término en Homero, marcando el último discurso del debate. Es un gesto enormemente descortés interrumpir a otro orador en la asamblea (VER ad 1.58 y 67) que marca aquí el nivel de enojo de Aquiles. Kirk observa que no hay razones para dudar de que el discurso de Agamenón terminaba en el v. 291, pero eso no parece correcto, puesto que una justificación de por qué el rey no va a obedecer a Néstor (como, de hecho, no lo hará) habría sido esperable después de las palabras contra Aquiles.
+
+Verso 293
+cobarde y pusilánime: La primera palabra (deilós) es la habitual para hablar de la cobardía en griego, y aparece aquí por primera vez en el poema. “Pusilánime” es la acusación que Aquiles lanza a los súbditos de Agamenón en 1.231 (VER ad loc.).
+
+Verso 295
+a otros … a mí: En el original griego, álloisin (“a otros”) y émoige (“a mí”) son la primera y la última palabra del verso. El griego tiene la misma ambigüedad que el español, que permite que la oración esté completa al final de este verso (“a ellos ordenales pero a mí no”) y sorprende con un verbo al comienzo del siguiente.
+
+Verso 297
+Y otra cosa te voy a decir: Debe entenderse respecto a la promesa que ha realizado en su anterior intervención. Aquiles aclara los términos de su retiro del combate: no impedirá que Agamenón tome a Briseida, pero si quiere cualquier otra cosa reaccionará violentamente. Nótese que el discurso de Néstor parece haber surtido algún efecto, puesto que el héroe no vuelve a mencionar que partirá de vuelta hacia Ftía.
+
+Verso 305
+se levantaron y disolvieron la asamblea: El verso marca el final del primer episodio de Ilíada, que comienza en el v. 11 con la introducción de Crises. A partir de este punto el canto presenta una serie de escenas “reactivas” a la situación creada por la asamblea: el traslado de Criseida y sacrificio a Apolo, la toma de Briseida, la súplica de Aquiles a Tetis y de esta a Zeus y finalmente la discusión en el Olimpo sobre el encuentro entre Tetis y Zeus. Pero el conflicto central del texto está planteado y el retraso de sus consecuencias parece funcionar como una forma de construir suspenso que irá in crescendo hasta el canto 3, donde comenzará la batalla. 
+
+Verso 307
+El Menecíada: El hijo de Menecio, Patroclo, el mejor y más fiel de los compañeros de Aquiles, cuya muerte desatará su ira contra Héctor y será el detonante del último tercio del poema. Siendo un niño, tras matar accidentalmente a un compañero de juego (el exilio era un castigo habitual en estos casos). fue enviado por su padre a Ftía. Allí se le encomendó el cuidado de Aquiles, que era algo más joven que él, y con el tiempo se volvió su amigo inseparable. El hecho de que en esta primera aparición en el poema se lo llame solo por su patronímico es un argumento contra la idea de que el personaje es un invento de Homero, lo que, por supuesto, no significa que fuera más que una figura muy secundaria en la tradición sobre Aquiles. En Ilíada, su papel será fundamental en la trama.
+
+Verso 313
+purificarse: La purificación era una parte importante del rito griego e imprescindible antes de realizar un sacrificio. Que aquí se realice como un baño en el mar, cuando usualmente basta con un lavado simbólico de manos, podría sugerir una preocupación por la peste, pero esto no es necesario. La secuencia de los vv. 313-316 es una versión comprimida del mismo tema que se desarrollará más adelante, a partir del v. 447.
+
+Verso 316
+arrojaron al mar: El mar era considerado un agente purificador.
+
+Verso 317
+la grasa: Sobre la importancia de la grasa en el sacrificio, VER ad 1.66. La imagen de este verso es de particular belleza visual y muy adecuada para finalizar la escena del sacrificio.
+
+Verso 319
+no / detuvo la discordia: La misma frase, aunque negada, que Atenea le dirige a Aquiles en 1.210. La segunda mitad del canto está repleta de fraseología que remite a la primera, recordando que se está ejecutando lo anunciado allí.
+
+Verso 320
+Taltibio y Euríbato: La familia de los Taltibíadas era aun en tiempos históricos una estirpe o gremio de heraldos, que se jactaban de descender del personaje mencionado aquí (cf. Herodoto 7.134). Euríbato (“el que camina lejos”), por otro lado, es un nombre que parece tradicional para un heraldo (Odiseo también tiene uno llamado así; cf. Od. 2.184 y 19.247).
+
+Verso 321
+heraldos: Tanto en Homero como en general en la tradición griega los heraldos son personas inviolables y protegidas por los dioses, puesto que su función es sagrada. En efecto, no solo se encargan de transmitir mensajes o realizar encargos, sino que también regulan el uso de la palabra en la asamblea (cf. por ejemplo, 2.50-52 y 97) y son los que preparan los sacrificios públicos (cf. 3.116-120), entre otras muchas funciones. Su rol de mediadores en todas las actividades comunales los convierte en individuos de inmensa importancia en la sociedad heroica. La palabra kêrux podría estar ligada etimológicamente con el sánscrito kârú, que designa a aquellos cuya función es cantar himnos a los dioses. La vinculación entre ambas profesiones es importante, puesto que ambas implican una mediación y ambas son sagradas. 
+servidores: Los therápontes son todos aquellos subordinados a un líder, no exclusivamente los sirvientes o esclavos. Patroclo, por ejemplo, es un servidor de Aquiles (cf. 18.152).
+
+Verso 324
+y si no…: El verso repite casi textualmente 1.137, pero aquí con dos calificaciones que hacen algo más grotesca la personalidad de Agamenón; primero, porque acaba de enviar a otros a hacer lo que había amenazado con hacer él mismo y, segundo, porque enseguida aclara “yendo con muchos”, sugiriendo así que teme enfrentarse él solo con Aquiles (VER ad 1.281).
+
+Verso 327
+sin quererlo: Probablemente por temor a la ira de Aquiles, como se indicará en el v. 327. La palabra griega aékon indica que una cierta acción se realiza de forma involuntaria, incluso en el sentido legal de la noción.
+
+Verso 331
+venerando al rey: La palabra griega es aidéomai, es decir, “con aidós”. Sobre este concepto, VER ad 1.149. No deja de ser notable que los heraldos de Agamenón aparezcan expresando aidós por Aquiles, un rasgo que este a acusado al rey de no poseer.
+
+Verso 334
+mensajeros de Zeus: VER ad 1.321. Los heraldos eran sagrados y tenían importantes funciones religiosas. Además, al ser servidores directos de los reyes, quedaban bajo la misma protección de Zeus de la que estos gozaban.
+
+Verso 334
+Salud…: La reacción de Aquiles ante los portadores de malas noticias debe contrastarse, naturalmente, con la de Agamenón ante Crises y luego ante Calcas.
+
+Verso 339
+los dioses bienaventurados: La palabra mákar es un epíteto de los dioses, aunque en ocasiones se aplica a uno o más hombres (como en 3.182). Los mákares gozan de una vida segura y libre de preocupaciones.
+
+Verso 343
+no sabe ver…: La idea, proverbial, era que una persona debía de ser capaz de “ver hacia atrás” para poder saber cómo actuar “hacia delante”, de donde la necesidad de ver “a la vez” hacia delante y hacia atrás. Para un rey, que debe elaborar estrategias de batalla y planificar el destino de un ejército o una ciudad, constituía una habilidad particularmente importante.
+
+Verso 348
+sin quererlo: La estructura en anillo de la toma de Briseida se revela en esta repetición de “sin quererlo” (VER ad 1.327). Más importante, esta simple palabra es una pincelada que da profundidad al personaje de Briseida y sirve de prolepsis a su reaparición en el canto 19, donde ella misma declarará que había alcanzado aunque fuera la promesa de felicidad junto a Aquiles. Es interesante destacar que en ese discurso se observará una mediación comparable a la que se ve aquí: como ahora Aquiles pide a Patroclo que entregue a Briseida, allí Briseida asegura que Patroclo había prometido entregarla como esposa a Aquiles.
+
+Verso 349
+lagrimeando: Llorar no constituía una afrenta ni una vergüenza para los héroes homéricos, que lo hacen con frecuencia y muchas veces en público. El motivo del llanto se repetirá en 357 y 360, marcando el tono del pasaje. Aquiles no se aleja aquí para lamentarse a solas, sino para conferenciar con su madre y pedirle que interceda ante Zeus.
+
+Verso 350
+sobre la orilla…: Como en muchos otros casos, una poderosa imagen visual para dar paso a una nueva escena. Nótese el contraste de colores (formulaico, pero no por ello despreciable) entre el color del mar en la orilla y el que posee mar adentro, probablemente por el reflejo del sol.
+
+Verso 351
+a su querida madre: Tetis, la madre de Aquiles, era una nereida, hija del anciano del mar Nereo, está conectada con el argumento de Ilíada de más de una forma. Sobre ella existía una profecía que afirmaba que daría a luz un hijo más poderoso que su padre, por lo que Poseidón y Zeus, que deseaban casarse con ella, deciden casarla con un mortal, Peleo, unión de la cual nacerá Aquiles. En la boda de Tetis y Peleo la diosa Discordia arrojará la manzana que desencadenará los eventos de la guerra (VER ad 1.177). Tetis, además, es quien profetiza a su hijo (de acuerdo a las palabras de este en 9.410-416) que puede elegir entre un destino glorioso muriendo joven o el olvido y una larga vida, contrastando alegóricamente las dos formas de pervivencia para los mortales (la fama y la descendencia).
+
+Verso 352
+de corta vida: A lo largo de Ilíada aparece más de una vez la contradicción entre el supuesto destino de Aquiles, condenado a morir joven, y la profecía que este recibe de su madre que abre la puerta a una larga aunque intrascendente vida (VER ad 1.351). No hay, sin embargo, contradicción alguna, puesto que lo que para los mortales se presenta como una elección para los dioses que conocen el destino es ilusorio. En este pasaje en particular, la queja “y encima de corta vida” tiene sin duda un valor retórico.
+
+Verso 356
+del que se apoderó él mismo: Parece haber una ligera contradicción aquí con lo que de hecho ha sucedido (que se repetirá en 1.507 y 2.240), dado que, aunque Agamenón anuncia (dos veces) que irá en persona a buscar a Briseida, son sus heraldos los que lo hacen (VER ad 1.324). Dos explicaciones son posibles: podríamos estar ante una variación oral, acaso por la existencia de una versión en la que Agamenón de hecho iba a buscar a Briseida o simplemente por un error del rapsoda, o podría ser que Aquiles se expresara de esta manera para enfatizar la responsabilidad de Agamenón. Lo segundo parece más sencillo de justificar y es fácil de entender si se piensa que el punto que el héroe podría querer destacar es que las acciones de Agamenón no cuentan con el consenso ni de la asamblea ni de ninguno de los otros reyes.
+
+Verso 357
+venerable madre: La palabra pótnia es formulaica para diosas y mujeres muy respetables.
+
+Verso 358
+sentada en lo profundo del mar: Los dioses tienen la capacidad de escuchar y ver a los mortales en donde quiera que estén; aunque estemos muy lejos aquí de la concepción omnisciente y omnisapiente de las religiones de libro, una forma menos sofisticada de esa concepción ya existe entre los griegos.
+
+Verso 359
+como la niebla: Eΰte (“como”) se utiliza exclusivamente para comparaciones, de modo que aquí acaso no debería tomarse en forma literal pensando en una metaformosis de Tetis. Sin embargo, esta interpretación puede ser un poco reduccionista respecto a la sofisticación del símil en la épica, que no solo implica una comparación, sino la transferencia de propiedades de una esfera a la otra (en este caso, de un fenómeno natural al movimiento de una diosa). Qué significa esto respecto a la manera en que Tetis surge del mar es algo que debe imaginar el oyente.
+
+Verso 365
+por qué contarte…: Puede resultar algo extraño que Aquiles afirme que Tetis “sabe” todo lo que sucedió y enseguida se ponga a contarlo, pero, más allá de que este tipo de resúmenes constituyen una convención épica, la secuencia puede compararse con infinidad de casos en los medios audiovisuales en los que un personaje relata a otro hechos conocidos y obvios por el bien de la audiencia. Más allá de esto, este resumen es la última intervención de Aquiles hasta el canto 9 del poema y esto sugiere que parte de la motivación para introducirlo es continuar delineando el personaje, una idea que se refuerza al contrastar el relato con los eventos que han sido narrados (VER ad 1.358, 380, 381, 382, 385 y 388): el resumen está focalizado desde la perspectiva de Aquiles.
+
+Verso 366
+Tebas: No la de Grecia ni la egipcia, sino una ciudad de Asia menor, cerca de Troya y Crisa, aunque su ubicación exacta es incierta. Puede resultar algo extraño que Criseida estuviera allí y no con su padre, pero es posible que ya estuviera casada y viviendo con su marido. La captura de esta ciudad debe haber sido un hito significativo del ejército aqueo, porque es mencionada varias veces a lo largo del poema (en 6.407-420 - el diálogo de Héctor y Andrómaca -, 9.186-188, 16.152-164, 23.826-827).
+Eetión: El padre de Andrómaca, la esposa de Héctor (VER ad 1.242) y, por lo tanto, un importante aliado de los troyanos.
+
+Verso 368
+las distribuyeron bien: El pasaje recuerda lo dicho en 1.124-125 (VER ad 1.124), pero nótese el agregado eû (“bien”), que es clave en lo que sigue.
+
+Verso 370
+Y a su vez Crises…: Un resumen de los eventos al comienzo del canto casi textual, menos los discursos, que se extiende hasta 379.
+
+Verso 380
+irritado el anciano: El narrador había afirmado en 1.33 que Crises estaba atemorizado, pero no habló de su ira. Esta se expresa en esos versos a través de las palabras del sacerdote.
+
+Verso 381
+ya que le era muy querido: De nuevo (VER ad 1.380), información que no se había proporcionado. Es difícil saber si, junto con “irritado”, es una manera de condensar lo que el discurso de Crises de 1.37-42 informa de forma indirecta o es Aquiles el que está infiriendo esto por lo sucedido (o, por qué no, ambas).
+
+Verso 382
+su perniciosa saeta: El adjetivo no aparece en la narración previa, de modo que este es un caso clarísimo de focalización (la saeta de Apolo es mala para Aquiles).
+
+Verso 383
+las tropas / morían…: La expresión en estos dos versos es diferente a la que se haya en 1.52; no solo está aquí más expandida, sino que se enfatiza tanto la frecuencia (“sin parar”) como la continuidad (“todo el tiempo”).
+
+Verso 385
+comprendiéndolo: Otra aclaración que no se encuentra en la narración previa, importante porque, por transitividad, sugiere que lo que hará Aquiles (exhortar a que se aplacara al dios) es lo correcto, mientras que lo que hará Agamenón (enojarse y amenazar) está mal. Nótese, por lo demás, que, mientras que la muerte de las tropas se alarga de medio verso a dos, el extenso debate en el ágora se resume (pobremente) en tres.
+
+Verso 388
+me dirigió una amenaza: Aquiles convierte la reacción compleja de Agamenón, progresiva desde el simple “regreso el botín, pero denme uno nuevo” hasta el “voy a robarme el tuyo”, en una única reacción simple dirigida contra él. Es importante recordar que el héroe aquí está llorando con su madre.
+
+Verso 389
+los aqueos de ojos vivaces: Un epíteto habitual, aunque de significado incierto. Probablemente se vincule con la forma de los ojos de los aqueos, aunque se ha propuesto que tiene que ver con el color (“negros”) o con la vitalidad.
+
+Verso 393
+Pero vos…: Comienza la segunda parte del discurso de Aquiles, dedicado al pedido y dividido en tres partes: la mención del destinatario, el antecedente mitológico que justifica la solicitud y el pedido formal. Es interesante destacar cómo esta estructura reproduce con exactitud la estructura de la plegaria y los himnos griegos (invocación de un dios, alabanza del dios, pedido).
+si podés: Una fórmula con algo de ironía, dado que se utiliza cuando el hablante sabe que el receptor puede hacer lo que le pide.
+
+Verso 394
+favoreciste ... al corazón de Zeus: Notablemente, no es lenguaje formulaico hasta donde no es posible verificarlo. El concepto, de todos modos, es tradicional en el marco de la plegaria (da quia dedi, es decir, “concede porque yo te concedí”).
+
+Verso 397
+cuando decías…: Este pasaje homérico es el único que preserva esta anécdota, lo que resulta algo sorprendente dada la dimensión de la rebelión olímpica a la que alude. El grupo de dioses mencionado también es peculiar, porque coincide con los defensores del bando aqueo (e incluye a la leal Atenea). Es posible que el mito existiera en la tradición, al menos en alguna forma, pero las convenientes coincidencias con la situación presente sugieren por lo menos una adaptación por parte del poeta.
+
+Verso 402
+el hecatonquiro: Los hecatonquiros (Briareo, Coto y Giges) son hijos de Gea, junto con los titanes y los cíclopes, y, por lo tanto, dioses de una generación previa a los olímpicos. Son criaturas violentas con cien brazos y cincuenta cabezas que fueron encerrados en el Tártaro por su padre Urano (Hesiodo, Teogonía 617-720) y luego liberados por Zeus en su enfrentamiento con los Titanes, en los que tuvieron un papel destacado.
+
+Verso 403
+al que los dioses…: Hay tres casos de nombres divinos contrastados con humanos en Ilíada (2.813, 14.290 y 20.74) y dos casos de nombre divinos sin equivalente humano en la Odisea (Od. 10.305 y 12.61). No hay una explicación clara de la diferencia, particularmente extraña aquí si se piensa que el hecatonquiro Briareo existe mucho antes que los humanos. La distinción parece servir sobre todo para destacar las diferencias entre la esfera de los dioses y la esfera de la humanidad.
+
+Verso 404
+Egeón: Hijo de “Egeo”, es decir, de Poseidón, lo que contradice la descripción de Hesiodo (VER ad 1.402) de que los hecatonquiros eran hijos de Gea y Urano. Un escolio sugiere que la explicación es que Briareo estaba casado con una hija de Poseidón, por lo que era su hijo político, pero esto no resulta convincente. Sumado a la idea de que era más fuerte que su padre y al hecho de que en esta anécdota inusitada Poseidón es enemigo de Zeus, esta incertidumbre refuerza la idea de que todo este pasaje es una invención o por lo menos una manipulación de la tradición por parte del poeta (VER ad 1.397).
+
+Verso 409
+a estos…: El verso en griego juega con la idea de acorralar, desplazando la mención de los aqueos hasta el final, detrás de las proas y junto al mar. Una traducción alternativa habría sido “a estos detrás de las proas y junto al mar acorralar, a los aqueos”. Dada la disposición del campamento aqueo (VER ad 1.12 y 185), el pedido de Aquiles es que la lucha se dé entre las naves, donde ya no hay posibilidad de escapatoria.
+
+Verso 410
+mientras los matan: El encabalgamiento, la posición inicial y la brutal expresión (en griego, kteinoménous) destacan esta palabra, que señala el punto cúlmine del pedido de Aquiles. El héroe se muestra dispuesto a ver a sus compañeros morir con tal de que su honor sea restituido; pagará por esto un alto precio y la mención de la áte en 1.212 (VER ad loc.) que sigue casi se lee como una ironía trágica.
+
+Verso 412
+su ceguera: La áte, un concepto clave en el pensamiento griego, que puede definirse como “ceguera moral”, pero incluye también la destrucción producida por ella. Está intrínsecamente vinculada con la desmesura (la hýbris, VER ad 1.203) y a veces aparece personificada (9.496-514, 19.85-138). Producto y productora de la ignorancia de las consecuencias de las acciones, no es claro si exculpa a quienes la sufren o de hecho agrava su culpabilidad; en todo caso, la relación de los héroes con la áte no es del todo distinta a la que hoy en día podríamos tener con la ignorancia: no saber puede justificar haberse equivocado, pero eso no va en detrimento de que uno debería haber actuado sabiendo.
+
+Verso 414
+en hora aciaga: El adverbio (ainá) parece poder acompañar a las dos formas verbales del pasaje y a la vez ser una endíadis, dado que quien realmente es desgraciado en Aquiles (o Tetis).
+
+Verso 416
+junto a las naves: Kirk señala que, si estuviera sentado junto a las naves, sería porque continúa enojado con Agamenón, porque sino estaría luchando. Esto no puede leerse más que como una exquisitez del comentarista: en primer lugar, Aquiles no está junto a las naves, sino en la playa, de modo que Tetis podría estar implicando “ojalá no estuvieras sentado aquí suplicando sino en donde estás habitualmente”; en segundo lugar, Aquiles no pasa veinticuatro horas al día combatiendo y es natural que su madre no exprese el deseo de que su hijo (¡”de corta vida”!) esté en un campo de batalla.
+para ti el destino es corto…: Tetis recupera la idea de Aquiles de 1.352-353, expandiendo la noción de la corta vida. 
+
+Verso 417
+de muerte veloz: Hay un juego muy marcado aquí con el epíteto de Aquiles (“de pies veloces”), que reproducimos con esta traducción de okúmoros, una palabra que indica que una persona morirá pronto. La referencia se retomará unos versos más abajo, cuando se hable de las naves okúporoi (“de veloz navegar”).
+
+Verso 418
+mal destino: Nótese la repetición de la palabra del v. 416, que con “mal” resume lo elaborado en los versos anteriores. En griego el juego es más claro, porque la palabra aîsa aparece en los dos casos cerca del centro del verso.
+
+Verso 419
+Zeus que goza del trueno: Zeus era el dios de las tormentas y los fenómenos climáticos en general en la Grecia Antigua, al punto que “llueve” se decía muchas veces “Zeus llueve”.
+
+Leer más: Zolotnikova, O. A. (2013) Zeus in Early Greek Mythology and Religion. From prehistoric times to the Early Archaic Period, Oxford: Hadrian Books. https://www.academia.edu/6919489/Zeus_in_Early_Greek_Mythology_and_Religion._From_Prehistoric_Time_to_the_Early_Archaic_Period._BAR_2013_-_content.
+
+Verso 422
+abstenete absolutamente: La frase en griego es polémou d’ apopaúeo pámpan, donde, como puede verse, el sonido <p> se repite varias veces, quizás enfatizando el consejo de Tetis. En nuestra traducción hemos preservado algo del juego con la repetición de “abs-”.
+
+Verso 423
+el Oceano: En la cosmogonía griega del periodo arcaico, el Oceano es un inmenso río que rodea la tierra, personificado como un poderoso dios. Su aparición en el poema siempre señala la lejanía geográfica respecto al mundo humano, un aspecto que en este verso se refuerza con la mención de los etíopes.
+los etíopes: Los etíopes homéricos no deben asociarse con la población real de Etiopía, ni moderna ni antigua, sino que constituyen un pueblo imaginario que habita los confines de la tierra en un estado de vida primitivo propio de la edad dorada (de ahí, como en estos versos, que puedan banquetear con los dioses). 
+
+Verso 425
+doce días: El número es tradicional. Este intervalo de doce días se corresponde con el que se encuentra en el canto 24, durante el cual Aquiles profana el cuerpo de Héctor. Es una de las muchas simetrías que configuran la estructura anular del poema.
+
+Leer más: Whitman, C. M. (1958) Homer and the Heroic Tradition, Cambridge: Harvard University Press, pp. 249-284.
+
+Verso 426
+de piso de bronce: El sentido exacto del término no es claro. Quizás implique que el palacio tenía “cimientos” de bronce, pero hay otras alternativas.
+
+Verso 427
+le abrazaré las rodillas: Sobre el gesto del suplicante que Tetis anuncia aquí, VER ad 1.500, donde lo realiza.
+
+Verso 430
+a la fuerza: El comentario es algo extraño, dado que Aquiles ha entregado a Briseida sin combate. La palabra bié, sin embargo, tiene un sentido amplio y aquí podría estar funcionando como sinónimo de aékon, reforzando el “contra su voluntad”.
+por su parte: La “ley de Zielinski” afirma que el narrador homérico siempre se mueve hacia delante, contando eventos que deben ser simultáneos como si fueran sucesivos. Ha habido muchas discusiones en la crítica sobre si esto es cierto, pero el consenso actual parece ser que una versión limitada es verdadera: Homero puede contar eventos simultáneos como simultáneos, pero en general no se preocupa demasiado por la cronología exacta de los eventos. La narrativa y la emoción son más importantes para él que la precisión de las secuencias temporales. En este caso en particular, por ejemplo, es indiferente si los eventos de Crisa suceden a la vez o después de que Aquiles suplique a su madre; desde el punto de vista narrativo, constituyen una útil digresión entre esa súplica y el ascenso de Tetis al Olimpo.
+
+Leer más: Scodel, R. (2008) “Zielinski’s Law Reconsidered”, Transactions of the American Philological Association 138, 107-125. 
+
+Verso 431
+iba hacia Crisa…: La secuencia que sigue, que concluye oficialmente el episodio de la peste, está repleta de escenas típicas (desembarco, súplica, sacrificio) y es un perfecto ejemplo de técnica tradicional de composición oral.
+
+Verso 432
+y ellos: Se refiere, por supuesto, a los compañeros de Odiseo en este viaje, a los que no ha mencionado desde el verso 311. Este tipo de sobreentendidos son habituales en Homero.
+en cuanto…: Lo que sigue es una descripción detallada de uno de los dos procedimientos de desembarco, el que se utiliza para estadías breves y descarga. Cuando se accede al puerto, se recogen las velas, se quita el mástil que se coloca en un soporte especial que recorre longitudinalmente el barco y se lo lleva hacia la costa remando. La nave no sale del agua, sino que queda anclada y amarrada en un fondeadero junto a la playa. Que este procedimiento se utilizara solo para estadías de corta duración se explica por la vulnerabilidad de las naves de madera al agua del mar y los peligros de la variación de las mareas y las tormentas.
+muy profundo: Este puerto debe pensarse como un canal que llega casi hasta la costa y su “mucha profundidad” es relativa a la habitual en una playa y pensada sobre todo respecto a su utilidad para acercar la nave a tierra.
+
+Verso 436
+y bajaron…: La repetición de formas de “bajar” (ekbállo en griego) señala lo típico y repetitivo del procedimiento de desembarco. Nótese que la secuencia repite la sucesión de 1.308-310 (nave, remeros, hecatombe, Criseida).
+
+Verso 440
+el altar: El bomós es el lugar del templo donde se realizan los sacrificios. Que Odiseo lleve a Criseida hacia allí señala que la escena tiene un carácter ritual, cosa que se confirmará inmediatamente con la súplica de Crises y la escena del sacrificio.
+
+Verso 447
+una sacra hecatombe…: Lo que sigue es una descripción tradicional de una ceremonia de sacrificio, una escena típica de un poema oral donde faltan pocos elementos. La versión completa consta de 30 elementos, pero en ningún caso se manifiestan todos, sino que los poetas seleccionaban los que consideraban más adecuados al contexto. La secuencia, en términos generales, es: disposición de los animales en torno al altar, purificación de los ejecutores, arrojado de cebada sobre las víctimas, muerte y desuello de los animales, extracción de los huesos de los muslos que se recubren en grasa, se les agregan pedazos de carne (simbolizando al animal completo) y se echan al fuego, libación (esto es, volcado de vino) sobre los huesos, trozado de la carne, cocción, banquete y festejo. Algunos elementos que no se encuentran en la escena de este canto son el dorado de los cuernos (Od. 3.436-438), el golpe del hacha para paralizar al animal (Od. 3.449) y el cortar algunos pelos de su cabeza (3.273), que se tiran al fuego (Od. 3.446, 14.442). Desde una perspectiva más general, el sacrificio es un procedimiento que maximiza el valor de una ofrenda a los dioses a través de la purificación de quienes participan en ella y de lo que se ofrece, para asegurarse la buena voluntad del dios en el banquete y respecto a las súplicas que se realizan.
+
+Verso 449
+cebada molida: Debe entenderse “molida gruesa”, no una harina fina. La función de esta cebada en la ceremonia no es del todo clara.
+
+Verso 451
+Escúchame…: Nótese la repetición de 1.37-38, que conecta las súplicas que dan inicio y fin a la peste. La estructura de la plegaria (VER ad 1.37) se repite, pero aquí el argumento será un da ut dedisti (“da porque diste”).
+
+Verso 452
+ya una vez: Entre los argumentos comunes en las plegarias, uno habitual era el “da porque diste”, que se basa en la idea de que si el dios concedió algo en el pasado debe volver a conceder en el presente. La lógica detrás de esto es que la concesión anterior señala un estado de cháris o buena voluntad entre el dios y la persona que obliga al primero a conceder los pedidos del segundo.
+
+Verso 458
+pero una vez que…: Las escenas que siguen están separadas con esta expresión (autàr epeí), que va marcando el comienzo de distintas escenas típicas o partes de una gran escena típica (el comienzo del sacrificio, la preparación de la carne, el banquete, la celebración). Los separadores deben imaginarse como suaves transiciones que facilitan el paso del tiempo necesario entre cada momento del sacrificio.
+
+Verso 460
+los cubrieron con grasa: Hesíodo relata, en Teogonía 535-561 que, cuando los mortales y los dioses estaban distribuyéndose las partes de los animales que les corresponderían, el dios Prometeo, hijo del titán Japeto, colocó la carne y las vísceras dentro del vientre, escondiendo así la mejor parte de la res, mientras que cubrió con grasa los huesos para que parecieran la parte más apetitosa. Zeus eligió la parte que parecía más apetitosa pero en realidad estaba constituída por todo lo desechable e indeseable del animal, y desde entonces eso es lo que los seres humanos deben sacrificar a los dioses.
+
+Verso 461
+una doble capa y trozos de carne: Ambas cosas son meros gestos de gentileza hacia la divinidad. La doble capa de grasa debe imaginarse como una suerte de sándwich que se arma con el grueso, mientras que los trozos de carne representarían simbólicamente la parte comestible del animal.
+
+Verso 462
+refulgente vino: La libación, el verter vino o algún otro líquido sobre el fuego o sobre el suelo, era una práctica habitualísima entre los griegos, que se realizaba no solo en los sacrificios sino antes de las comidas y de muchas otras actividades, puesto que es una práctica que acompaña la plegaria y los griegos realizaban plegarias con enorme frecuencia. En este contexto, por supuesto, el carácter ritual de la ceremonia da a la libación un valor agregado.
+
+Verso 463
+trinches: Pempóbola, es decir, trinches de cinco puntas. Es notable que el término aparece solo aquí y en Od. 3.460.
+
+Verso 464
+las achuras: Las splánchna son las “partes internas” de los animales, es decir, los órganos (el corazón, los pulmones, el hígado, el bazo y los riñones), que eran cocinados (quizás fritos) mientras se quemaba la porción debida a los dioses y comidos (como se habitúa en Argentina hoy en día, por ejemplo) como entrada antes de la carne.
+
+Leer más: van Straten, F. T. (1995) HIERA KALA. Images of Animal Sacrifice in Archaic and Classical Greece, Leiden: Brill, pp. 131-133. 
+
+Verso 468
+igual porción: Debe entenderse que todos los participantes recibían lo mismo, aunque podría pensarse que la igualdad aquí es relativa respecto a la importancia de los comensales. Una práctica de este tipo es atestiguada por Herodoto 6.57, que afirma que los reyes de Esparta tenían el privilegio de doble ración en los sacrificios. En este caso, no hay nada que sugiera eso en el texto, pero es claro que podría estar dándose por sobreentendido (la audiencia original del poema no necesitaría la explicación).
+
+Verso 470
+las crateras: Las crateras eran grandes vasijas en donde se mezclaba el vino con el agua, dado que los griegos no lo tomaban puro.
+
+Verso 472
+el baile: La palabra griega molpé expresa un concepto algo ajeno a la cultura occidental contemporánea pero muy frecuente en todo el mundo y a lo largo de la historia, esto es, la conjunción de canto, música y danza. La ausencia de esta noción en nuestra cultura hace imposible ofrecer una traducción precisa, pero hemos entendido que “baile” es más adecuado, puesto que implica por lo menos la presencia de música y sugiere la del canto.
+
+Leer más: Gourlay K. A. (1984) “The Non-Universality of Music and the Universality of Non-Music”, The World of Music 26, 25-39. 
+
+Verso 473
+cantando un peán: No debe entenderse como un agregado (“bailaban y además cantaban”), por lo señalado en la nota al verso 472, sino como una especificación (lo que cantaban era un peán). El peán era un tipo de canto dirigido al dios Apolo, de carácter apotropaico, y se entonaba sobre todo para pedir la protección contra un mal o celebrar la liberación de uno.
+
+Verso 475
+el Sol: Como sucede con la Discordia (VER ad 1.177), el Sol era una divinidad entre los griegos al mismo tiempo que un fenómeno natural. Nuestra traducción preserva la ambigüedad utilizando la palabra en español con mayúscula; “Sol” es tanto el fenómeno celeste como el nombre del dios detrás de él.
+
+Verso 476
+durmieron junto a las amarras: Para despertarse con la aurora y aprovechar los vientos de la mañana.
+
+Verso 477
+la Aurora: Sucede con la Aurora lo mismo que con el Sol (VER ad 1.475), en este verso en particular evidenciado por el uso de epítetos propios de la diosa al indicar la aparición del fenómeno natural. Es importante destacar que no deben concebirse como cosas distintas: el fenómeno natural es una divinidad que puede manifestarse antropomórficamente.
+
+Verso 479
+envió próspera brisa Apolo: La tercera y definitiva marca de que el dios ha perdonado a los aqueos, después de que se señala que “escucha” a Crises en 1.457 y que goza del canto en 474.
+
+Verso 482
+purpúreo: Debe entenderse del color oscuro de las olas alrededor de la quilla de la nave. Sobre la interpretación del adjetivo, VER Nota a la traducción ad loc.
+
+Verso 485
+la nave negra arrastraron: Se describe aquí el segundo procedimiento de desembarco (VER ad 1.432), en este caso el utilizado para estadías de largo plazo. La nave es sacada del mar, colocada sobre la playa más allá del alcance de la marea (de donde “arriba”) y asegurada con troncos para que no se bamboleé con el viento o el agua en caso de una marea muy alta. Esto previene el desgaste del barco de madera y facilita las tareas de mantenimiento necesarias (como, por ejemplo, el recubrimiento del casco con alquitrán). Por supuesto, dificulta considerablemente la partida, por lo que solo es viable cuando hay certeza de que no será necesario salir huyendo. 
+
+Verso 492
+ansiaba el griterío y la guerra: Recuérdense las palabras de Agamenón en 1.177 (“pues siempre la discordia te es querida, y las guerras y los combates”); el narrador aquí confirma la observación del rey. Debe notarse, sin embargo, que no es un rasgo negativo en un guerrero ansiar la batalla.
+
+Verso 500
+se sentó y le tomó las rodillas: El gesto típico del suplicante en la Grecia Antigua es arrojarse a los pies, abrazar las rodillas con el brazo izquierdo y colocar la palma de la mano derecha debajo del mentón. La posición tiene dos efectos a la vez: inmovilizar a la persona a la que se le suplica y colocar al suplicante en una situación de vulnerabilidad absoluta.
+
+Verso 504
+cúmpleme este deseo: El canto 1 se articula sobre tres “deseos” introducidos por esta frase (1.42, 455, 504), que marcarán el inicio de los incontables dolores de los aqueos del verso 2: el de Crises a Apolo por la peste, el del mismo sacerdote para que la peste termine y el de Tetis a Zeus para que este beneficie a los troyanos. Nótese la sofisticada técnica narrativa homérica que, entre el pedido de Aquiles a su madre y la formulación del último deseo, introduce una larga escena marcada por la formulación y cumplimiento de otro que alivia los dolores. Cuando todo parece que va a mejorar viene el peor de los golpes.
+
+Verso 505
+el de vida más corta: Los discursos de Tetis y Aquiles han insistido con esta noción, que será fundamental en el último tercio de Ilíada.
+
+Verso 507
+del que se apoderó él mismo: VER ad 1.356.
+
+Verso 510
+lo engrandezcan con honra: O, alternativamente, “le paguen la honra que le deben”, si se entiende que se trata de una forma de opheílo, cuya forma épica es homónima del verbo ophéllo que quiere decir “agrandar, engrandecer”. Es importante destacar que el discurso de Tetis está marcado por tres repeticiones del concepto de timé (505, 507 y 510) y dos del verbo tíno (“retribuir”), semántica, fonética y etimológicamente (a través del verbo tío) ligados.
+
+Verso 512
+se sentó en silencio largo rato: Una reacción inusual, que marca el suspenso en la escena. Es dable pensar que el rapsoda ralentizaría aquí el tempo de la recitación.
+
+Verso 513
+le volvió a preguntar por segunda vez: Un extraño caso de dos discursos seguidos del mismo personaje (se encontrará otro en 1.571-594 y otro más recién en 4.188-197). También podría pensarse, sin embargo, que el silencio de Zeus funciona como respuesta y que estos versos, por lo tanto, no entran en esa categoría.
+
+Verso 514
+Infaliblemente…: Aquí y en el discurso que sigue comienza a enfatizarse la certeza de la promesa de Zeus, que refleja la que Aquiles ha mostrado en la formulación de su promesa en 1.225-244.
+asiénteme: El gesto de asentir era entre los griegos una forma de sellar una promesa; de hecho, el verbo kataneúo quiere decir tanto asentir como prometer. El asentimiento de Zeus era un caso especial, porque constituía un gesto sagrado que garantizaba fuera de toda duda el cumplimiento de lo prometido (como el mismo dios afirmará en su respuesta).
+
+Verso 515
+ya que no existe para ti el miedo: Naturalmente, el miedo de que alguien vaya a reprocharte o impedirte cumplir la promesa. Tetis no se equivoca, pero el poeta matizará un poco la omnipotencia de Zeus com la comedia doméstica de lo que queda del canto.
+
+Verso 516
+cuánto yo entre todos…: Hay aquí, por supuesto, una ironía vinculada con el favor que Tetis ha hecho a Zeus en el pasado. Nótese la nueva aparición del concepto de honra y la vinculación potencial entre Zeus y Agamenón (que se reforzará en la amenaza a Hera de 1.563-567; VER ad 1.563, 568, 570, 581).
+
+Verso 518
+ruinosas acciones…: La primera parte de la respuesta de Zeus no podría ser más lejana a la omnipotencia del dios del rayo que ha venido anunciándose a lo largo del canto y parecía subrayada por el silencio solemne ante el pedido de Tetis. Al hablar (¡por primera vez en Ilíada!), el dios se revela como un pobre marido temeroso de los reproches de su esposa. En la estructura del poema, es el primer movimiento de un alivio cómico antes del comienzo de las consecuencias de la ira de Aquiles; desde una perspectiva más amplia, muestra que a veces es mejor permanecer callado.
+
+Verso 521
+conmigo / riñe: Las peleas entre Hera y Zeus eran un tópico de la literatura griega y estaban a menudo motivadas (como a continuación) por la conducta del marido respecto a alguna mujer, en general una mortal. Aunque el poeta ofrece una versión relajada de este tipo de conflictos en lo que sigue, la diosa era capaz de una crueldad enorme (VER, por ejemplo, ad 1.9, respecto a su reacción ante el embarazo de Leto).
+yo socorro a los troyanos: Zeus expresará su aprecio por los troyanos otras veces en el poema (por ejemplo, en 4.44-49), pero en su conducta efectiva se muestra neutral y obediente a los designios de la moira (es decir, del destino). Las acusaciones de Hera son infundadas (aunque entendibles en el contexto doméstico de la relación entre esposos).
+
+Verso 522
+no sea que se entere…: La solemnidad cae hasta su punto más bajo, justo antes de la promesa que le costará la vida a muchos de los aqueos.
+
+Verso 530
+se estremeció el gran Olimpo: El final de la escena está marcado por esta imagen que garantiza el alcance y poder de la promesa. Nótese cómo el movimiento se expande como una onda, desde las cejas de Zeus hacia sus cabellos hacia todos el Olimpo.
+
+Verso 534
+ninguno aguantó: La señal de respeto de levantarse ante la llegada de Zeus se expresa aquí como un gesto de temor. Ninguno de los dioses se atreve a esperar a Zeus sentado.
+
+Verso 536
+no / lo desconoció: La expresión griega ou min egnoíesen tiene una doble negación (el verbo es agnoéo, con alfa privativa) y acaso debe entenderse anticipando la ironía de lo que sigue. Podríamos parafrasearlo con “y Hera, que no era tonta y lo conocía”.
+
+Verso 537
+habiendo visto: Esto viene como una sorpresa y confirma los temores de Zeus de que Hera podía ver a Tetis en el palacio. Uno podría imaginarse en una versión audiovisual una toma de Hera escuchando la conversación detrás de una puerta, que aquí se manifiesta con esta observación del poeta antes de su discurso.
+
+Verso 538
+Tetis de pies de plata…: Brillantes, reflectantes como la superficie del mar, apropiados por lo tanto para una deidad marina. Es peculiarísima la ocasión en la que el poeta decide introducir por primera vez un verso completo para mencionar a Tetis, y todavía más que lo pondrá en boca de Hera apenas unos versos más adelante (1.556). Parecería tratarse de un caso de focalización que comienza con “no lo desconoció” (VER ad 1.536) e incluye este verso como marca del carácter celoso y algo obsesivo de la esposa de Zeus.
+
+Verso 539
+palabras mordaces: Kirk dice de lo que sigue, con toda razón, “es un maravillosamente taimado discursito”. Hera está enojada con Zeus pero no le dice por qué, sino que lo acusa de hacer las cosas por su cuenta, algo que, por supuesto, no es el problema real aquí.
+
+Verso 540
+¿Quién…: La hipocresía de Hera es evidente por lo que acaba de expresar el narrador y por lo que la propia diosa afirmará más adelante. Hera sabe perfectamente quién.
+¡farsante!: Dolomêta (un hápax), es decir, con una mêtis (un pensamiento) dolosa, engañosa. La acusación implícita es que Zeus es un mentiroso, de donde nuestra traducción.
+
+Verso 541
+estando lejos de mí: El tono doméstico de la discusión fue observado en un escolio (Σ ad 1.541), que habla de un “discurso doméstico”; otro (Σ ad 1.542), señala que “las esposas se enojan cuando sus maridos no les comunican todas las cosas”.
+
+Verso 545
+No esperés…: No es del todo claro si Zeus ha podido leer entre las líneas del mensaje de Hera y comprendido que esta sabe que se reunió con Tetis. Su respuesta parece más bien dirigida a la literalidad del discurso, lo que explica por qué Hera debe explicarle con algo más de detalle cuál es el problema.
+
+Verso 546
+te serán difíciles: Debe entenderse o bien que le resultarán molestas o bien que no podrá comprender la complejidad del pensamiento de Zeus. En todo caso, es una marcada toma de distancia con Hera, que parece concebirse como una igual a su marido en este pasaje.
+
+Verso 551
+Hera venerable, la de ojos de buey: La vaca es un animal asociado a Hera, diosa del matrimonio y la fertilidad. La idea detrás del epíteto parece ser que tenía ojos grandes y con mirada plácida. Sobre pótnia, VER ad 1.357.
+
+Verso 552
+Terribilísimo Cronida: Quizás en ningún otro lugar de la escena la relación entre los dioses se hace tan evidente, puesto que esta apelación a Zeus solamente aparece en boca de Hera en el poema. Ainótate, de hecho, es una palabra utilizada exclusivamente en esta expresión en Ilíada.
+¿qué es esta palabra que dijiste?: La frase es habitual en respuestas indignadas o sorprendidas. Nótese la técnica de palabra repetida entre este comienzo de discurso y el de Zeus, en 1.545.
+
+Verso 553
+Tampoco en el pasado…: Los versos constituyen una respuesta retórica que casi podría leerse como una acusación a Zeus de no haber entendido la primera acusación. “¿Por qué crees que ahora me molesta que hagas cosas solo si nunca me había molestado? ¡Leé entre líneas!”, uno se sentiría tentado de parafrasear.
+
+Verso 556
+Tetis de pies de plata…: Hera repetirá todos los pasos de la conversación narrada en 1.495-530 (“con la primera niebla”, “se sentó a tu lado y tomó tus rodillas”, “asentiste”, “honrará a Aquiles”), demostrando que desde el comienzo sabía todo lo que había pasado. Podría decirse que la diosa cambia su actitud de hacerse la tonta a mostrar que ya sabe todo lo que Zeus le quería ocultar.
+
+Verso 561
+???????: El adjetivo daimónios es de dificilísima traducción. Deriva de la palabra daímon (VER ad 1.222), pero es poco claro con qué sentido. Los contextos en los que aparece, siempre en respuestas a discursos, sugieren “poseído o afectado por un daímon”, algo que debe considerarse como negativo, puesto que daimónios es siempre un insulto o una expresión de lamento por el interlocutor. Que su sentido original (si es el sugerido) se ha perdido por completo para la época del poeta lo demuestra el hecho de que aquí es dirigido a un dios por otro.
+
+Verso 563
+será incluso más terrible: La misma frase con la que Agamenón amenaza indirectamente a Aquiles en 1.325. En estos versos se repiten frases de Agamenón y referidas a él, generando una vinculación entre los dos grandes “reyes” del canto 1, es decir, Agamenón y Zeus. La relación se manifiesta, por supuesto, como un contraste: mientras que Zeus impone temor y respeto y sus órdenes se cumplen, el intento de Agamenón de conservar o recuperar su botín termina con un desastre para el ejército.
+
+Verso 566
+no sea que no: La frase es una repetición casi textual de la amenaza dirigida por Agamenón a Crises en 1.28 (VER ad 1.563).
+
+Verso 567
+las invictas manos encima: La idea de “poner las manos encima” había aparecido en 1.89, cuando Aquiles promete a Calcas que nadie le pondrá las “pesadas manos encima”, ni si hablara de Agamenón.
+
+Verso 568
+y temió…: La reacción de Hera es la misma que la del sacerdote Crises en 1.33; la diosa, sin embargo, no planeará una venganza cruel contra Zeus, sino que, como este ordena (1.565), se sentará callada.
+
+Verso 570
+se amargaron: La mención de la reacción de los dioses contrasta con el silencio total respecto a la de los aqueos en el ágora en la discusión de Aquiles y Agamenón. Como allí, uno de los presentes intervendrá (en este caso, un joven, no un viejo), con un resultado mucho más exitoso, continuando con el contraste entre los mundos divino y humano.
+
+Verso 571
+Hefesto, glorioso artesano: Hefesto es hijo de Zeus y Hera y el dios del fuego y, acaso por extensión, de la herrería. Su papel en Ilíada es importante, puesto que aparece aquí, en 21.342-356 asistiendo a Aquiles y es el protagonista del canto 18, donde elabora las armas del héroe y su famosísimo escudo. En contraste con sus habilidades extraordinarias para la artesanía metálica y la joyería (tiene incluso autómatas que lo asisten en lo que puede considerarse la más primitiva forma de ciencia ficción de la historia), su apariencia física es horrible y es “cojo de ambas piernas”, por lo que parece no poder caminar sin asistencia. Es notable que, mientras que el resto de los dioses se ríen de él y en el canto 8 de  Odisea se relatará que su esposa (Afrodita, aunque en Il. 18.382-383 se dice que está casado con châris) lo engaña con otro dios (Ares), fue Hefesto el que construyó todas las armas y palacios del Olimpo.
+
+Verso 573
+¡Sin duda…: Hefesto repite las palabras con las que Zeus responde a Tetis en 1.518 (VER ad loc.), dando inicio o al menos anticipando la escena doméstica en el Olimpo. Esta reiteración cierra el círculo con la típica técnica homérica de la estructura anular, permitiendo que los dioses se ocupen de lo que usualmente se ocupan: la comida, la bebida y el canto.
+
+Verso 575
+ni del banquete: La preocupación de Hefesto, como se ve, no es la desgracia que pudiera causar la pelea entre sus padres, sino que eso haría incómoda la hora de la cena. La repetición de la idea en 1.579 confirma esta idea, por completo coherente con la concepción de los dioses como seres inmortales, despreocupados y siempre felices (VER ad 1.339).
+
+Verso 581
+él es con mucho superior: Aunque sin repetición textual de una frase, se reproduce aquí la idea expresada por Néstor sobre Agamenón en 1.281 (VER ad loc.). Por supuesto, la superioridad de Zeus es mucho más clara que la del rey de Micenas.
+
+Verso 584
+una copa de doble asa: Estas copas parecen haber sido las más habituales y son las que con más frecuencia se hallan en los sitios arqueológicos.
+
+Verso 586
+aunque estés preocupada: Nótese la analepsis de 1.196 y 209, donde se habla de la preocupación de Hera respecto al ejército aqueo.
+
+Verso 587
+y entonces no podré…: Hefesto repite casi textualmente las palabras de Aquiles en 1.241-242, es decir, el punto culminante de la formulación original de su promesa, reemplazando a Héctor por Zeus como agente de la violencia temida. La conexión entre los pasajes refuerza una asociación entre el héroe y el dios como co-agentes de la destrucción del ejército aqueo en el poema.
+
+Verso 590
+Pues ya otra vez a mí…: Hay dos versiones de la historia de Hefesto arrojado del Olimpo (que, quizás, servirían para explicar su cojera), o acaso dos mitos separados en donde sucede lo mismo. La más famosa es la que transcurre el día del nacimiento del dios, en el que su madre, por su fealdad, lo arroja hacia el mar, donde es rescatado por las nereidas (se mencionará en 18.394-399). La que se relata aquí parece vinculada con los eventos que recuerda Zeus en 15.18-33, donde se relata una ocasión en la que Hera hizo naufragar a Heracles en la isla de Cos y su marido la suspendió colgando dos yunques de sus pies, amenazando con arrojar a cualquier dios que quisiera ayudarla.
+
+Verso 592
+todo el día: La descripción de la caída tiene una sutileza admirable, en la que entre el lanzamiento y el impacto hay todo un verso para marcar el tiempo durante el cual Hefesto estuvo en el aire.
+
+Verso 593
+Lemnos: Lemnos es una isla del noroeste mar Egeo, ubicada al sur de Tracia y a unos 240 km. del Monte Olimpo (lo que da una idea de la violencia del lanzamiento de Zeus). Su conexión con Hefesto aparece también en el canto de Demódoco en Od. 8.283-284, donde el dios finge ir allí. Otras fuentes sugieren un importante festival conducido por artesanos y dedicado a la restauración del fuego sagrado en la isla, lo que sugiere un culto importante de Hefesto.
+
+Leer más: Burkert, W. (1997) Homo Necans. Interpretationen altgriechischer Opferriten und Mythen, Berlin: De Gruyter, pp. 212-218 [traducción al inglés de la primera edición de 1972 por P. Bing, Berkely: University of California Press, 1983, pp. 190-196].
+
+Verso 594
+los varones sintíes: Los sintíes son, según el escoliasta, los habitantes pre-griegos de la isla de Lemnos. Sobre su filiación étnica y cultura no es posible decir demasiado, aunque Tuc. 2.98.1 habla de los síntoi como un pueblo tracio, lo que parece al menos coherente con su ubicación geográfica.
+
+Verso 597
+hacia la derecha: Como corresponde, lo que sugiere que se incluye aquí para señalar el estado de orden que reina en el Olimpo.
+
+Verso 598
+dulce néctar: La bebida de los dioses, que se escancia como vino en sus banquetes pero tiene propiedades mágicas para combatir la muerte y la decadencia, como indica que detiene la descomposición del cadáver de Patroclo en 19.37-39.
+
+Verso 599
+una risa inextinguible: El final de la tensión en el Olimpo está marcado por este verso y el que sigue, en el que Hefesto, acaso buscando hacer reír a los demás apropósito, ocupa el rol de Ganimedes o Hebe, los coperos del Olimpo, ambos jóvenes, bellos y sin duda mucho más hábiles que el dios cojo.
+bienaventurados: El epíteto (sobre el cual, VER ad 1.339) aparece aquí por tercera vez, después de ser utilizado por Aquiles en 1.339 y 406. La secuencia configura un extraordinario movimiento desde el mundo humano en conflicto (la reiteración de la promesa de Aquiles dirigida a los heraldos), al mundo divino en conflicto (la historia del intento de encadenamiento de Zeus) al mundo divino en orden (la celebración en el Olimpo que cierra el canto), casi como si se hubiera buscado marcar el contraste entre el desarrollo del segundo, donde nadie sufre y todo termina bien, y el del primero, donde el conflicto apenas está comenzando.
+
+Verso 602
+banquetearon…: Se repite 1.468, una fórmula habitual para indicar la celebración de un banquete, que aquí no puede menos que vincularse con las situaciones contrastantes en los mundos divino y humano.
+
+Verso 603
+la forminge: Un instrumento de cuerda, atributo habitual de Apolo, con el que se solían acompañar canciones en el banquete, cantos épicos e himnos.
+
+Verso 604
+las Musas: Aunque no es de sorprender que las Musas aparezcan cantando en un banquete en el Olimpo, la simetría con el comienzo del canto no puede dejar de notarse.
+alternándose: Ameibómenai, de donde nuestro canto “amebeo”, en donde una voz se alterna con la otra. Esta es la primera referencia a este tipo de modo de ejecución del canto. Cómo debe interpretarse exactamente en este verso (si cantaban un verso cada una, o una estrofa, o había dos grupos que se respondían entre sí), es, por supuesto, imposible saberlo.
+
+Verso 607
+el gloriosísimo lisiado: Un fórmula tradicional de Hefesto, pero notablemente restringida en la poesía homérica a esta instancia, al canto 18 de Ilíada (la elaboración de las armas de Aquiles, de las cuales hay quizás aquí una prolepsis; también “sagaz entendimiento” se repetirá allí) y al canto 8 de Odisea (los amores de Ares y Afrodita).
+
+Verso 611
+allí, subiendo, se acostó: La repetición del comienzo, marcando que esta instancia es una más de lo que sucede habitualmente, señala el estado de orden en el Olimpo, contrastado de manera explícita en el inicio del próximo canto con la situación en el ejército aqueo. El sueño de Zeus es el último momento de paz en el texto hasta el canto 23.

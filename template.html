@@ -1,0 +1,195 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <style>
+      body {
+	  color: #42210a;
+	  font-family: Arial;
+	  font-size: 10pt;
+	  background-color: #f2eee8;
+      }
+
+      .header {
+	  background-image:
+	      url('http://iliada.com.ar/wp-content/uploads/2019/03/cropped-Imagen-1.jpg');
+	  height: 20%;
+      }
+
+      .sidenav {
+	  width: 30%;
+	  float: right;
+	  overflow-x: hidden;
+	  height: 70%;
+      }
+
+      .main {
+	  width: 70%;
+	  float: left;
+	  overflow-x: hidden;
+	  overflow-y: scroll;
+	  height: 80%;
+      }
+
+      .text {
+      }
+
+      .text table {
+	  border-right: 1px solid #42210a;
+      }
+
+      .text table tr:nth-child(odd) td {
+	  background-color: #ded7c8;
+      }
+
+      .options {
+	  float: left;
+	  font-weight: bold;
+	  height: 10%;
+      }
+
+      .notes {
+	  clear: both;
+	  font-size: large;
+	  line-height: 25px;
+	  background-color: #f2eee8;
+      }
+
+      .note {
+	  padding-bottom: 20px;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  text-align: justify;
+	  border-bottom: 1px dashed #42210a;
+	  line-height: 150%;
+	  font-family: Helvetica;
+	  color: #726e64;
+      }
+
+      .note_passage {
+	  font-weight: bold;
+	  font-size: 11px;
+      }
+
+      .note_tags {
+	  font-weight: bold;
+	  font-size: 9px;
+	  color: #bc4218;
+      }
+
+      .verse_translated {
+	  padding-bottom: 20px;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  text-align: center;
+	  border-bottom: 1px dashed #ded7c8;
+	  font-weight: bold;
+      }
+
+      .verse_original {
+	  padding-bottom: 20px;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  text-align: center;
+	  border-bottom: 1px dashed #ded7c8;
+      }
+
+      .verse_number {
+	  border-bottom: 1px dashed #ded7c8;
+	  color: #bc4218;
+	  font-weight: bold;
+	  font-size: 10pt;
+	  text-align: center;
+      }
+
+      .note_number {
+	  vertical-align: sub;
+	  color: #bc4218;
+	  font-size: smaller;
+	  padding: 1px;
+      }
+
+      .passage_selected {
+	  color: #bc4218;
+	  text-decoration: underline;
+	  font-size: larger;
+      }
+
+      .passage {
+	  text-decoration: underline dashed grey;
+      }
+
+      :target .note_passage {
+	  font-size: 13pt;
+	  text-decoration: underline;
+	  text-decoration-color: #bc4218;
+      }
+
+      :target {
+	  font-size: 14pt;
+	  background-color: #ded7c8;
+	  color: #42210a;
+      }
+
+      h1.title {
+	  color: #f2eee8;
+	  padding: 20px;
+	  font-size: 50px;
+	  font-family: Serif;
+      }
+    </style>
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script>
+      function show_notes_for_tag(tag, value) {
+	  $('[tags~=' + tag + ']').toggle(value);
+      }
+      function show_note(note_identificator) {
+	  $('.passage').each(function () {
+	      $(this).removeClass('passage_selected');
+	  });
+	  $('#passage_' + note_identificator).addClass('passage_selected');
+      }
+    </script>
+  </head>
+  <body>
+    <div class="header">
+      <h1 class="title">iliada.com.ar</h1>
+    </div>
+    <div class="main" id="main">
+      <div class="text">
+	<table>
+	  {% for verse in text %}
+	  <tr>
+	    <td class="verse_number">{{ verse.number }}</td>
+	    <td class="verse_original">{{ verse.original }}</td>
+	    <td class="verse_translated">{{ verse.translated }}</td>
+	  </tr>
+	  {% endfor %}
+	</table>
+      </div>
+    </div>
+    <div class="options sidenav">
+      <h1>Canto 1</h1>
+	Tipos de notas:
+	{% for tag in tags %}
+	<input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{ tag }}', this.checked)">{{ tag }}</input>
+	{% endfor %}
+    </div>
+    <div class="sidenav" id="sidenav">
+      <div class="notes">
+	<table>
+	  {% for note in notes %}
+	  <tr tags="{{ note.get_tags() }}">
+	    <td class="note">
+	      <div id="{{ note.identificator }}">
+		<span class="note_passage">v{{ note.verse }}, {{ note.passage }}</span>
+		<span>{{ note.body }}</span>
+		<span class="note_tags">{{ note.get_tags() }}</span>
+	      </div>
+	    </td>
+	  </tr>
+	  {% endfor %}
+	</table>
+      </div>
+    </div>
+  </body>
+</html>
