@@ -10,9 +10,10 @@ from enum import Enum
 
 class Note:
 
-    def __init__(self, verse, passage, body, tags=None):
+    def __init__(self, verse, passage, body, number, tags=None):
         self.verse = verse
         self.passage = passage
+        self.number = number
         self.body = body
         self.tags = []
         self.identificator = str(verse) + str(uuid.uuid4())
@@ -31,12 +32,69 @@ class Note:
         return matches
 
 
+class Passage:
+
+    def __init__(self, span, note):
+        self.span = span
+        self.note = note
+
+
 class Verse:
 
-    def __init__(self, original, translated, number):
-        self.original = original
-        self.translated = translated
+    def __init__(self, number, body):
         self.number = number
+        self.body = body
+        self.passages = []
+
+    def format_with_passages(self):
+        verse = self.body
+        orig_length = len(verse)
+        offset = 0
+        replacements = {}
+        for passage in self.passages:
+            verse = insert_str(verse, '<a href="#{i}" class="note_number" tags="{t}" onclick="show_note(\'{i}\');">{c}</a>'.format(
+                i=passage.note.identificator, c=passage.note.number,
+                t=passage.note.get_tags()), passage.span[1] + offset)
+            offset = len(verse) - orig_length
+        return verse
+
+
+class Text:
+
+    def __init__(self, filename):
+        self.verses = []
+        with open(filename, encoding='utf-8') as f:
+            number = 1
+            verse = f.readline()
+            while verse:
+                # remove verse numbers if exist
+                verse = re.sub('[0-9]+$', '', verse)
+                verse = re.sub('^[0-9]+', '', verse)
+
+                # remove blank spaces
+                verse = verse.strip()
+
+                self.verses.append(Verse(number, verse))
+
+                number += 1
+                verse = f.readline()
+
+    def add_passages_for_notes(self, all_notes):
+        for verse in self.verses:
+            notes = Note.get_notes_for_verse(all_notes, verse.number)
+            for note in notes:
+                regexp = note.passage
+                regexp = regexp.replace('...', '…')
+                regexp = re.escape(regexp)
+                regexp = regexp.replace('…', '(.*)')
+                regexp = re.compile(regexp, re.IGNORECASE)
+                match = re.search(regexp, verse.body)
+                if match == None:
+                    print("Error procesando nota en verso {n} {v} -> {p}"
+                          .format(n=verse.number, v=verse.body,
+                                  p=note.passage), file=sys.stderr)
+                    continue
+                verse.passages.append(Passage(match.span(), note))
 
 
 class Tag(Enum):
@@ -52,49 +110,15 @@ def insert_str(string, str_to_insert, index):
     return string[:index] + str_to_insert + string[index:]
 
 
-def combine(text, notes):
-    notes_counter = 0
-
-    for verse in text:
-        associated_notes = Note.get_notes_for_verse(notes, verse.number)
-        for associated_note in associated_notes:
-            reg = re.compile(re.escape(associated_note.passage).replace('…', '(.+)'), re.IGNORECASE)
-            match = re.search(reg, verse.translated)
-            if match == None:
-                print("Error procesando verso " + str(verse.number) + "  " + associated_note.passage, file=sys.stderr)
-                continue
-            span = match.span()
-            notes_counter += 1
-            delta = len(verse.translated)
-            verse.translated = insert_str(
-                verse.translated,
-                '</span><a href="#{i}" class="note_number" tags="{t}" onclick="show_note(\'{i}\');">{c}</a>'.format(
-                    i=associated_note.identificator, c=notes_counter,
-                    t=associated_note.get_tags()), span[1])
-            verse.translated = insert_str(
-                verse.translated,
-                '<span id="passage_{i}" class="passage">'.format(
-                    i=associated_note.identificator), span[0])
-
+def generate_document(translation, greek, notes):
     file_loader = jinja2.FileSystemLoader('.')
     env = jinja2.Environment(loader=file_loader)
     template = env.get_template('template.html')
+    text = zip(translation.verses, greek.verses)
     with open('texto.html', 'w+', encoding='utf-8') as f:
         f.write(template.render(notes=notes,
                                 text=text,
                                 tags=[str(t) for t in Tag]))
-
-
-def get_text(filename):
-    text = []
-    with open(filename, encoding='utf-8') as f:
-        line = f.readline()
-        while line:
-            line = re.sub('[0-9]+$', '', line)
-            line = re.sub('^[0-9]+', '', line)
-            text.append(line)
-            line = f.readline()
-    return text
 
 
 def get_notes1():
@@ -102,12 +126,14 @@ def get_notes1():
         notes_source = f.read()
     matches = re.findall('v. ([0-9]+), (.*?): (.*)', notes_source)
     notes = []
+    count = 1
     for match in matches:
         number = int(match[0])
         passage = match[1]
         body = match[2]
-        note = Note(number, passage, body, [Tag.TRANSLATION])
+        note = Note(number, passage, body, count, [Tag.TRANSLATION])
         notes.append(note)
+        count += 1
     return notes
 
 
@@ -116,6 +142,7 @@ def get_notes2():
         notes_source = f.read()
     notes_source = notes_source.split('\n')
     notes = []
+    count = 1
     for idx, line in enumerate(notes_source):
         match = re.search('Verso ([0-9]+)', line)
         if match:
@@ -125,19 +152,24 @@ def get_notes2():
                 if notes_source[i] == '':
                     break
                 passage, body = notes_source[i].split(': ', 1)
-                note = Note(number, passage, body, [Tag.TEXT])
+                note = Note(number, passage, body, count, [Tag.TEXT])
                 notes.append(note)
+                count += 1
                 i += 1
     return notes
 
 
 if __name__ == '__main__':
-    translation = get_text('traduccion.txt')
-    greek = get_text('griego.txt')
-    text = []
-    for i in range(len(translation)):
-        text.append(Verse(greek[i], translation[i], i + 1))
-    notes = get_notes1()
-    notes.extend(get_notes2())
+    translation = Text('traduccion.txt')
+    greek = Text('griego.txt')
+
+    notes1 = get_notes1()
+    notes2 = get_notes2()
+
+    greek.add_passages_for_notes(notes1)
+    translation.add_passages_for_notes(notes2)
+
+    notes = notes1 + notes2
     notes.sort(key=lambda n: n.verse)
-    combined_text = combine(text, notes)
+
+    generate_document(translation, greek, notes)

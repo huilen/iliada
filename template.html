@@ -19,7 +19,7 @@
 	  width: 30%;
 	  float: right;
 	  overflow-x: hidden;
-	  height: 70%;
+	  height: 60%;
       }
 
       .main {
@@ -37,14 +37,10 @@
 	  border-right: 1px solid #42210a;
       }
 
-      .text table tr:nth-child(odd) td {
-	  background-color: #ded7c8;
-      }
-
       .options {
 	  float: left;
 	  font-weight: bold;
-	  height: 10%;
+	  height: 20%;
       }
 
       .notes {
@@ -81,7 +77,6 @@
 	  padding-left: 10px;
 	  padding-right: 10px;
 	  text-align: center;
-	  border-bottom: 1px dashed #ded7c8;
 	  font-weight: bold;
       }
 
@@ -90,11 +85,9 @@
 	  padding-left: 10px;
 	  padding-right: 10px;
 	  text-align: center;
-	  border-bottom: 1px dashed #ded7c8;
       }
 
       .verse_number {
-	  border-bottom: 1px dashed #ded7c8;
 	  color: #bc4218;
 	  font-weight: bold;
 	  font-size: 10pt;
@@ -148,6 +141,9 @@
 	  });
 	  $('#passage_' + note_identificator).addClass('passage_selected');
       }
+      function show_greek_text() {
+	  $('.verse_original').toggle();
+      }
     </script>
   </head>
   <body>
@@ -158,10 +154,10 @@
       <div class="text">
 	<table>
 	  {% for verse in text %}
-	  <tr>
-	    <td class="verse_number">{{ verse.number }}</td>
-	    <td class="verse_original">{{ verse.original }}</td>
-	    <td class="verse_translated">{{ verse.translated }}</td>
+	  <tr class="verse">
+	    <td class="verse_number">{{ verse[0].number }}</td>
+	    <td class="verse_original">{{ verse[1].format_with_passages() }}</td>
+	    <td class="verse_translated">{{ verse[0].format_with_passages() }}</td>
 	  </tr>
 	  {% endfor %}
 	</table>
@@ -169,10 +165,16 @@
     </div>
     <div class="options sidenav">
       <h1>Canto 1</h1>
+      <div>
 	Tipos de notas:
 	{% for tag in tags %}
 	<input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{ tag }}', this.checked)">{{ tag }}</input>
 	{% endfor %}
+      </div>
+      <div>
+	Opciones:
+	<input type="checkbox" checked="checked" onclick="show_greek_text()">mostrar griego</input>
+      </div>
     </div>
     <div class="sidenav" id="sidenav">
       <div class="notes">
