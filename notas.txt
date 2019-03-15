@@ -1,18 +1,18 @@
 v. 5, πᾶσι: como la mayoría de los editores modernos, optamos por πᾶσι en lugar de la variante δαῖτα, por las mismas razones que West, Studies, ad loc.
 
-v. 11, τὸν Χρύσην: τὸν Χρύσην ha sido criticado por mucho tiempo como un giro no-homérico (cf. West, Studies, ad loc.). Sería así si se tomara como el artículo, pero esta no es la única alternativa, puesto que puede estar con su valor habitual de pronombre con un valor catafórico (“de presentación”, como sugiere Chant. 2.162, 165). Nuestra traducción refleja este valor, que parece coherente con el estilo oral homérico.
+v. 11, τὸν Χρύσην: τὸν Χρύσην ha sido criticado por mucho tiempo como un giro no-homérico (cf. West, Studies, ad loc.). Sería así si se tomara como el artículo, pero esta no es la única alternativa, puesto que puede estar con su valor habitual de pronombre con un valor catafórico (“de presentación”, como sugiere Chant. 2.162, 165). Nuestra traducción refleja este valor, que parece coherente con el estilo oral homérico.
 
-v. 20, φίλην: La idea equivocadamente extendida de que φίλος funciona como un pronombre posesivo en la poesía homérica es un prejuicio filológico insostenible, como ha demostrado Robinson, D. (1990) “Homeric φίλος. Love of Life and Limbs, and Friendship with One’s θυμός” (en Craik, E. M. [ed.] ‘Owls to Athens’. Essays on Classical Subjects Presented to Sir Kenneth Dover, Oxford: Clarendon Press, 97-108). Siguiendo el análisis del autor, lo traducimos a veces por el simple “querido/a” y a veces por “preciado/a”, dependiendo del tipo de relación implicada entre las partes. En cualquier caso, la palabra señala siempre que una persona u objeto es apreciada por otra, no una mera posesión.
+v. 20, φίλην: La idea equivocadamente extendida de que φίλος funciona como un pronombre posesivo en la poesía homérica es un prejuicio filológico insostenible, como ha demostrado Robinson, D. (1990) “Homeric φίλος. Love of Life and Limbs, and Friendship with One’s θυμός” (en Craik, E. M. [ed.] ‘Owls to Athens’. Essays on Classical Subjects Presented to Sir Kenneth Dover, Oxford: Clarendon Press, 97-108). Siguiendo el análisis del autor, lo traducimos a veces por el simple “querido/a” y a veces por “preciado/a”, dependiendo del tipo de relación implicada entre las partes. En cualquier caso, la palabra señala siempre que una persona u objeto es apreciada por otra, no una mera posesión.
 
-v. 68, Ἤτοι ὅ γ' ὣς εἰπὼν κατ' ἄρ' ἕζετο: omitimos el ἄρ[α] aquí porque su traducción dejaría una línea demasiado larga y su sentido (sobre el cual, VER Nota ad 1.68) no se conservaría de todos modos. Es un caso excepcional en nuestro enfoque que se esfuerza por preservar todos los marcadores discursivos, que se da lamentablemente en una fórmula común.
+v. 68, ἤτοι ὅ γ᾽ ὣς εἰπὼν κατ᾽ ἄρ᾽ ἕζετο: omitimos el ἄρ[α] aquí porque su traducción dejaría una línea demasiado larga y su sentido (sobre el cual, VER Nota ad 1.68) no se conservaría de todos modos. Es un caso excepcional en nuestro enfoque que se esfuerza por preservar todos los marcadores discursivos, que se da lamentablemente en una fórmula común.
 
 v. 85, θαρσήσας μάλα: traducimos con el giro “atrevete a todo” esta frase, respetando la semántica y el sentido pragmático del participio a costa de alterar la sintaxis del griego. La alternativa “atreviéndote a todo” es más fiel a la morfosintaxis del original, sin duda, pero debilita mucho la fuerza de este comienzo de discurso con el que Aquiles intenta dar confianza a Calcas.
 
 v. 97, λοιγὸν: adoptamos la lectura de Aristarco, con la mayoría de los editores modernos (contra West). La traducción del texto que dan la mayoría de los manuscritos (οὐδ’ ὅ γε πρὶν λοιμοῖο βαρείας χεῖρας ἀφέξει) sería “él no quitará las pesadas manos de la plaga”.
 
-v. 122, φιλοκτεανώτατε: este hápax es de difícil traducción; la habitual interpretación “codicioso” tiene connotaciones negativas que, como observan los comentaristas, no parecen adecuadas para la sociedad heroica. Como en otros casos, hemos interpretado la unicidad del término como una oportunidad para utilizar palabras inhabituales en traducciones homéricas; “angurriento” busca conservar la suave reprimenda de Aquiles (VER Nota ad 1.122), sin caer en la acusación moralista de las traducciones usuales.
+v. 122, φιλοκτεανώτατε: este hápax es de difícil traducción; la habitual interpretación “codicioso” tiene connotaciones negativas que, como observan los comentaristas, no parecen adecuadas para la sociedad heroica. Como en otros casos, hemos interpretado la unicidad del término como una oportunidad para utilizar palabras inhabituales en traducciones homéricas; “angurriento” busca conservar la suave reprimenda de Aquiles (VER Nota ad 1.122), sin caer en la acusación moralista de las traducciones usuales.
 
-v. 126, παλίλλογα: este hápax parece implicar literalmente “juntados de nuevo”, pero el sentido es imposible de conservar en español sin una considerable paráfrasis. Hemos preferido, por eso y contra nuestra conducta en la mayor parte de los casos, no conservar en este verso la redundancia homérica.
+v. 126, παλίλλογα: este hápax parece implicar literalmente “juntados de nuevo”, pero el sentido es imposible de conservar en español sin una considerable paráfrasis. Hemos preferido, por eso y contra nuestra conducta en la mayor parte de los casos, no conservar en este verso la redundancia homérica.
 
 vv. 133-134, ἦ ἐθέλεις…: la reconocida dificultad sintáctica de estos dos versos se conserva en español; el estilo trabado de Agamenón (que se repetirá varias veces en este canto) parece más producto de su enojo que de una extraña maestría con las palabras. Justificarlo a partir del estilo paratáctico homérico, aunque verosímil, resulta insatisfactorio, dado que este tipo de interrupciones son infrecuentísimas y no están localizadas en lugares arbitrarios.
 
@@ -30,11 +30,11 @@ v. 161, καὶ δή: traducimos con “y para colmo” este enfático giro del 
 
 v. 163, οὐ μὲν … ποτε: traducimos este giro con “nunca jamás”, entendiendo el μὲν como enfático.
 
-v. 173, φεῦγε μάλ': literalmente “huye mucho”, pero casi con certeza un gesto de desprecio por parte de Agamenón ante la amenaza de Aquiles. De ahí nuestra traducción “Adelante, huí”.
+v. 173, φεῦγε μάλ᾽: literalmente “huye mucho”, pero casi con certeza un gesto de desprecio por parte de Agamenón ante la amenaza de Aquiles. De ahí nuestra traducción “Adelante, huí”.
 
 v. 180, Μυρμιδόνεσσιν: traducimos con el posesivo para preservar el sentido que parecen tener estas palabras de Agamenón, sobre el cual VER Nota ad 1.178. Si bien no es la interpretación más sencilla del griego, es claro que es una traducción admisible.
 
-v. 202, τίπτ' αὖτ': el énfasis en la traducción proviene del αὖτ[ε], que entendemos aquí como marcando el valor retórico de la pregunta. Como demuestra el verso que sigue, Aquiles no está realmente preguntándose la razón por la que Atenea bajó del Olimpo.
+v. 202, τίπτ᾽ αὖτ᾽: el énfasis en la traducción proviene del αὖτ[ε], que entendemos aquí como marcando el valor retórico de la pregunta. Como demuestra el verso que sigue, Aquiles no está realmente preguntándose la razón por la que Atenea bajó del Olimpo.
 
 v. 205, θυμὸν ὀλέσσῃ: contra nuestra costumbre habitual de preservar la traducción de palabras clave, traducimos aquí θυμός por “vida”, puesto que la frase θυμὸν ὀλέσσῃ no parece ser más que una variante métrica de ὀλέσσῃ ψυχήν y utilizar “perderá el ánimo” se presta a la interpretación equivocada “quedará desanimado”.
 
@@ -58,7 +58,7 @@ v. 316, ἀτρυγέτοιο: adoptamos la interpretación de A. Leukart, “Ho
 
 v. 325, ἐλθὼν…: seguimos aquí la puntuación de West, entendiendo lo que sigue a la coma como la apódosis de εἰ δέ κε μὴ δώῃσιν.
 
-v. 344, μαχέοιατ’: seguimos a West y a Com. Bas. I ad loc. en la lectura μαχεοίατ’, interpretando la construcción con ὄπως como final (cf. Chant. 2.271); la alternativa sería entenderla como objeto de νοῆσαι en el v. 343, lo que daría “no saber ver… cómo combatirían (¿harían para combatir?) etc.”. El sentido no varía lo suficiente como para decidirse por una opción u otra; hemos optado por la final porque resulta menos violenta como afterthough.
+v. 344, μαχέοιατ': seguimos a West y a Com. Bas. I ad loc. en la lectura μαχεοίατ’, interpretando la construcción con ὄπως como final (cf. Chant. 2.271); la alternativa sería entenderla como objeto de νοῆσαι en el v. 343, lo que daría “no saber ver… cómo combatirían (¿harían para combatir?) etc.”. El sentido no varía lo suficiente como para decidirse por una opción u otra; hemos optado por la final porque resulta menos violenta como afterthough.
 
 v. 482, πορφύρεον: hemos optado por la interpretación de Leaf del adjetivo (VER Nota ad 1.482), contra la posibilidad de entenderlo en el sentido alternativo de “hinchado”, “revuelto”. Ambas opciones son perfectamente aceptables, sin embargo, y nuestra decisión se basa en el valor poético y visual de la traducción elegida.
 
