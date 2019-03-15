@@ -12,31 +12,26 @@
       .header {
 	  background-image:
 	      url('http://iliada.com.ar/wp-content/uploads/2019/03/cropped-Imagen-1.jpg');
-	  height: 20%;
+	  height: 10%;
+	  clear: both;
       }
 
       .sidenav {
-	  width: 30%;
-	  float: right;
 	  overflow-x: hidden;
-	  height: 60%;
+	  height: 70%;
       }
 
       .main {
-	  width: 70%;
 	  float: left;
 	  overflow-x: hidden;
 	  overflow-y: scroll;
-	  height: 80%;
-      }
-
-      .text {
+	  height: 70%;
       }
 
       .options {
-	  float: left;
+	  clear: both;
 	  font-weight: bold;
-	  height: 20%;
+	  height: 15%;
       }
 
       .notes {
@@ -73,7 +68,6 @@
 	  padding-left: 10px;
 	  padding-right: 10px;
 	  text-align: center;
-	  font-weight: bold;
       }
 
       .verse_original {
@@ -140,11 +134,30 @@
       function show_greek_text() {
 	  $('.verse_original').toggle();
       }
+      function show_notes() {
+	  $('.sidenav').toggle();
+      }
+      $(document).ready(function () {
+      });
     </script>
   </head>
   <body>
     <div class="header">
       <h1 class="title">iliada.com.ar</h1>
+    </div>
+    <div class="options">
+      <h1>Canto 1</h1>
+      <div>
+	Tipos de notas:
+	{% for tag in tags %}
+	<input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{ tag }}', this.checked)">{{ tag }}</input>
+	{% endfor %}
+      </div>
+      <div>
+	Opciones:
+	<input type="checkbox" checked="checked" onclick="show_greek_text()">mostrar griego</input>
+	<input type="checkbox" checked="checked" onclick="show_notes()">mostrar notas</input>
+      </div>
     </div>
     <div class="main" id="main">
       <div class="text">
@@ -157,19 +170,6 @@
 	  </tr>
 	  {% endfor %}
 	</table>
-      </div>
-    </div>
-    <div class="options sidenav">
-      <h1>Canto 1</h1>
-      <div>
-	Tipos de notas:
-	{% for tag in tags %}
-	<input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{ tag }}', this.checked)">{{ tag }}</input>
-	{% endfor %}
-      </div>
-      <div>
-	Opciones:
-	<input type="checkbox" checked="checked" onclick="show_greek_text()">mostrar griego</input>
       </div>
     </div>
     <div class="sidenav" id="sidenav">

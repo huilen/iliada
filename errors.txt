@@ -1,5 +1,1 @@
-Error procesando nota en verso 344 ὅππως οἱ παρὰ νηυσὶ σόοι μαχέοιατ᾽ Ἀχαιοί. -> μαχέοιατ'
-Error procesando nota en verso 138 o el tuyo o el de Ayax, el botín, yendo, o el de Odiseo - -> Áyax
-Error procesando nota en verso 394 yendo al Olimpo suplicá a Zeus, si alguna vez en algo -> favoreciste…
-Error procesando nota en verso 536 Así, él se sentó allí, en el trono; y Hera no dejó -> junarlo
-Error procesando nota en verso 561 “Qué se te metió en la cabeza?, siempre estás creyendo y no me escondo de vos; Querida -> ???????
+Error procesando nota en verso 132 me engañés[a] con el pensamiento, ya que no me vas a aventajar ni a persuadir. -> me engañés con el pensamiento

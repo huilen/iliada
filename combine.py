@@ -5,6 +5,7 @@ import re
 import uuid
 import jinja2
 
+from bs4 import BeautifulSoup
 from enum import Enum
 
 
@@ -41,43 +42,46 @@ class Passage:
 
 class Verse:
 
-    def __init__(self, number, body):
+    def __init__(self, number, body, marks):
         self.number = number
         self.body = body
         self.passages = []
+        self.marks = marks
 
     def format_with_passages(self):
         verse = self.body
         orig_length = len(verse)
-        offset = 0
         replacements = {}
-        for passage in self.passages:
+        for passage in sorted(self.passages, key=lambda p: -p.span[1]):
             verse = insert_str(verse, '<a href="#{i}" class="note_number" tags="{t}" onclick="show_note(\'{i}\');">{c}</a>'.format(
                 i=passage.note.identificator, c=passage.note.number,
-                t=passage.note.get_tags()), passage.span[1] + offset)
-            offset = len(verse) - orig_length
+                t=passage.note.get_tags()), passage.span[1])
+        for mark in self.marks:
+            if mark not in verse:
+                print("Error colocando cursivas en verso " + verse.number)
+            verse = verse.replace(mark, '<i>{m}</i>'.format(m=mark), 1)
         return verse
 
 
 class Text:
 
-    def __init__(self, filename):
+    def __init__(self, text, marked_parts):
         self.verses = []
-        with open(filename, encoding='utf-8') as f:
-            number = 1
-            verse = f.readline()
-            while verse:
-                # remove verse numbers if exist
-                verse = re.sub('[0-9]+$', '', verse)
-                verse = re.sub('^[0-9]+', '', verse)
+        number = 1
+        for verse, marks in zip(text, marked_parts):
+            # remove verse numbers if exist
+            verse = re.sub('[0-9]+$', '', verse)
+            verse = re.sub('^[0-9]+', '', verse)
 
-                # remove blank spaces
-                verse = verse.strip()
+            # remove blank spaces
+            verse = verse.strip()
 
-                self.verses.append(Verse(number, verse))
+            if verse == '':
+                continue
 
-                number += 1
-                verse = f.readline()
+            self.verses.append(Verse(number, verse, marks))
+
+            number += 1
 
     def add_passages_for_notes(self, all_notes):
         for verse in self.verses:
@@ -159,9 +163,45 @@ def get_notes2():
     return notes
 
 
+def parse_html(filename):
+    with open(filename) as f:
+        soup = BeautifulSoup(f.read(), features='html.parser')
+
+    lines = []
+    marked_parts = []
+
+    for tag_p in soup.find_all('p'):
+        line = tag_p.get_text()
+        line = line.replace(u'\xa0', u' ')
+        matches = tag_p.find('span', {'class': 'c0'})
+        matches = [m.replace(u'\xa0', u' ') for m in matches] if matches else []
+        for match in matches:
+            if match == ' ':
+                matches.remove(match)
+        lines.append(line)
+        marked_parts.append(matches)
+
+    return lines, marked_parts
+
+
+def parse_txt(filename):
+    lines = []
+    marked_parts = []
+    with open(filename) as f:
+        line = f.readline()
+        while line:
+            lines.append(line)
+            marked_parts.append([])
+            line = f.readline()
+    return lines, marked_parts
+
+
 if __name__ == '__main__':
-    translation = Text('traduccion.txt')
-    greek = Text('griego.txt')
+    translation_text, translation_marked_parts = parse_html('traduccion.html')
+    translation = Text(translation_text, translation_marked_parts)
+
+    greek_text, greek_marked_parts = parse_txt('griego.txt')
+    greek = Text(greek_text, greek_marked_parts)
 
     notes1 = get_notes1()
     notes2 = get_notes2()
