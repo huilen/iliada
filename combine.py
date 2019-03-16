@@ -35,40 +35,37 @@ class Note:
 
 class Passage:
 
-    def __init__(self, span, note):
-        self.span = span
+    def __init__(self, text, note):
+        self.text = text
         self.note = note
 
 
 class Verse:
 
-    def __init__(self, number, body, marks):
+    def __init__(self, number, body):
         self.number = number
         self.body = body
         self.passages = []
-        self.marks = marks
 
     def format_with_passages(self):
         verse = self.body
         orig_length = len(verse)
         replacements = {}
-        for passage in sorted(self.passages, key=lambda p: -p.span[1]):
-            verse = insert_str(verse, '<a href="#{i}" class="note_number" tags="{t}" onclick="show_note(\'{i}\');">{c}</a>'.format(
-                i=passage.note.identificator, c=passage.note.number,
-                t=passage.note.get_tags()), passage.span[1])
-        for mark in self.marks:
-            if mark not in verse:
-                print("Error colocando cursivas en verso " + verse.number)
-            verse = verse.replace(mark, '<i>{m}</i>'.format(m=mark), 1)
+        for passage in self.passages:
+            verse = verse.replace(passage.text,
+                                  '<a href="#{i}" tags="{t}" onclick="show_note(\'{i}\');">{p}</a>'.format(
+                                      i=passage.note.identificator,
+                                      p=passage.text,
+                                      t=passage.note.get_tags()))
         return verse
 
 
 class Text:
 
-    def __init__(self, text, marked_parts):
+    def __init__(self, text):
         self.verses = []
         number = 1
-        for verse, marks in zip(text, marked_parts):
+        for verse in text.split('\n'):
             # remove verse numbers if exist
             verse = re.sub('[0-9]+$', '', verse)
             verse = re.sub('^[0-9]+', '', verse)
@@ -79,7 +76,7 @@ class Text:
             if verse == '':
                 continue
 
-            self.verses.append(Verse(number, verse, marks))
+            self.verses.append(Verse(number, verse))
 
             number += 1
 
@@ -92,13 +89,15 @@ class Text:
                 regexp = re.escape(regexp)
                 regexp = regexp.replace('…', '(.*)')
                 regexp = re.compile(regexp, re.IGNORECASE)
-                match = re.search(regexp, verse.body)
+                reg = re.compile(r'<.*?>')
+                body = reg.sub('', verse.body)
+                match = re.search(regexp, body)
                 if match == None:
                     print("Error procesando nota en verso {n} {v} -> {p}"
-                          .format(n=verse.number, v=verse.body,
+                          .format(n=verse.number, v=body,
                                   p=note.passage), file=sys.stderr)
                     continue
-                verse.passages.append(Passage(match.span(), note))
+                verse.passages.append(Passage(match.group(0), note))
 
 
 class Tag(Enum):
@@ -108,10 +107,6 @@ class Tag(Enum):
 
     def __str__(self):
         return self.value
-
-
-def insert_str(string, str_to_insert, index):
-    return string[:index] + str_to_insert + string[index:]
 
 
 def generate_document(translation, greek, notes):
@@ -126,14 +121,15 @@ def generate_document(translation, greek, notes):
 
 
 def get_notes1():
-    with open('notas.txt', encoding='utf-8') as f:
-        notes_source = f.read()
+    notes_source = parse_html('notas.html')
     matches = re.findall('v. ([0-9]+), (.*?): (.*)', notes_source)
     notes = []
     count = 1
     for match in matches:
         number = int(match[0])
         passage = match[1]
+        reg = re.compile(r'<.*?>')
+        passage = reg.sub('', passage)
         body = match[2]
         note = Note(number, passage, body, count, [Tag.TRANSLATION])
         notes.append(note)
@@ -142,9 +138,7 @@ def get_notes1():
 
 
 def get_notes2():
-    with open('notas2.txt', encoding='utf-8') as f:
-        notes_source = f.read()
-    notes_source = notes_source.split('\n')
+    notes_source = parse_html('notas2.html').split('\n')
     notes = []
     count = 1
     for idx, line in enumerate(notes_source):
@@ -153,9 +147,11 @@ def get_notes2():
             number = int(match[1])
             i = idx + 1
             while len(notes_source) > i:
-                if notes_source[i] == '':
+                if notes_source[i].startswith('Verso '):
                     break
-                passage, body = notes_source[i].split(': ', 1)
+                passage, body = notes_source[i].split(':', 1)
+                reg = re.compile(r'<.*?>')
+                passage = reg.sub('', passage)
                 note = Note(number, passage, body, count, [Tag.TEXT])
                 notes.append(note)
                 count += 1
@@ -168,40 +164,32 @@ def parse_html(filename):
         soup = BeautifulSoup(f.read(), features='html.parser')
 
     lines = []
-    marked_parts = []
 
     for tag_p in soup.find_all('p'):
         line = tag_p.get_text()
         line = line.replace(u'\xa0', u' ')
-        matches = tag_p.find('span', {'class': 'c0'})
-        matches = [m.replace(u'\xa0', u' ') for m in matches] if matches else []
-        for match in matches:
-            if match == ' ':
-                matches.remove(match)
+        if line == '':
+            continue
+        marks = tag_p.find('span', {'class': 'c0'})
+        marks = [m.replace(u'\xa0', u' ') for m in marks] if marks else []
+        for mark in marks:
+            line = line.replace(mark, '<i>{m}</i>'.format(m=mark))
         lines.append(line)
-        marked_parts.append(matches)
 
-    return lines, marked_parts
+    return '\n'.join(lines)
 
 
 def parse_txt(filename):
-    lines = []
-    marked_parts = []
     with open(filename) as f:
-        line = f.readline()
-        while line:
-            lines.append(line)
-            marked_parts.append([])
-            line = f.readline()
-    return lines, marked_parts
+        return f.read()
 
 
 if __name__ == '__main__':
-    translation_text, translation_marked_parts = parse_html('traduccion.html')
-    translation = Text(translation_text, translation_marked_parts)
+    translation_text = parse_html('traduccion.html')
+    translation = Text(translation_text)
 
-    greek_text, greek_marked_parts = parse_txt('griego.txt')
-    greek = Text(greek_text, greek_marked_parts)
+    greek_text = parse_txt('griego.txt')
+    greek = Text(greek_text)
 
     notes1 = get_notes1()
     notes2 = get_notes2()

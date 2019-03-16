@@ -19,12 +19,14 @@
       .sidenav {
 	  overflow-x: hidden;
 	  height: 70%;
+	  width: 30%;
       }
 
       .main {
 	  float: left;
 	  overflow-x: hidden;
 	  overflow-y: scroll;
+	  width: 70%;
 	  height: 70%;
       }
 
@@ -99,6 +101,21 @@
 
       .passage {
 	  text-decoration: underline dashed grey;
+      }
+
+      a:link {
+	  color: black;
+	  text-decoration: none;
+      }
+
+      a:visited {
+	  color: black;
+	  text-decoration: none;
+      }
+
+      a :hover {
+	  color: #bc4218;
+	  text-decoration: underline;
       }
 
       :target .note_passage {
@@ -179,7 +196,7 @@
 	  <tr tags="{{ note.get_tags() }}">
 	    <td class="note">
 	      <div id="{{ note.identificator }}">
-		<span class="note_passage">v{{ note.verse }}, {{ note.passage }}</span>
+		<span class="note_passage"><i>v{{ note.verse }}, {{ note.passage }}</i></span>
 		<span>{{ note.body }}</span>
 		<span class="note_tags">{{ note.get_tags() }}</span>
 	      </div>

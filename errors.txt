@@ -1,1 +1,4 @@
-Error procesando nota en verso 132 me engañés[a] con el pensamiento, ya que no me vas a aventajar ni a persuadir. -> me engañés con el pensamiento
+Traceback (most recent call last):
+  File "combine.py", line 6, in <module>
+    import jinja2
+ModuleNotFoundError: No module named 'jinja2'
