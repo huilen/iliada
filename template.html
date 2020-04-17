@@ -17,17 +17,19 @@
       }
 
       .sidenav {
-	  overflow-x: hidden;
 	  height: 70%;
 	  width: 30%;
+	  overflow-x: auto;
+	  word-break: break-word;
       }
 
       .main {
 	  float: left;
-	  overflow-x: hidden;
 	  overflow-y: scroll;
 	  width: 70%;
 	  height: 70%;
+	  overflow-x: auto;
+	  word-break: break-word;
       }
 
       .options {
@@ -69,14 +71,12 @@
 	  padding-bottom: 20px;
 	  padding-left: 10px;
 	  padding-right: 10px;
-	  text-align: center;
       }
 
       .verse_original {
 	  padding-bottom: 20px;
 	  padding-left: 10px;
 	  padding-right: 10px;
-	  text-align: center;
       }
 
       .verse_number {
@@ -87,7 +87,7 @@
       }
 
       .note_number {
-	  vertical-align: sub;
+	  vertical-align: sup;
 	  color: #bc4218;
 	  font-size: smaller;
 	  padding: 1px;
@@ -123,6 +123,26 @@
 	  text-decoration: underline;
       }
 
+      .verse_original a:link {
+	  color: red;
+	  text-decoration: none;
+      }
+
+      .verse_original a:visited {
+	  color: red;
+	  text-decoration: none;
+      }
+
+      a:hover {
+	  color: #bc4218;
+	  text-decoration: underline;
+      }
+
+      a:active {
+	  color: #bc4218;
+	  text-decoration: underline;
+      }
+
       :target .note_passage {
 	  font-size: 13pt;
 	  text-decoration: underline;
@@ -141,23 +161,43 @@
 	  font-size: 50px;
 	  font-family: Serif;
       }
+
+      .tooltip {
+	  position: relative;
+	  display: inline-block;
+	  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+      }
+
+      /* Tooltip text */
+      .tooltip .tooltiptext {
+	  visibility: hidden;
+	  width: 400px;
+	  background-color: black;
+	  color: #fff;
+	  text-align: center;
+	  padding: 5px 0;
+	  border-radius: 6px;
+	  
+	  /* Position the tooltip text - see examples below! */
+	  position: absolute;
+	  z-index: 1;
+      }
+
+      /* Show the tooltip text when you mouse over the tooltip container */
+      .tooltip:hover .tooltiptext {
+	  visibility: visible;
+      }
     </style>
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script>
       function show_notes_for_tag(tag, value) {
-	  $('[tags~=' + tag + ']').toggle(value);
+	  $('tr[tags~=' + tag + ']').toggle(value);
       }
       function show_note(note_identificator) {
 	  $('.passage').each(function () {
 	      $(this).removeClass('passage_selected');
 	  });
 	  $('#passage_' + note_identificator).addClass('passage_selected');
-      }
-      function show_greek_text() {
-	  $('.verse_original').toggle();
-      }
-      function show_notes() {
-	  $('.sidenav').toggle();
       }
       $(document).ready(function () {
       });
@@ -170,15 +210,15 @@
     <div class="options">
       <h1>Canto 1</h1>
       <div>
-	Tipos de notas:
-	{% for tag in tags %}
-	<input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{ tag }}', this.checked)">{{ tag }}</input>
-	{% endfor %}
-      </div>
-      <div>
-	Opciones:
-	<input type="checkbox" checked="checked" onclick="show_greek_text()">mostrar griego</input>
-	<input type="checkbox" checked="checked" onclick="show_notes()">mostrar notas</input>
+	<div class="tooltip">Tipos de notas
+	  <span class="tooltiptext">Seleccionar el tipo de notas que
+	  se desea ver en el cuadro de la derecha (notas a la traducción, notas al texto, etc.)</span>
+	</div>
+      {% for tag in tags %}
+      <input type="checkbox" checked="checked"
+                             onclick="show_notes_for_tag('{{tag}}',
+                             this.checked)">{{tag}}</input>
+      {% endfor %}
       </div>
     </div>
     <div class="main" id="main">
@@ -186,7 +226,7 @@
 	<table>
 	  {% for verse in text %}
 	  <tr class="verse">
-	    <td class="verse_number">{{ verse[0].number }}</td>
+	    <td width="30px" class="verse_number">{{ verse[0].number }}</td>
 	    <td class="verse_original">{{ verse[1].format_with_passages() }}</td>
 	    <td class="verse_translated">{{ verse[0].format_with_passages() }}</td>
 	  </tr>

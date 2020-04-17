@@ -7,6 +7,10 @@ import jinja2
 
 from bs4 import BeautifulSoup
 from enum import Enum
+from markdown import markdown
+
+
+TAGS = []
 
 
 class Note:
@@ -100,45 +104,53 @@ class Text:
                 verse.passages.append(Passage(match.group(0), note))
 
 
-class Tag(Enum):
-
-    TRANSLATION = 'translation'
-    TEXT = 'text'
-
-    def __str__(self):
-        return self.value
-
-
 def generate_document(translation, greek, notes):
     file_loader = jinja2.FileSystemLoader('.')
     env = jinja2.Environment(loader=file_loader)
     template = env.get_template('template.html')
     text = zip(translation.verses, greek.verses)
-    with open('texto.html', 'w+', encoding='utf-8') as f:
+    with open('output.html', 'w+', encoding='utf-8') as f:
         f.write(template.render(notes=notes,
                                 text=text,
-                                tags=[str(t) for t in Tag]))
+                                tags=[str(t) for t in TAGS]))
+    print("Archivo generado: output.html")
 
 
-def get_notes1():
-    notes_source = parse_html('notas.html')
+def extract_tags(text):
+    matches = re.findall('(.*?) (\\\\?\[\\\\?\[(.*)\\\\?\]\\\\?\]+)', text)
+    if not matches:
+        return [], text
+    passage = matches[0][0] 
+    tags = matches[0][1]
+    tags = re.findall('(\\\\?\[\\\\?\[(.*?)\\\\?\]\\\\?\]+)', tags)
+    tags = [t[1] for t in tags]
+    for tag in tags:
+        if tag not in TAGS:
+            TAGS.append(tag)
+    return tags, passage
+
+
+def get_notes_greek():
+    notes_source = parse_txt('sources/comentario.md')
     matches = re.findall('v. ([0-9]+), (.*?): (.*)', notes_source)
     notes = []
     count = 1
     for match in matches:
         number = int(match[0])
-        passage = match[1]
+        passage = match[1].replace('*', '')
         reg = re.compile(r'<.*?>')
         passage = reg.sub('', passage)
         body = match[2]
-        note = Note(number, passage, body, count, [Tag.TRANSLATION])
+        tags, body = extract_tags(body)
+        body = markdown(body)
+        note = Note(number, passage, body, count, tags)
         notes.append(note)
         count += 1
     return notes
 
 
-def get_notes2():
-    notes_source = parse_html('notas2.html').split('\n')
+def get_notes_text():
+    notes_source = parse_txt('sources/notas.md').split('\n')
     notes = []
     count = 1
     for idx, line in enumerate(notes_source):
@@ -149,10 +161,15 @@ def get_notes2():
             while len(notes_source) > i:
                 if notes_source[i].startswith('Verso '):
                     break
+                if '#Referencia' in notes_source[i]:
+                    break
+                if not notes_source[i].strip():
+                    break
                 passage, body = notes_source[i].split(':', 1)
-                reg = re.compile(r'<.*?>')
-                passage = reg.sub('', passage)
-                note = Note(number, passage, body, count, [Tag.TEXT])
+                passage = passage.replace('*', '')
+                tags, body = extract_tags(body)
+                body = markdown(body)
+                note = Note(number, passage, body, count, tags)
                 notes.append(note)
                 count += 1
                 i += 1
@@ -160,8 +177,23 @@ def get_notes2():
 
 
 def parse_html(filename):
-    with open(filename) as f:
+    def replace_marks(line, style_class, html_tag):
+        marks = tag_p.find_all('span', {'class': style_class})
+        marks = [m.text.replace(u'\xa0', u' ') for m in marks] if marks else []
+        for mark in marks:
+            line = line.replace(mark, '<{t}>{m}</{t}>'.format(
+                m=mark, t=html_tag), 1)
+        return line
+
+    with open(filename, encoding='utf-8') as f:
         soup = BeautifulSoup(f.read(), features='html.parser')
+
+    cursive_class = soup.find(text='#Referencia cursiva')
+    if cursive_class:
+        cursive_class = ' '.join(cursive_class.parent.attrs['class'])
+    bold_class = soup.find(text='#Referencia negrita')
+    if bold_class:
+        bold_class = ' '.join(bold_class.parent.attrs['class'])
 
     lines = []
 
@@ -170,34 +202,35 @@ def parse_html(filename):
         line = line.replace(u'\xa0', u' ')
         if line == '':
             continue
-        marks = tag_p.find('span', {'class': 'c0'})
-        marks = [m.replace(u'\xa0', u' ') for m in marks] if marks else []
-        for mark in marks:
-            line = line.replace(mark, '<i>{m}</i>'.format(m=mark))
+
+        if bold_class:
+            line = replace_marks(line, bold_class, 'strong')
+        if cursive_class:
+            line = replace_marks(line, cursive_class, 'i')
         lines.append(line)
 
     return '\n'.join(lines)
 
 
 def parse_txt(filename):
-    with open(filename) as f:
+    with open(filename, encoding='utf-8') as f:
         return f.read()
 
 
 if __name__ == '__main__':
-    translation_text = parse_html('traduccion.html')
+    translation_text = parse_html('sources/traduccion.html')
     translation = Text(translation_text)
 
-    greek_text = parse_txt('griego.txt')
+    greek_text = parse_txt('sources/griego.md')
     greek = Text(greek_text)
 
-    notes1 = get_notes1()
-    notes2 = get_notes2()
+    notes_greek = get_notes_greek()
+    notes_text = get_notes_text()
 
-    greek.add_passages_for_notes(notes1)
-    translation.add_passages_for_notes(notes2)
+    greek.add_passages_for_notes(notes_greek)
+    translation.add_passages_for_notes(notes_text)
 
-    notes = notes1 + notes2
+    notes = notes_greek + notes_text
     notes.sort(key=lambda n: n.verse)
 
     generate_document(translation, greek, notes)
