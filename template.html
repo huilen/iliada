@@ -305,11 +305,13 @@
 	  {% for note in notes %}
 	  <tr tags="{{ note.get_tags() }}">
 	    <td class="note">
-	      <div id="{{ note.identificator }}">
+        <div id="{{get_reference_anchor(note)}}">
+	      <div id="{{note.identificator}}">
 		<span class="note_passage"><i>v{{ note.verse }}, {{ note.passage }}</i></span>
-		<span>{{ note.body }}</span>
+		<span>{{ note.format_body_with_references() }}</span>
 		<span class="note_tags">{{ note.get_tags() }}</span>
 	      </div>
+        </div>
 	    </td>
 	  </tr>
 	  {% endfor %}

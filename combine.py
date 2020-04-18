@@ -29,11 +29,13 @@ TAGS_DESCRIPTION = {
 
 class Note:
 
-    def __init__(self, verse, passage, body, number, tags=None):
+    def __init__(self, canto, verse, passage, body, number, kind, tags=None):
+        self.canto = canto
         self.verse = verse
         self.passage = passage
         self.number = number
         self.body = body
+        self.kind = kind
         self.tags = []
         self.identificator = str(verse) + str(uuid.uuid4())
 
@@ -49,6 +51,21 @@ class Note:
             if note.verse == verse:
                 matches.append(note)
         return matches
+
+    def format_body_with_references(self):
+        # TODO: fix to match multiple notes
+        # VER [indicio de referencia] ad [Nota al español] / Com. [Nota al griego] 1[canto].1[verso], [para marcar que viene otra, si viene] 2 y [para marcar la última referencia de una secuencia].
+        regex = re.compile('VER (<em>ad</em>|Com\.) ([0-9]+)\.([0-9]+)')
+        matches = re.findall(regex, self.body)
+        body = self.body
+        for match in matches:
+            kind = match[0]
+            label = 'VER ' + kind + ' ' + match[1] + '.' + match[2]
+            if 'Com.' != kind:
+                kind = 'ad'
+            reference = kind[0] + match[1] + '.' + match[2]
+            body = body.replace(label, '<a href="#' + reference + '">' + label + '</a>')
+        return body
 
 
 class Passage:
@@ -120,6 +137,14 @@ class Text:
                 verse.passages.append(Passage(match.group(0), note))
 
 
+def get_reference_anchor(note):
+    if note.kind == 'greek':
+        identificator = 'C'
+    elif note.kind == 'text':
+        identificator = 'a'
+    return identificator + str(note.canto) + '.' + str(note.verse)
+
+
 def generate_document(translation, greek, notes):
     file_loader = jinja2.FileSystemLoader('.')
     env = jinja2.Environment(loader=file_loader)
@@ -128,6 +153,7 @@ def generate_document(translation, greek, notes):
     with open('output.html', 'w+', encoding='utf-8') as f:
         f.write(template.render(notes=notes,
                                 text=text,
+                                get_reference_anchor=get_reference_anchor,
                                 get_tag_desc=get_tag_description,
                                 tags=[str(t) for t in TAGS if t != 'INTR']))
     print("Archivo generado: output.html")
@@ -160,7 +186,7 @@ def get_notes_greek():
         body = match[2]
         tags, body = extract_tags(body)
         body = markdown(body)
-        note = Note(number, passage, body, count, tags)
+        note = Note(1, number, passage, body, count, 'greek', tags)
         notes.append(note)
         count += 1
     return notes
@@ -186,7 +212,7 @@ def get_notes_text():
                 passage = passage.replace('*', '')
                 tags, body = extract_tags(body)
                 body = markdown(body)
-                note = Note(number, passage, body, count, tags)
+                note = Note(1, number, passage, body, count, 'text', tags)
                 notes.append(note)
                 count += 1
                 i += 1
