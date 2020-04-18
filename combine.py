@@ -12,6 +12,20 @@ from markdown import markdown
 
 TAGS = []
 
+TAGS_DESCRIPTION = {
+    'INTR': 'Notas introductorias a personajes y conceptos clave del mundo homérico.',
+    'CONC': 'Notas sobre conceptos y términos fundamentales en los poemas homéricos.',
+    'TEXT': 'Comentarios de crítica textual.',
+    'TRAD': 'Comentarios de traducción.',
+    'NARR': 'Notas sobre el contenido narrativo.',
+    'FORM': 'Notas sobre estilo oral y lenguaje formulaico.',
+    'GRAM': 'Notas sobre gramática homérica y discusión de problemas gramaticales específicos.',
+    'HIST': 'Notas sobre historia y arqueología.',
+    'ESTR': 'Notas sobre estructura de discursos, episodios y el poema.',
+    'MITO': 'Notas sobre mitología y religión griegas.',
+    'INTP': 'Notas sobre problemas de interpretación del texto o la narración.'
+}
+
 
 class Note:
 
@@ -70,15 +84,17 @@ class Text:
         self.verses = []
         number = 1
         for verse in text.split('\n'):
+            # remove blank spaces
+            verse = verse.strip()
+
             # remove verse numbers if exist
             verse = re.sub('[0-9]+$', '', verse)
             verse = re.sub('^[0-9]+', '', verse)
 
-            # remove blank spaces
-            verse = verse.strip()
-
             if verse == '':
                 continue
+
+            verse = markdown(verse).replace('<p>', '').replace('</p>', '')
 
             self.verses.append(Verse(number, verse))
 
@@ -112,7 +128,8 @@ def generate_document(translation, greek, notes):
     with open('output.html', 'w+', encoding='utf-8') as f:
         f.write(template.render(notes=notes,
                                 text=text,
-                                tags=[str(t) for t in TAGS]))
+                                get_tag_desc=get_tag_description,
+                                tags=[str(t) for t in TAGS if t != 'INTR']))
     print("Archivo generado: output.html")
 
 
@@ -176,49 +193,19 @@ def get_notes_text():
     return notes
 
 
-def parse_html(filename):
-    def replace_marks(line, style_class, html_tag):
-        marks = tag_p.find_all('span', {'class': style_class})
-        marks = [m.text.replace(u'\xa0', u' ') for m in marks] if marks else []
-        for mark in marks:
-            line = line.replace(mark, '<{t}>{m}</{t}>'.format(
-                m=mark, t=html_tag), 1)
-        return line
-
-    with open(filename, encoding='utf-8') as f:
-        soup = BeautifulSoup(f.read(), features='html.parser')
-
-    cursive_class = soup.find(text='#Referencia cursiva')
-    if cursive_class:
-        cursive_class = ' '.join(cursive_class.parent.attrs['class'])
-    bold_class = soup.find(text='#Referencia negrita')
-    if bold_class:
-        bold_class = ' '.join(bold_class.parent.attrs['class'])
-
-    lines = []
-
-    for tag_p in soup.find_all('p'):
-        line = tag_p.get_text()
-        line = line.replace(u'\xa0', u' ')
-        if line == '':
-            continue
-
-        if bold_class:
-            line = replace_marks(line, bold_class, 'strong')
-        if cursive_class:
-            line = replace_marks(line, cursive_class, 'i')
-        lines.append(line)
-
-    return '\n'.join(lines)
-
-
 def parse_txt(filename):
     with open(filename, encoding='utf-8') as f:
         return f.read()
 
 
+def get_tag_description(name):
+    if name in TAGS_DESCRIPTION:
+        return TAGS_DESCRIPTION[name]
+    return name
+
+
 if __name__ == '__main__':
-    translation_text = parse_html('sources/traduccion.html')
+    translation_text = parse_txt('sources/traduccion.md')
     translation = Text(translation_text)
 
     greek_text = parse_txt('sources/griego.md')

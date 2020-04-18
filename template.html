@@ -171,10 +171,10 @@
       /* Tooltip text */
       .tooltip .tooltiptext {
 	  visibility: hidden;
-	  width: 400px;
 	  background-color: black;
 	  color: #fff;
 	  text-align: center;
+	  margin: 15px;
 	  padding: 5px 0;
 	  border-radius: 6px;
 	  
@@ -190,6 +190,56 @@
     </style>
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script>
+      function show_hide_notes() {
+        trad = $('#show_translation').is(':checked');
+        orig = $('#show_greek').is(':checked');
+        notes = $('#show_notes').is(':checked');
+        if (trad && orig && !notes) {
+          $('.main').width('100%');
+          $('.main').css('display', '');
+          $('.sidenav').css('display', 'none');
+        } else if (trad && orig && notes) {
+          $('.main').width('70%');
+          $('.main').css('display', '');
+          $('.sidenav').width('30%');
+          $('.sidenav').css('display', '');
+          $('.verse_translated').css('display', '');
+          $('.verse_original').css('display', '');
+        } else if (trad && !orig && notes) {
+          $('.main').width('50%');
+          $('.main').css('display', '');
+          $('.sidenav').width('50%');
+          $('.sidenav').css('display', '');
+          $('.verse_translated').css('display', '');
+          $('.verse_original').css('display', 'none');
+        } else if (!trad && orig && notes) {
+          $('.main').width('50%');
+          $('.main').css('display', '');
+          $('.sidenav').width('50%');
+          $('.sidenav').css('display', '');
+          $('.verse_translated').css('display', 'none');
+          $('.verse_original').css('display', '');
+        } else if (trad && !orig && !notes) {
+          $('.main').width('100%');
+          $('.main').css('display', '');
+          $('.sidenav').css('display', '');
+          $('.verse_translated').css('display', '');
+          $('.verse_original').css('display', 'none');
+        } else if (!trad && orig && !notes) {
+          $('.main').width('100%');
+          $('.main').css('display', '');
+          $('.sidenav').css('display', '');
+          $('.verse_translated').css('display', 'none');
+          $('.verse_original').css('display', '');
+        } else if (!trad && !orig && notes) {
+          $('.main').css('display', 'none');
+          $('.sidenav').width('100%');
+          $('.sidenav').css('display', '');
+        } else if (!trad && !orig && !notes) {
+          $('.main').css('display', 'none');
+          $('.sidenav').css('display', 'none');
+        }
+      }
       function show_notes_for_tag(tag, value) {
 	  $('tr[tags~=' + tag + ']').toggle(value);
       }
@@ -210,15 +260,30 @@
     <div class="options">
       <h1>Canto 1</h1>
       <div>
-	<div class="tooltip">Tipos de notas
-	  <span class="tooltiptext">Seleccionar el tipo de notas que
-	  se desea ver en el cuadro de la derecha (notas a la traducción, notas al texto, etc.)</span>
-	</div>
-      {% for tag in tags %}
-      <input type="checkbox" checked="checked"
-                             onclick="show_notes_for_tag('{{tag}}',
-                             this.checked)">{{tag}}</input>
-      {% endfor %}
+      Ver/ocultar
+      <input type="checkbox" id="show_translation" checked onclick="show_hide_notes()" /> traducción
+      <input type="checkbox" id="show_greek" checked onclick="show_hide_notes()" /> griego
+      <input type="checkbox" id="show_notes" checked onclick="show_hide_notes()" /> notas
+      </div>
+      <br />
+      <div>
+	      <div class="tooltip">Tipos de notas
+	        <span class="tooltiptext">Seleccionar el tipo de notas que se desea ver en el cuadro de la derecha.</span>
+      	</div>
+        <div class="tooltip">
+          <span class="tooltiptext">Notas introductorias</span>
+        <input type="checkbox" checked="checked"
+                               onclick="show_notes_for_tag('INTR',
+                               this.checked)">INTR</input>
+        </div>
+        <br />
+        {% for tag in tags %}
+        <div class="tooltip">
+          <span class="tooltiptext">{{get_tag_desc(tag)}}</span>
+        <input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{tag}}', this.checked)">{{tag}}</input>
+        </div>
+        {% endfor %}
+        </div>
       </div>
     </div>
     <div class="main" id="main">
