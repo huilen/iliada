@@ -287,6 +287,18 @@
                  onclick="show_notes_for_tag('INTR',
                           this.checked)">INTR</input>
         </div>
+        <div class="tooltip">
+          <span class="tooltiptext">Notas con información avanzada sobre el texto y aproximaciones básicas de análisis, dirigidas a lectores familiarizados con la cultura griega antigua interesados en su análisis literario.</span>
+          <input type="checkbox" checked="checked"
+                 onclick="show_notes_for_tag('AVAN',
+                          this.checked)">AVAN</input>
+        </div>
+        <div class="tooltip">
+          <span class="tooltiptext">Notas sobre problemas específicos del texto en las diferentes categorías, dirigidas a especialistas que quieren aproximarse al poema desde una perspectiva filológica.</span>
+          <input type="checkbox" checked="checked"
+                 onclick="show_notes_for_tag('TECN',
+                          this.checked)">TECN</input>
+        </div>
         <br />
         {% for tag in tags %}
         <div class="tooltip">

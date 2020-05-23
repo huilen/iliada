@@ -1,3 +1,4 @@
+# Ilíada 1
 La cólera canta, diosa, del Pelida Aquiles, 
 funesta, que incontables dolores a los aqueos causó
 y muchas fuertes vidas arrojó al Hades
@@ -13,10 +14,10 @@ el Atrida; pues aquel fue a las rápidas naves de los aqueos
 para liberar a su hija, llevando un cuantioso rescate,
 las ínfulas de Apolo que hiere de lejos teniendo en las manos
 sobre el cetro dorado, y suplicó a todos los aqueos,                                        15
-y a ambos Atridas en especial, a los dos, comandantes de las tropas:
+y a ambos Atridas en especial, a los dos, comandantes de tropas:
 “Atridas y también otros aqueos de buenas grebas,
 ¡ojalá les concedieran los dioses que tienen olímpicas moradas
-destruir la ciudad de Príamo y bien a casa regresar!
+saquear la ciudad de Príamo y bien a casa regresar!
 ¡Y ojalá me liberaran a mi preciada hija! Reciban el rescate                                20
 reverenciando al hijo de Zeus, Apolo, el que hiere de lejos.” 
 Entonces proclamaron todos los otros aqueos 
@@ -65,7 +66,7 @@ que pudiera decir por qué se irritó tanto Febo Apolo,
 si acaso *este* de un voto se queja o hecatombe,                                                65
 a ver si, tal vez, el aroma de grasa de ovejas y de cabras perfectas
 aceptando, quiere de nosotros la devastación apartar.”
-Y así aquel, **tras hablar de este modo, se sentó; entre ellos se levantó 
+Y así aquel, tras hablar de este modo, se sentó; entre ellos se levantó 
 Calcas Testórida, el mejor por mucho de los augures, 
 que sabía lo que es, lo que será y lo que fue,                                                 70
 y las naves condujo de los aqueos adentro de Ilión
@@ -118,7 +119,7 @@ yo deseo que el pueblo esté a salvo en vez de que perezca.
 Ahora, prepárenme enseguida un botín, para que no yo solo
 entre los argivos esté sin botín, ya que no corresponde; 
 pues vean todos *esto*: que el botín se me va a otra parte.”                                120
-Y luego le respondió de Aquiles divino de pies rápidos:
+Y luego le respondió Aquiles divino de pies rápidos:
 “¡Atrida, el más glorioso, el más angurriento de todos!
 ¿Cómo, pues, te darán un botín los esforzados Aqueos?
 De ningún modo sabemos de muchos bienes comunes, tirados por ahí;
@@ -126,7 +127,7 @@ sino que los que saqueamos de las ciudades, esos han sido repartidos,           
 y no conviene que las tropas otra vez junten estas cosas.
 Pero *vos* ahora a esta entregala al dios; luego los aqueos
 el triple y el cuádruple te pagaremos, si alguna vez Zeus
-concede la ciudad de Troya, bien amurallada, saquear.” 
+concede la ciudad de Troya bien amurallada saquear.” 
 Y respondiendo le dijo el poderoso Agamenón:                                                130
 “Así no, aunque seas noble, Aquiles semejante a los dioses,
 no me engañés con el pensamiento, ya que no me vas a aventajar ni a persuadir.
@@ -223,7 +224,7 @@ a la morada de Zeus portador de la égida, entre las demás deidades.
 Y el Pelida una vez más con palabras injuriosas
 al Atrida le habló y de ningún modo detuvo su ira:
 “¡Barriga de vino, ojos de perro y corazón de ciervo!                                        225
-Nunca armarte para la guerra junto con las tropas 
+Nunca armarte para la guerra junto con el pueblo 
 ni ir a la emboscada con los mejores de los aqueos
 aguantás en el ánimo; esto te parece que es la muerte.
 Sin duda es más deseable en el vasto ejército de los aqueos
@@ -235,7 +236,7 @@ sí, por este cetro, que nunca más hojas ni brotes
 engendrará, después que dejó atrás el tronco en los montes,                                235
 ni reverdecerá; pues, en efecto, el bronce lo peló
 de hojas y también de corteza; y ahora los hijos de los aqueos lo
-llevan en las palmas, los que cultivan la justicia y las leyes
+llevan en las palmas, los que cultivan la justicia, y las leyes
 en nombre de Zeus preservan -este será para vos un gran juramento:
 sin duda, alguna vez el deseo por Aquiles llegará a los hijos de los aqueos,                240
 a todos; y entonces no podrás en absoluto, aunque afligido,
@@ -420,7 +421,7 @@ Para decirle por vos esto, esta palabra a Zeus que goza del trueno
 yo misma iré al Olimpo de cumbre nevada, por si hiciera caso.                        420
 Pero *vos* ahora, sentado junto a las naves de veloz navegar,
 encolerizate con los aqueos y abstenete absolutamente de la guerra.
-Pues Zeus, hacia el Océano, hacia  los irreprochables etíopes,
+Pues Zeus, hacia el Océano, hacia los irreprochables etíopes,
 ayer marchó a un banquete, y los dioses todos lo siguieron;
 y recién dentro de doce días volverá de nuevo al Olimpo,                                425
 y recién entonces iré hacia la morada de Zeus, de piso de bronce,
@@ -451,11 +452,11 @@ Y entre ellos Crises rogó fuerte levantando las manos:                         
 “¡Escúchame, arco de plata, que resguardas Crisa
 y Cila brillante y Ténedos gobiernas fuertemente!
 *Sin duda* ya una vez antes me oíste rogarte,
-me honraste y oprimiste mucho al pueblo de los aqueos;
+me honraste y castigaste mucho al pueblo de los aqueos;
 y ahora, de nuevo, también cúmpleme a mí este deseo:                                455
 ¡Ahora de los dánaos aparta ya la obscena devastación!”
 Así habló rogando y lo escuchó Febo Apolo. 
-Pero una vez que rogaron  y arrojaron la cebada molida,
+Pero una vez que rogaron y arrojaron la cebada molida,
 expusieron los cuellos primero, degollaron y desollaron,
 cortaron los muslos y los cubrieron con grasa,                                                460
 haciendo una doble capa, y pusieron trozos de carne cruda encima;
@@ -482,14 +483,14 @@ y el viento inflamó el medio de la vela, y alrededor el oleaje
 en la quilla, purpúreo, gritaba fuerte, al ir la nave;
 y ella corría sobre el oleaje haciendo su camino.
 Pero una vez que llegaron al vasto ejército de los aqueos,
-ellos arrastraron la nave **negra hacia la tierra firme,                                        485
+ellos arrastraron la nave negra hacia la tierra firme,                                        485
 arriba en la arena, y abajo pusieron grandes soportes;
 y se dispersaron ellos por las tiendas y las naves.
 En tanto, aquel se encolerizaba sentado junto a las naves de veloz navegar,
 el hijo de Peleo nacido de Zeus, Aquiles de pies veloces;
 ya nunca iba a la asamblea que glorifica varones,                                        490
 ya nunca a la guerra, sino que consumía el querido corazón
-quedándose allí , y ansiaba el clamor y la guerra.
+quedándose allí, y ansiaba el clamor y la guerra.
 Pero en el momento en que surgió la duodécima Aurora desde aquel día,
 justo *entonces* volvieron al Olimpo los dioses que siempre son,
 todos juntos, y Zeus lideraba; y Tetis no se olvidó del encargo                        495
@@ -511,7 +512,7 @@ retribuyan a mi hijo y lo engrandezcan con honra.”                            
 Así habló; y nada le dijo Zeus, que amontona las nubes,
 sino que en silencio se sentó largo rato; y Tetis, como se abrazó de sus rodillas,
 así estaba enraizada, y le volvió a demandar por segunda vez:
-“Infaliblemente prometemelo y asiénteme, 
+“Infaliblemente prométemelo y asiénteme, 
 o niégalo, ya que no existe para ti el miedo, para que vea bien                        515
 cuánto yo entre todos soy la diosa más deshonrada.”
 Y le dijo, muy amargado, Zeus, que amontona las nubes:
@@ -585,7 +586,7 @@ Así dijo y, levantándose, una copa de doble asa
 puso en las manos a su madre querida y le dijo:                                        585
 “Aguanta, madre mía, y soporta, aunque estés preocupada,
 no sea que, aunque seas querida, en mis ojos te vea
-golpeada, y entonces ****no podré en absoluto, aunque afligido,
+golpeada, y entonces no podré en absoluto, aunque afligido,
 protegerte, pues es duro confrontar al Olímpico.
 Pues ya otra vez también a mí, cuando intentaba resguardarte,                        590
 me arrojó, del pie habiéndome tomado, desde el umbral sobrenatural,

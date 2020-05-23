@@ -10,10 +10,10 @@ from enum import Enum
 from markdown import markdown
 
 
-TAGS = []
-
-TAGS_DESCRIPTION = {
+TAGS = {
     'INTR': 'Notas introductorias a personajes y conceptos clave del mundo homérico.',
+    'AVAN': 'Notas con información avanzada sobre el texto y aproximaciones básicas de análisis, dirigidas a lectores familiarizados con la cultura griega antigua interesados en su análisis literario.',
+    'TECN': 'Notas sobre problemas específicos del texto en las diferentes categorías, dirigidas a especialistas que quieren aproximarse al poema desde una perspectiva filológica.',
     'CONC': 'Notas sobre conceptos y términos fundamentales en los poemas homéricos.',
     'TEXT': 'Comentarios de crítica textual.',
     'TRAD': 'Comentarios de traducción.',
@@ -100,7 +100,7 @@ class Text:
     def __init__(self, text):
         self.verses = []
         number = 1
-        for verse in text.split('\n'):
+        for verse in text.split('\n')[1:]:
             # remove blank spaces
             verse = verse.strip()
 
@@ -155,7 +155,9 @@ def generate_document(translation, greek, notes):
                                 text=text,
                                 get_reference_anchor=get_reference_anchor,
                                 get_tag_desc=get_tag_description,
-                                tags=[str(t) for t in TAGS if t != 'INTR']))
+                                tags=[str(t) for t in TAGS if t not in ['INTR',
+                                                                        'AVAN',
+                                                                        'TECN']]))
     print("Archivo generado: output.html")
 
 
@@ -169,7 +171,7 @@ def extract_tags(text):
     tags = [t[1] for t in tags]
     for tag in tags:
         if tag not in TAGS:
-            TAGS.append(tag)
+            raise Exception("Tag invalid " + tag)
     return tags, passage
 
 
@@ -225,9 +227,7 @@ def parse_txt(filename):
 
 
 def get_tag_description(name):
-    if name in TAGS_DESCRIPTION:
-        return TAGS_DESCRIPTION[name]
-    return name
+    return TAGS[name]
 
 
 if __name__ == '__main__':
