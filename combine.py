@@ -145,20 +145,22 @@ def get_reference_anchor(note):
     return identificator + str(note.canto) + '.' + str(note.verse)
 
 
-def generate_document(translation, greek, notes):
+def generate_document(translation, greek, notes, canto):
     file_loader = jinja2.FileSystemLoader('.')
     env = jinja2.Environment(loader=file_loader)
     template = env.get_template('template.html')
     text = zip(translation.verses, greek.verses)
-    with open('output.html', 'w+', encoding='utf-8') as f:
+    name = 'canto' + canto + '.html'
+    with open(name, 'w+', encoding='utf-8') as f:
         f.write(template.render(notes=notes,
                                 text=text,
                                 get_reference_anchor=get_reference_anchor,
                                 get_tag_desc=get_tag_description,
+                                canto=canto,
                                 tags=[str(t) for t in TAGS if t not in ['INTR',
                                                                         'AVAN',
                                                                         'TECN']]))
-    print("Archivo generado: output.html")
+    print("Archivo generado: " + name)
 
 
 def extract_tags(text):
@@ -175,8 +177,8 @@ def extract_tags(text):
     return tags, passage
 
 
-def get_notes_greek():
-    notes_source = parse_txt('sources/comentario.md')
+def get_notes_greek(canto):
+    notes_source = parse_txt('sources/' + canto + '/comentario.md')
     matches = re.findall('v. ([0-9]+), (.*?): (.*)', notes_source)
     notes = []
     count = 1
@@ -194,8 +196,8 @@ def get_notes_greek():
     return notes
 
 
-def get_notes_text():
-    notes_source = parse_txt('sources/notas.md').split('\n')
+def get_notes_text(canto):
+    notes_source = parse_txt('sources/' + canto + '/notas.md').split('\n')
     notes = []
     count = 1
     for idx, line in enumerate(notes_source):
@@ -231,14 +233,22 @@ def get_tag_description(name):
 
 
 if __name__ == '__main__':
-    translation_text = parse_txt('sources/traduccion.md')
+    if len(sys.argv) == 1:
+        print("Falta indicar número de canto")
+        exit(1)
+
+    canto = sys.argv[1]
+
+    print("Procesando canto " + canto)
+
+    translation_text = parse_txt('sources/' + canto + '/traduccion.md')
     translation = Text(translation_text)
 
-    greek_text = parse_txt('sources/griego.md')
+    greek_text = parse_txt('sources/' + canto + '/griego.md')
     greek = Text(greek_text)
 
-    notes_greek = get_notes_greek()
-    notes_text = get_notes_text()
+    notes_greek = get_notes_greek(canto)
+    notes_text = get_notes_text(canto)
 
     greek.add_passages_for_notes(notes_greek)
     translation.add_passages_for_notes(notes_text)
@@ -246,4 +256,4 @@ if __name__ == '__main__':
     notes = notes_greek + notes_text
     notes.sort(key=lambda n: n.verse)
 
-    generate_document(translation, greek, notes)
+    generate_document(translation, greek, notes, canto)

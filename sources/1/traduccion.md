@@ -60,12 +60,12 @@ entre ellos levantándose dijo Aquiles de pies veloces:
 “¡Atrida! Ahora nosotros, tras ir de vuelta errantes, pienso
 regresaremos de nuevo, si acaso escapásemos de la muerte,                                60
 si *a la vez* la guerra doblega y también la peste a los aqueos.
-Pero, ¡vamos!, a algún adivino preguntemos o sacerdote
+Pero, ¡ea, vamos!, a algún adivino preguntemos o sacerdote
 o incluso a un intérprete de sueños -pues también el sueño viene de Zeus-
 que pudiera decir por qué se irritó tanto Febo Apolo,
 si acaso *este* de un voto se queja o hecatombe,                                                65
 a ver si, tal vez, el aroma de grasa de ovejas y de cabras perfectas
-aceptando, quiere de nosotros la devastación apartar.”
+aceptando, quiere apartar de nosotros la devastación.”
 Y así aquel, tras hablar de este modo, se sentó; entre ellos se levantó 
 Calcas Testórida, el mejor por mucho de los augures, 
 que sabía lo que es, lo que será y lo que fue,                                                 70
@@ -359,7 +359,7 @@ Así habló derramando lágrimas, y lo oyó la venerable madre
 sentada en lo profundo del mar junto a su anciano padre.
 Velozmente ascendió desde el mar gris como la niebla
 y desde luego se sentó junto a aquel que derramaba lágrimas,                        360
-lo acarició con la mano, lo llamó y le dijo una palabra:
+lo acarició con la mano, lo llamó y le dijo estas palabras:
 “Hijo, ¿por qué llorás? ¿Qué pesar llegó a tus entrañas?
 Pronuncialo -no lo ocultés en tu pensamiento- para que lo sepamos ambos.”
 Y suspirando pesadamente le dijo Aquiles de pies veloces:
@@ -407,7 +407,7 @@ Egeón, pues este, a su vez, es en fuerza mejor que su padre;
 a este le temieron incluso los bienaventurados dioses y ya no lo ataron.
 Ahora, recordándole estas cosas, sentate a su lado y tomale las rodillas,
 por si acaso quisiera socorrer a los troyanos,
-y a estos, a los aqueos, acorralar detrás de las proas y junto al mar 
+y a estos, a los aqueos, acorralar detrás de las popas y junto al mar 
 mientras los matan, para que a todos les aproveche su rey,                                410
 y sepa también el Atrida Agamenón de vasto poder
 de su ceguera: que al mejor de los aqueos no honró nada.”
@@ -565,7 +565,7 @@ apartarte mucho; y esto para vos será incluso más terrible.
 Si esto es de este modo, será que es querido para mí;       
 pero sentate callada y hacé caso a mis palabras,                                        565
 no sea que no te protejan cuantos dioses hay en el Olimpo
-cuando, acercándome, ****te ponga las inefables manos encima.”
+cuando, acercándome, te ponga las inefables manos encima.”
 Así habló y temió Hera venerable, la de ojos de buey,
 y, claro, se sentó callada retorciendo el querido corazón;
 y se amargaron en la morada de Zeus los dioses celestiales.                               570

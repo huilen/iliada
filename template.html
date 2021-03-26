@@ -17,7 +17,7 @@
       }
 
       .sidenav {
-	  margin-top: 40px;
+	  margin-top: 80px;
 	  height: 70%;
 	  width: 30%;
 	  overflow-x: auto;
@@ -25,7 +25,7 @@
       }
 
       .main {
-	  margin-top: 40px;
+	  margin-top: 80px;
 	  float: left;
 	  overflow-y: scroll;
 	  width: 70%;
@@ -269,7 +269,11 @@
       <h1 class="title">iliada.com.ar</h1>
     </div>
     <div class="options">
-      <h1>Canto 1</h1>
+      <h1>Canto {{canto}}</h1>
+      <div class="cantos">
+      	<a href="canto1.html">Canto 1</a> | 
+      	<a href="canto16.html">Canto 16</a>
+      </div>
       <div>
 	Ver/ocultar
 	<input type="checkbox" id="show_translation" checked onclick="show_hide_notes()" /> traducción
