@@ -1333,7 +1333,7 @@ Verso 586
 **aunque estés preocupada**: Hay aquí una analepsis de 1.196 y 209, donde se habla de la preocupación de Hera respecto al ejército aqueo (VER *ad* 1.541). \[[TECN]\] [[FORM]]
 
 Verso 587
-**con mis ojos**: El giro es muy habitual y no tiene ningún valor específico. La idea es, según Schwyzer (2.458), que la imagen queda de alguna manera física en los ojos del receptor. \[[INTR]\] [[FORM]]
+**en mis ojos**: El giro es muy habitual y no tiene ningún valor específico. La idea es, según Schwyzer (2.458), que la imagen queda de alguna manera física en los ojos del receptor. \[[INTR]\] [[FORM]]
 
 Verso 588
 **y entonces no podré**: Hefesto repite casi textualmente las palabras de Aquiles en 1.241-242, es decir, el punto culminante de la formulación original de su promesa, reemplazando a Héctor por Zeus como agente de la violencia temida. La conexión entre los pasajes refuerza una asociación entre el héroe y el dios como co-agentes de la destrucción del ejército aqueo en el poema. \[[AVAN]\] [[FORM]] [[NARR]]
