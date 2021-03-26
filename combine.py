@@ -199,29 +199,34 @@ def get_notes_greek(canto):
 
 
 def get_notes_text(canto):
-    notes_source = parse_txt('sources/' + canto + '/notas.md').split('\n')
+    filename = 'sources/' + canto + '/notas.md'
+    notes_source = parse_txt(filename).split('\n')
     notes = []
     count = 1
     for idx, line in enumerate(notes_source):
         match = re.search('Verso ([0-9]+)', line)
-        if match:
-            number = int(match[1])
-            i = idx + 1
-            while len(notes_source) > i:
-                if notes_source[i].startswith('Verso '):
-                    break
-                if '#Referencia' in notes_source[i]:
-                    break
-                if not notes_source[i].strip():
-                    break
-                passage, body = notes_source[i].split(':', 1)
-                passage = passage.replace('*', '')
-                tags, body = extract_tags(body)
-                body = markdown(body)
-                note = Note(1, number, passage, body, count, 'text', tags)
-                notes.append(note)
-                count += 1
-                i += 1
+        try:
+            if match:
+                number = int(match[1])
+                i = idx + 1
+                while len(notes_source) > i:
+                    if notes_source[i].startswith('Verso '):
+                        break
+                    if '#Referencia' in notes_source[i]:
+                        break
+                    if not notes_source[i].strip():
+                        break
+                    passage, body = notes_source[i].split(':', 1)
+                    passage = passage.replace('*', '')
+                    tags, body = extract_tags(body)
+                    body = markdown(body)
+                    note = Note(1, number, passage, body, count, 'text', tags)
+                    notes.append(note)
+                    count += 1
+                    i += 1
+        except Exception as e:
+            print("Error procesando línea " + str(idx) + " en archivo " + filename)
+            raise e
     return notes
 
 

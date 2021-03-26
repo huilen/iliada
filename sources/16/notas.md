@@ -327,7 +327,7 @@ Verso 104
 
 Verso 105
 **resonaba**: La palabra griega *kanakhén* alude a un ruido metálico. Los cascos micénicos podían estar hechos de cuero, colmillos de jabalí o metal, como en este caso. Leer más: Borchhardt, J. (1972) *Homerische Helme: Helmformen der Agais in ihren Beziehungen zu orientalischen und europaiischen Helmen in der Bronze- und fruhen Eisenzeit*, Mainz am Rhein: P. von Zabern. \[[INTR]\] [[FORM]] [[HIST]]
-**
+
 Verso 106
 **bien elaborados relieves**: La palabra griega *phálar(a)* señala unos discos de metal, que no es claro si eran decorativos o parte integral de la estructura del casco (aunque, por supuesto, no son posibilidades incompatibles). Existe evidencia arqueológica del periodo arcaico del uso del enchapado como técnica para la elaboración de cascos. Leer más: Manti, P. y Watkinson, D. (2008) “From Homer to Hoplite: Scientific Investigations of Greek Copper Alloy Helmets”, en Paipetis, S. A. (ed.) *Science and Technology in Homeric Epics*, Dordrecht: Springer. \[[AVAN]\] [[FORM]] [[HIST]]
 **cansaba el hombro izquierdo**: En 13.709-711 el narrador observa que Áyax tenía servidores que cargaban su sin duda pesado escudo (VER *ad* 16.107) cuando el héroe se cansaba y “el sudor le llegaba a las rodillas,” pero ahora ha quedado solo contra los troyanos. El cansancio del hombro no debe entenderse solo por el esfuerzo del brazo, puesto que el escudo se colgaba con una correa del hombro para facilitar su uso. \[[AVAN]\] [[NARR]]
