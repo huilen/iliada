@@ -63,8 +63,9 @@ class Note:
             label = 'VER ' + kind + ' ' + match[1] + '.' + match[2]
             if 'Com.' != kind:
                 kind = 'ad'
+            canto = match[1]
             reference = kind[0] + match[1] + '.' + match[2]
-            body = body.replace(label, '<a href="#' + reference + '">' + label + '</a>')
+            body = body.replace(label, '<a href="canto' + canto + '.html#' + reference + '">' + label + '</a>')
         return body
 
 
@@ -145,7 +146,7 @@ def get_reference_anchor(note):
     return identificator + str(note.canto) + '.' + str(note.verse)
 
 
-def generate_document(translation, greek, notes, canto):
+def generate_document(translation, greek, notes, canto, color):
     file_loader = jinja2.FileSystemLoader('.')
     env = jinja2.Environment(loader=file_loader)
     template = env.get_template('template.html')
@@ -154,6 +155,7 @@ def generate_document(translation, greek, notes, canto):
     with open(name, 'w+', encoding='utf-8') as f:
         f.write(template.render(notes=notes,
                                 text=text,
+                                background_color=color,
                                 get_reference_anchor=get_reference_anchor,
                                 get_tag_desc=get_tag_description,
                                 canto=canto,
@@ -238,6 +240,10 @@ if __name__ == '__main__':
         exit(1)
 
     canto = sys.argv[1]
+    if len(sys.argv) == 3:
+        color = sys.argv[2]
+    else:
+        color = 'f2eee8'
 
     print("Procesando canto " + canto)
 
@@ -256,4 +262,4 @@ if __name__ == '__main__':
     notes = notes_greek + notes_text
     notes.sort(key=lambda n: n.verse)
 
-    generate_document(translation, greek, notes, canto)
+    generate_document(translation, greek, notes, canto, color)
