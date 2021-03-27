@@ -65,7 +65,11 @@ class Note:
                 kind = 'ad'
             canto = match[1]
             reference = kind[0] + match[1] + '.' + match[2]
-            body = body.replace(label, '<a href="canto' + canto + '.html#' + reference + '">' + label + '</a>')
+            if int(canto) != int(self.canto):
+                target = 'target="_blank"'
+            else:
+                target = ''
+            body = body.replace(label, '<a ' + target + ' href="canto' + canto + '.html#' + reference + '">' + label + '</a>')
         return body
 
 
@@ -192,7 +196,7 @@ def get_notes_greek(canto):
         body = match[2]
         tags, body = extract_tags(body)
         body = markdown(body)
-        note = Note(1, number, passage, body, count, 'greek', tags)
+        note = Note(canto, number, passage, body, count, 'greek', tags)
         notes.append(note)
         count += 1
     return notes
@@ -220,7 +224,7 @@ def get_notes_text(canto):
                     passage = passage.replace('*', '')
                     tags, body = extract_tags(body)
                     body = markdown(body)
-                    note = Note(1, number, passage, body, count, 'text', tags)
+                    note = Note(canto, number, passage, body, count, 'text', tags)
                     notes.append(note)
                     count += 1
                     i += 1
