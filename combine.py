@@ -23,7 +23,9 @@ TAGS = {
     'HIST': 'Notas sobre historia y arqueología.',
     'ESTR': 'Notas sobre estructura de discursos, episodios y el poema.',
     'MITO': 'Notas sobre mitología y religión griegas.',
-    'INTP': 'Notas sobre problemas de interpretación del texto o la narración.'
+    'INTP': 'Notas sobre problemas de interpretación del texto o la narración.',
+    'NOTE': 'Notas al texto traducido.',
+    'COMM': 'Comentario al texto griego.'
 }
 
 
@@ -195,6 +197,7 @@ def get_notes_greek(canto):
         passage = reg.sub('', passage)
         body = match[2]
         tags, body = extract_tags(body)
+        tags.append('COMM')
         body = markdown(body)
         note = Note(canto, number, passage, body, count, 'greek', tags)
         notes.append(note)
@@ -223,6 +226,7 @@ def get_notes_text(canto):
                     passage, body = notes_source[i].split(':', 1)
                     passage = passage.replace('*', '')
                     tags, body = extract_tags(body)
+                    tags.append('NOTE')
                     body = markdown(body)
                     note = Note(canto, number, passage, body, count, 'text', tags)
                     notes.append(note)

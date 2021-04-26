@@ -208,6 +208,8 @@
               $('.main').width('100%');
               $('.main').css('display', '');
               $('.sidenav').css('display', 'none');
+              show_notes_for_tag('COMM', false)
+              show_notes_for_tag('NOTE', false)
           } else if (trad && orig && notes) {
               $('.main').width('70%');
               $('.main').css('display', '');
@@ -215,6 +217,8 @@
               $('.sidenav').css('display', '');
               $('.verse_translated').css('display', '');
               $('.verse_original').css('display', '');
+              show_notes_for_tag('COMM', true)
+              show_notes_for_tag('NOTE', true)
           } else if (trad && !orig && notes) {
               $('.main').width('50%');
               $('.main').css('display', '');
@@ -222,6 +226,8 @@
               $('.sidenav').css('display', '');
               $('.verse_translated').css('display', '');
               $('.verse_original').css('display', 'none');
+              show_notes_for_tag('COMM', false)
+              show_notes_for_tag('NOTE', true)
           } else if (!trad && orig && notes) {
               $('.main').width('50%');
               $('.main').css('display', '');
@@ -229,25 +235,36 @@
               $('.sidenav').css('display', '');
               $('.verse_translated').css('display', 'none');
               $('.verse_original').css('display', '');
+              show_notes_for_tag('COMM', true)
+              show_notes_for_tag('NOTE', false)
           } else if (trad && !orig && !notes) {
               $('.main').width('100%');
               $('.main').css('display', '');
-              $('.sidenav').css('display', '');
+              $('.sidenav').css('display', 'none');
               $('.verse_translated').css('display', '');
               $('.verse_original').css('display', 'none');
+              show_notes_for_tag('COMM', false)
+              show_notes_for_tag('NOTE', false)
           } else if (!trad && orig && !notes) {
               $('.main').width('100%');
               $('.main').css('display', '');
-              $('.sidenav').css('display', '');
+              $('.sidenav').css('display', 'none');
               $('.verse_translated').css('display', 'none');
               $('.verse_original').css('display', '');
+              show_notes_for_tag('COMM', false)
+              show_notes_for_tag('NOTE', false)
           } else if (!trad && !orig && notes) {
               $('.main').css('display', 'none');
               $('.sidenav').width('100%');
               $('.sidenav').css('display', '');
+              show_notes_for_tag('COMM', true)
+              show_notes_for_tag('NOTE', true)
           } else if (!trad && !orig && !notes) {
               $('.main').css('display', 'none');
               $('.sidenav').css('display', 'none');
+              $('.sidenav').css('display', 'none');
+              show_notes_for_tag('COMM', false)
+              show_notes_for_tag('NOTE', false)
           }
       }
       function show_notes_for_tag(tag, value) {
