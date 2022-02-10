@@ -1,0 +1,27 @@
+1: ff0800 	#ffe6e6		#ffebeb
+2: ff5500	#ffeee6		#fff1eb
+3: ffb600	#fff8e6		#fff9eb
+4: fff000	#fffee6		#fffeeb
+5: c1ff00	#f9ffe6		#faffeb
+6: 65ff00	#f0ffe6		#f3ffeb
+7: 17ff00	#e8ffe6		#edffeb
+8: 00ff45	#e6ffec		#ebfff0
+9: 00ff62	#e6ffef		#ebfff2
+10: 00ffb4	#e6fff8		#ebfff9
+11: 00ffe0	#e6fffc		#ebfffd
+12: 00cffd	#e6faff		#ebfbff
+13: 00a7ff	#e6f6ff		#ebf8ff
+14: 0072ff	#e6f1ff		#ebf4ff
+15: 001fff	#e6e9ff		#ebedff
+16: 5e00ff	#efe6ff		#f2ebff
+17: 6800ff	#f0e6ff		#f3ebff
+18: 8f00ff	#f4e6ff		#f6ebff
+19: c400ff	#f9e6ff		#faebff
+20: f000ff	#fee6ff		#feebff
+21: ff00e8	#ffe6fd		#ffebfd
+22: ff0095	#ffe6f4		#ffebf6
+23: ff006a	#ffe6f0		#ffebf3
+24: ff0041	#ffe6ec		#ffebf0
+
+
+

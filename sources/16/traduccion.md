@@ -1,6 +1,6 @@
 # Ilíada 16
 Así ellos por la nave de buenos bancos combatían;
-y Patroclo se presentaba a Aquiles, comandante de tropas,
+y Patroclo se presentaba a Aquiles, pastor de tropas,
 derramando tibias lágrimas, así como fuente de agua negra
 que por una roca escarpada derrama su sombría agua.
 Y viéndolo se compadeció Aquiles divino de pies rápidos 5
@@ -92,7 +92,7 @@ contra los troyanos, amantes de la guerra; me dejarías más deshonrado. 90
 Ni, ufanándote en la guerra y la batalla,
 guíes hacia Ilión aniquilándolos a los troyanos,
 no sea que alguno de los dioses sempiternos desde el Olimpo
-intervenga; mucho los quiere *a ellos* Apolo, que obra de lejos;
+intervenga; mucho los quiere *a ellos* Apolo, el que obra de lejos;
 pero retorná, después de que en las naves luz 95
 pongas, y a ellos dejalos en la llanura batallar.
 Ojalá, padre Zeus y también Atenea y Apolo,
@@ -117,7 +117,7 @@ golpeó con la gran espada por detrás, junto al empalme de la punta, 115
 y la cercenó completa; esta Áyax Telamonio
 la blandió así en la mano, a la lanza truncada, y lejos de él
 la broncínea punta retumbó sobre el piso, cayendo.
-Y supo Áyax en su irreprochable ánimo y se turbó
+Y supo Áyax en su insuperable ánimo y se turbó
 ante las acciones de los dioses, que le cortaba del todo los planes 120
 Zeus altitonante, y deseaba la victoria para los troyanos;
 y se retiró de las saetas. Y ellos arrojaron incansable fuego
@@ -138,7 +138,7 @@ broncínea, y luego el grande y macizo escudo;
 y sobre la fuerte cabeza colocó el bien fabricado yelmo,
 crinado, y tremendamente desde la punta se inclinaba el penacho.
 Y tomó dos firmes lanzas, que se le ajustaban a las manos,
-y solo no tomó la pica del irreprochable Eácida, 140
+y solo no tomó la pica del insuperable Eácida, 140
 pesada, grande, maciza; esta no podía ningún otro de los Aqueos
 blandirla, sino que solo sabía blandirla Aquiles,
 al fresno del Pelión, que procuró Quirón a su querido padre
@@ -150,7 +150,7 @@ Para él también Automedonte puso el yugo a los veloces caballos,
 Zaino y Overo, los dos que a la par de los vientos volaban,
 los que parió para el Céfiro la harpía Podarga, 150
 paciendo en una pradera junto a la corriente del Océano;
-y en el costado puso al irreprochable Pédaso,
+y en el costado puso al insuperable Pédaso,
 ese al que alguna vez, tras tomar la ciudad de Eetión, condujo Aquiles,
 aquel que, aun siendo mortal, seguía a caballos inmortales.
 Y, claro, yendo y viniendo, a los mirmidones armó Aquiles, 155
@@ -195,7 +195,7 @@ Y la tercera el belicoso Pisandro la guiaba,
 el Memálida, que entre todos los mirmidones se distinguía
 en el pelear con la pica, después del compañero del Pelión. 195
 Y la cuarta la lideraba el anciano Fénix, conductor de carros,
-y la quinta, Alcimedonte, irreprochable hijo de Laerces.
+y la quinta, Alcimedonte, insuperable hijo de Laerces.
 Pero después de que Aquiles a todos junto a los líderes
 los formó, distribuyéndolos bien, comandó con fuertes palabras:
 “Mirmidones, que ninguno se me olvide de las amenazas 200
@@ -220,14 +220,14 @@ Y enfrente de todos dos varones se armaron,
 Patroclo y Automedonte, teniendo un solo ánimo,
 para guerrear al frente de los mirmidones. Por su parte, Aquiles, 220
 desde luego, echó a andar hacia su tienda, y abrió la tapa de un cofre
-hermoso, labrado, que para él Tetis de pies de plata
+bello, labrado, que para él Tetis de pies de plata
 puso en la nave para que lo llevara, llenándolo bien de túnicas,
 y de mantos protectores de los vientos y de lanudos cobertores,
 y donde tenía una trabajada copa, y ningún otro, 225
 ninguno de los varones, bebía de *ella* refulgente vino,
 ni a ninguno de los dioses libaba, cuando no al padre Zeus.
 A aquella, entonces, tras tomarla del cofre, la limpió con azufre
-primero, y luego la lavó con hermosos chorros de agua,
+primero, y luego la lavó con bellos chorros de agua,
 y se lavó él mismo las manos, y sacó reluciente vino. 230
 Rogó, luego, tras pararse en el medio del cerco, y vertió el vino
 mirando al firmamento; y no lo desatendió Zeus, que goza del trueno:
@@ -239,7 +239,7 @@ me honraste y oprimiste mucho al pueblo de los aqueos,
 y ahora, de nuevo, también cúmpleme a mí este deseo;
 pues yo mismo me quedo en el encuentro de naves,
 pero a mi compañero mando entre muchos mirmidones 240
-a pelear; junto a este envía gloria, Zeus ****de vasta voz,
+a pelear; junto a este envía gloria, Zeus de vasta voz,
 y envalentónale el corazón en las entrañas, para que incluso Héctor
 vea si en verdad también sabe guerrear solo
 nuestro servidor, o si a él las manos invictas solo entonces
@@ -280,7 +280,7 @@ Los troyanos, cuando vieron al firme hijo de Menecio,
 a él mismo y a su servidor, resplandecientes con sus armas, 
 a todos se les conmocionó el ánimo y se conmovieron las falanges, 280
 pensando que junto a las naves el Pelión de pie veloz
-había desechado su encolerizamiento**,** y preferido la amistad;
+había desechado su encolerizamiento, y preferido la amistad;
 y cada uno escrutaba por dónde escaparía de la infranqueable destrucción.
 Patroclo, el primero, disparó la lanza reluciente
 directo hacia el centro, donde la mayoría se agitaba, 285
@@ -371,7 +371,7 @@ troyana, a los que contra su voluntad el excavado foso retenía.
 Muchos veloces caballos tiradores de carros en el foso 370
 dejaron los carros de los soberanos rotos en la punta de la vara, 
 y Patroclo los seguía frenéticamente dando órdenes a los dánaos,
-pensando males para los troyanos;  y ellos con alaridos y espanto
+pensando males para los troyanos; y ellos con alaridos y espanto
 todos los caminos llenaron, dispersados. Y en lo alto una polvareda
 se esparcía hacia las nubes, y los solípedos caballos galopaban 375
 volviendo, hacia la ciudad, desde las naves y las tiendas.
@@ -432,7 +432,7 @@ así ellos, chillando, se arremetieron el uno al otro. 430
 Y viéndolos se compadeció el hijo de Crono de retorcido ingenio
 y le dijo a Hera, su hermana y esposa:
 “¡Ay de mí, que Sarpedón, el más querido para mí de los varones,
-está decretado que ****por Patroclo Menetíada sea doblegado!
+está decretado que por Patroclo Menetíada sea doblegado!
 Hacia dos lados se me tira el corazón en las turbulentas entrañas; 435
 o vivo sacándolo del combate lleno de lágrimas,
 ponerlo, habiéndolo removido, en el fecundo pueblo de Licia,
@@ -460,7 +460,7 @@ Así habló, y no desobedeció el padre de varones y dioses;
 y vertió sangrientas gotas sobre la tierra,
 honrando a su hijo querido, al que Patroclo le estaba 460
 por matar en la fértil Troya, lejos de su patria.
-Y ellos, en cuanto ****estuvieron cerca yendo el uno sobre el otro,
+Y ellos, en cuanto estuvieron cerca yendo el uno sobre el otro,
 así, entonces, Patroclo al muy renombrado Trasidemo,
 a ese que era buen servidor del soberano Sarpedón,
 a este hirió en la parte baja del estómago, y aflojó sus miembros. 465
@@ -511,7 +511,7 @@ y se le conmocionó el corazón, que no podía ir en su ayuda.
 y agarrándolo con su mano se apretaba el brazo; pues lo agobiaba 510
 una lesión, aquella que Teucro le hizo con un dardo cuando arremetía
 la elevada muralla, apartando la ruina de los compañeros.
-Y rogando, claro, habló a Apolo que hiere de lejos:
+Y rogando, claro, habló a Apolo, el que hiere de lejos:
 “Escúchame, soberano, que acaso en el fecundo pueblo de Licia
 estás o en Troya; tú puedes desde cualquier lado oír  515
 al varón angustiado, como ahora una angustia me alcanza.
@@ -528,7 +528,7 @@ y yo mismo en torno al cadáver caído combata.”
 Así habló rogando y lo escuchó Febo Apolo.
 Enseguida hizo cesar los dolores, y de la lacerante lesión
 secó la negra sangre, y le arrojó furor en el ánimo.
-Y Glauco lo reconoció en sus entrañas y se alegró, 530
+Y Glauco se dio cuenta en sus entrañas y se alegró, 530
 porque velozmente lo escuchó el gran dios rogando.
 Primero, alentó a los varones líderes de los licios,
 corriendo por todas partes, para que en torno a Sarpedón combatieran;
@@ -601,7 +601,7 @@ y retumbó al caer; y un denso sufrimiento tomó a los aqueos,
 porque cayó un noble varón; y se regocijaron mucho los troyanos, 600
 y se pararon en torno a aquel yendo en bloque; y, claro, los aqueos
 no olvidaron su brío, y su furor llevaron derecho contra ellos.
-Y he aquí que Meriones sometió a un varón portador de casco,
+Y he aquí que Meriones sometió a un varón troyano portador de casco,
 a Laógono, osado hijo de Onétor, que sacerdote de Zeus
 Ideo era, y como un dios era honrado por el pueblo. 605
 Lo hirió bajo la mandíbula y la oreja; y velozmente el ánimo
@@ -623,7 +623,7 @@ de todos los hombres el furor extingas, de cada uno que frente a ti
 llegara defendiéndose; ¡también vos sos mortal!
 También si yo te hiriera alcanzándote en el centro con el agudo bronce,
 pronto, aun siendo vigoroso, aun confiado en tus manos,
-prestigio a mí me darías, y la vida, al Hades de famosos corceles.” 625
+el triunfo a mí me darías, y la vida, al Hades de famosos corceles.” 625
 Así habló, y le reprochó el firme hijo de Menecio:
 “Meriones, ¿por qué decís esas cosas vos también, siendo noble?
 ¡Carísimo! De ningún modo los troyanos con reprensivas palabras
@@ -709,13 +709,13 @@ dando gritos tremendamente le dijo estas aladas palabras:
 que por tu lanza sea arrasada la ciudad de los orgullosos troyanos,
 ni siquiera por la de Aquiles, que es mucho mejor que tú!”
 Así habló, y Patroclo se retiró bien hacia atrás, 710
-esquivando la cólera de Apolo que hiere de lejos.
+esquivando la cólera de Apolo, el que hiere desde lejos.
 Y Héctor en las puertas Esceas retenía a los solípedos caballos,
 pues dudaba si combatiría, dirigiéndolos de nuevo hacia la muchedumbre,
 o si ordenaría a gritos que las tropas se refugiaran tras la muralla.
 Esas cosas pensaba él y se le paró al lado Febo Apolo, 715
 habiendo tomado la apariencia de un varón, lozano y fuerte,
-Asio, que era tío materno de Héctor, domador de caballos,
+Asio, que era tío materno de Héctor domador de caballos,
 el hermano mismo de Hécabe, e hijo de Dimante,
 que habitaba en Frigia junto a las corrientes del Sangario;
 habiendo tomado la apariencia de este, le dijo Apolo, hijo de Zeus: 720
@@ -723,7 +723,7 @@ habiendo tomado la apariencia de este, le dijo Apolo, hijo de Zeus: 720
 Ojalá fuera tan superior a vos cuanto soy inferior;
 entonces, pronto te sería aciago apartarte de la guerra.
 Pero, ¡vamos!, dirige contra Patroclo los caballos de fuertes pezuñas,
-por si acaso lo sometes, y te da prestigio Apolo.” 725
+por si acaso lo sometes, y te da el triunfo Apolo.” 725
 Habiendo hablado así, él volvió, el dios, a la labor de los varones,
 y al aguerrido Cebriones ordenó el ilustre Héctor
 fustigar los caballos hacia la guerra; por su parte, Apolo,
@@ -852,7 +852,7 @@ y entre los varones, Euforbo, y vos el tercero me asesinás. 850
 Y otra cosa te voy a decir, y vos arrojala en tus entrañas:
 sin duda vos tampoco vivirás largo tiempo, sino que ya junto a ti
 cerca se ha parado la muerte y la moira imponente,
-doblegado por las manos del irreprochable Aquiles Eácida.”
+doblegado por las manos del insuperable Aquiles Eácida.”
 Así, claro, a él, tras decir esto, el final de la muerte lo cubrió 855
 y la vida, volando de sus miembros, marchó hacia el Hades,
 su sino llorando, abandonando la virilidad y la juventud.
