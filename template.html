@@ -9,6 +9,13 @@
 	  background-color: #{{background_color}};
       }
 
+      .show_headers_button {
+	  display: none;
+      }
+
+      .hide_headers_button {
+      }
+
       .header {
 	  background-image:
 	      url('http://iliada.com.ar/wp-content/uploads/2019/03/cropped-Imagen-1.jpg');
@@ -17,19 +24,19 @@
       }
 
       .sidenav {
-	  margin-top: 80px;
-	  height: 70%;
+	  margin-top: 100px;
+	  height: 50%;
 	  width: 30%;
 	  overflow-x: auto;
 	  word-break: break-word;
       }
 
       .main {
-	  margin-top: 80px;
+	  margin-top: 100px;
 	  float: left;
 	  overflow-y: scroll;
 	  width: 70%;
-	  height: 70%;
+	  height: 50%;
 	  overflow-x: auto;
 	  word-break: break-word;
       }
@@ -200,6 +207,22 @@
     </style>
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script>
+      function hide_headers() {
+	  $('#navbar').hide();
+	  $('#main').css('margin-top', '0px');
+	  $('#main').height('95%');
+	  $('#sidenav').css('margin-top', '0px');
+	  $('#sidenav').height('95%');
+	  $('.show_headers_button').show();
+      }
+      function show_headers() {
+	  $('#navbar').show();
+	  $('#main').css('margin-top', '80px');
+	  $('#main').height('50%');
+	  $('#sidenav').css('margin-top', '80px');
+	  $('#sidenav').height('50%');
+	  $('.show_headers_button').hide();
+      }
       function show_hide_notes() {
           trad = $('#show_translation').is(':checked');
           orig = $('#show_greek').is(':checked');
@@ -281,59 +304,73 @@
     </script>
   </head>
   <body>
-    <div class="header">
-      <h1 class="title">iliada.com.ar</h1>
+    <div id="navbar">
+      <div class="hide_headers_button">
+	<a href="#" onclick="hide_headers()">
+	  <img height="20px" width="20px"  src="minimize.png"></img>
+	  Ocultar encabezados
+	</a>
+      </div>
+      <div class="header">
+	<h1 class="title">iliada.com.ar</h1>
+      </div>
+      <div class="options">
+	<h1>Canto {{canto}}</h1>
+	<div class="cantos">
+      	  <a href="canto1.html">Canto 1</a> | 
+	  <a href="canto2.html">Canto 2</a> | 
+	  <a href="canto3.html">Canto 3</a> |
+	  <a href="canto4.html">Canto 4</a> |
+	  <a href="canto5.html">Canto 5</a> |
+	  <a href="canto15.html">Canto 15</a> |
+	  <a href="canto16.html">Canto 16</a> |		
+      	  <a href="canto22.html">Canto 22</a>
+	</div>
+	<div>
+	  Ver/ocultar
+	  <input type="checkbox" id="show_translation" checked onclick="show_hide_notes()" /> traducción
+	  <input type="checkbox" id="show_greek" checked onclick="show_hide_notes()" /> griego
+	  <input type="checkbox" id="show_notes" checked onclick="show_hide_notes()" /> notas
+	</div>
+	<br />
+	<div>
+	  <div class="tooltip">Tipos de notas
+	    <span class="tooltiptext">Seleccionar el tipo de notas que se desea ver en el cuadro de la derecha.</span>
+      	  </div>
+          <div class="tooltip">
+            <span class="tooltiptext">Notas introductorias</span>
+            <input type="checkbox" checked="checked"
+                   onclick="show_notes_for_tag('INTR',
+                            this.checked)">INTR</input>
+          </div>
+          <div class="tooltip">
+            <span class="tooltiptext">Notas con información avanzada sobre el texto y aproximaciones básicas de análisis, dirigidas a lectores familiarizados con la cultura griega antigua interesados en su análisis literario.</span>
+            <input type="checkbox" checked="checked"
+                   onclick="show_notes_for_tag('AVAN',
+                            this.checked)">AVAN</input>
+          </div>
+          <div class="tooltip">
+            <span class="tooltiptext">Notas sobre problemas específicos del texto en las diferentes categorías, dirigidas a especialistas que quieren aproximarse al poema desde una perspectiva filológica.</span>
+            <input type="checkbox" checked="checked"
+                   onclick="show_notes_for_tag('TECN',
+                            this.checked)">TECN</input>
+          </div>
+          <br />
+          {% for tag in tags %}
+          <div class="tooltip">
+            <span class="tooltiptext">{{get_tag_desc(tag)}}</span>
+            <input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{tag}}', this.checked)">{{tag}}</input>
+          </div>
+          {% endfor %}
+	</div>
+      </div>
     </div>
-    <div class="options">
-      <h1>Canto {{canto}}</h1>
-      <div class="cantos">
-      	<a href="canto1.html">Canto 1</a> | 
-		<a href="canto2.html">Canto 2</a> | 
-		<a href="canto3.html">Canto 3</a> |
-		<a href="canto4.html">Canto 4</a> |
-		<a href="canto5.html">Canto 5</a> |
-		<a href="canto15.html">Canto 15</a> |
-		<a href="canto16.html">Canto 16</a> |		
-      	<a href="canto22.html">Canto 22</a>
-      </div>
-      <div>
-	Ver/ocultar
-	<input type="checkbox" id="show_translation" checked onclick="show_hide_notes()" /> traducción
-	<input type="checkbox" id="show_greek" checked onclick="show_hide_notes()" /> griego
-	<input type="checkbox" id="show_notes" checked onclick="show_hide_notes()" /> notas
-      </div>
-      <br />
-      <div>
-	<div class="tooltip">Tipos de notas
-	  <span class="tooltiptext">Seleccionar el tipo de notas que se desea ver en el cuadro de la derecha.</span>
-      	</div>
-        <div class="tooltip">
-          <span class="tooltiptext">Notas introductorias</span>
-          <input type="checkbox" checked="checked"
-                 onclick="show_notes_for_tag('INTR',
-                          this.checked)">INTR</input>
-        </div>
-        <div class="tooltip">
-          <span class="tooltiptext">Notas con información avanzada sobre el texto y aproximaciones básicas de análisis, dirigidas a lectores familiarizados con la cultura griega antigua interesados en su análisis literario.</span>
-          <input type="checkbox" checked="checked"
-                 onclick="show_notes_for_tag('AVAN',
-                          this.checked)">AVAN</input>
-        </div>
-        <div class="tooltip">
-          <span class="tooltiptext">Notas sobre problemas específicos del texto en las diferentes categorías, dirigidas a especialistas que quieren aproximarse al poema desde una perspectiva filológica.</span>
-          <input type="checkbox" checked="checked"
-                 onclick="show_notes_for_tag('TECN',
-                          this.checked)">TECN</input>
-        </div>
-        <br />
-        {% for tag in tags %}
-        <div class="tooltip">
-          <span class="tooltiptext">{{get_tag_desc(tag)}}</span>
-          <input type="checkbox" checked="checked" onclick="show_notes_for_tag('{{tag}}', this.checked)">{{tag}}</input>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
+</div>
+<div class="show_headers_button">
+  <a href="#" onclick="show_headers()">
+    <img height="20px" width="20px"  src="minimize.png"></img>
+    Mostrar encabezados
+  </a>
 </div>
 <div class="main" id="main">
   <div class="text">
