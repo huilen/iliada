@@ -10,6 +10,34 @@ from enum import Enum
 from markdown import markdown
 
 
+COLORS = {
+    '1': 'f2eee8',
+    '2': 'f2eee8',
+    '3': 'f2eee8',
+    '4': 'f2eee8',
+    '5': 'f2eee8',
+    '6': 'f2eee8',
+    '7': 'f2eee8',
+    '8': 'f2eee8',
+    '9': 'f2eee8',
+    '10': 'f2eee8',
+    '11': 'f2eee8',
+    '12': 'f2eee8',
+    '13': 'f2eee8',
+    '14': 'f2eee8',
+    '15': 'f2eee8',
+    '16': 'f2eee8',
+    '17': 'f2eee8',
+    '18': 'f2eee8',
+    '19': 'f2eee8',
+    '20': 'f2eee8',
+    '21': 'f2eee8',
+    '22': 'f2eee8',
+    '23': 'f2eee8',
+    '24': 'f2eee8'
+}
+
+
 TAGS = {
     'INTR': 'Notas introductorias a personajes y conceptos clave del mundo homérico.',
     'AVAN': 'Notas con información avanzada sobre el texto y aproximaciones básicas de análisis, dirigidas a lectores familiarizados con la cultura griega antigua interesados en su análisis literario.',
@@ -247,16 +275,8 @@ def get_tag_description(name):
     return TAGS[name]
 
 
-if __name__ == '__main__':
-    if len(sys.argv) == 1:
-        print("Falta indicar número de canto")
-        exit(1)
-
-    canto = sys.argv[1]
-    if len(sys.argv) == 3:
-        color = sys.argv[2]
-    else:
-        color = 'f2eee8'
+def generate_document_for_canto(canto):
+    color = COLORS[canto]
 
     print("Procesando canto " + canto)
 
@@ -276,3 +296,11 @@ if __name__ == '__main__':
     notes.sort(key=lambda n: n.verse)
 
     generate_document(translation, greek, notes, canto, color)
+
+
+if __name__ == '__main__':
+    for canto in range(1, 24):
+        try:
+            generate_document_for_canto(str(canto))
+        except Exception as e:
+            print(e)
